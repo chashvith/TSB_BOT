@@ -1,6 +1,6 @@
 # TSB Bot - Telugu Study Buddies
 
-TSB Bot is a Discord productivity and community bot built for Telugu Study Buddies servers.
+TSB Bot is a Discord productivity and community bot built for Telugu Study Buddies server.
 It combines smart buddy matching, study tracking, reminders, quiz duels, and community automation in one bot.
 
 ## What The Bot Can Do
