@@ -1,0 +1,20 @@
+{
+  "name": "tsb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "quiz:fix": "node scripts/fix-quiz-questions.js",
+    "quiz:validate": "node scripts/validate-quiz-questions.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.26.3",
+    "dotenv": "^17.4.2"
+  }
+}

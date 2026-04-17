@@ -1,0 +1,4402 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Tech Modern Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language"
+    ],
+    "answer": "Hyper Text Markup Language",
+    "difficulty": "basic"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": [
+      "Cascading Style Sheets",
+      "Computer Style Sheets",
+      "Colorful Style Sheets",
+      "Creative Style Sheets"
+    ],
+    "answer": "Cascading Style Sheets",
+    "difficulty": "basic"
+  },
+  {
+    "question": "What is the correct syntax for a JavaScript variable?",
+    "options": [
+      "var x = 5;",
+      "variable x = 5;",
+      "v x = 5;",
+      "x := 5;"
+    ],
+    "answer": "var x = 5;",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Which keyword is used to declare a variable in JavaScript?",
+    "options": [
+      "var",
+      "let",
+      "const",
+      "All of these"
+    ],
+    "answer": "All of these",
+    "difficulty": "basic"
+  },
+  {
+    "question": "What is the correct way to write a comment in Python?",
+    "options": [
+      "# This is a comment",
+      "// This is a comment",
+      "/* This is a comment */",
+      "-- This is a comment"
+    ],
+    "answer": "# This is a comment",
+    "difficulty": "basic"
+  },
+  {
+    "question": "What does API stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Advanced Programming Integration",
+      "Application Process Interface",
+      "Advanced Process Integration"
+    ],
+    "answer": "Application Programming Interface",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the purpose of a loop in programming?",
+    "options": [
+      "To repeat code blocks",
+      "To declare variables",
+      "To create functions",
+      "To import libraries"
+    ],
+    "answer": "To repeat code blocks",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which data type stores text in most programming languages?",
+    "options": [
+      "String",
+      "Integer",
+      "Boolean",
+      "Float"
+    ],
+    "answer": "String",
+    "difficulty": "basic"
+  },
+  {
+    "question": "What is an array?",
+    "options": [
+      "A collection of elements",
+      "A single variable",
+      "A function",
+      "A method"
+    ],
+    "answer": "A collection of elements",
+    "difficulty": "basic"
+  },
+  {
+    "question": "What does OOP stand for?",
+    "options": [
+      "Object-Oriented Programming",
+      "Open-Oriented Programming",
+      "Object-Operated Programming",
+      "Open-Operated Programming"
+    ],
+    "answer": "Object-Oriented Programming",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[1] What is a function?",
+    "options": [
+      "A reusable block of code",
+      "A variable",
+      "A loop",
+      "A data type"
+    ],
+    "answer": "A reusable block of code",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[1] What is a class?",
+    "options": [
+      "A blueprint for objects",
+      "A function",
+      "A variable",
+      "A module"
+    ],
+    "answer": "A blueprint for objects",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[1] What is inheritance?",
+    "options": [
+      "A class inheriting from another",
+      "Creating copies",
+      "Passing data",
+      "Declaring variables"
+    ],
+    "answer": "A class inheriting from another",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[1] What is polymorphism?",
+    "options": [
+      "Methods with same name, different behavior",
+      "Using multiple classes",
+      "Creating multiple objects",
+      "Inheriting methods"
+    ],
+    "answer": "Methods with same name, different behavior",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[1] What is abstraction?",
+    "options": [
+      "Hiding complex details",
+      "Creating abstract classes",
+      "Using interfaces",
+      "Base classes"
+    ],
+    "answer": "Hiding complex details",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[1] What is encapsulation?",
+    "options": [
+      "Bundling data and methods",
+      "Creating modules",
+      "Using libraries",
+      "Organizing code"
+    ],
+    "answer": "Bundling data and methods",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[1] What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Operating Network",
+      "Java System Object"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[1] What is REST API?",
+    "options": [
+      "Architectural style for web services",
+      "Database query",
+      "Programming language",
+      "Framework"
+    ],
+    "answer": "Architectural style for web services",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[1] What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Tech Transfer Protocol",
+      "Home Text Transfer",
+      "Hyper Tech Transmission"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[1] What is Git?",
+    "options": [
+      "Version control system",
+      "Programming language",
+      "Database",
+      "IDE"
+    ],
+    "answer": "Version control system",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[2] What is SQL?",
+    "options": [
+      "Structured Query Language",
+      "Strong Query Language",
+      "System Query Language",
+      "Simple Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[2] What is a framework?",
+    "options": [
+      "Pre-built structure for development",
+      "A library",
+      "A design pattern",
+      "A package"
+    ],
+    "answer": "Pre-built structure for development",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[2] What is React?",
+    "options": [
+      "JavaScript library for UIs",
+      "Programming language",
+      "Database",
+      "Mobile framework"
+    ],
+    "answer": "JavaScript library for UIs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[2] What is Vue.js?",
+    "options": [
+      "Progressive JavaScript framework",
+      "Template engine",
+      "Testing tool",
+      "Compiler"
+    ],
+    "answer": "Progressive JavaScript framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[2] What is Angular?",
+    "options": [
+      "Typescript-based framework",
+      "Server-side framework",
+      "Mobile development framework",
+      "Database framework"
+    ],
+    "answer": "Typescript-based framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[2] What is Node.js?",
+    "options": [
+      "JavaScript runtime environment",
+      "JavaScript language",
+      "Web browser",
+      "Operating system"
+    ],
+    "answer": "JavaScript runtime environment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[2] What is npm?",
+    "options": [
+      "Node Package Manager",
+      "Network Package Manager",
+      "Node Programming Manager",
+      "Network Protocol Manager"
+    ],
+    "answer": "Node Package Manager",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[2] What is a package?",
+    "options": [
+      "A module with code and metadata",
+      "A compressed file",
+      "A library",
+      "A framework"
+    ],
+    "answer": "A module with code and metadata",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[2] What is asynchronous programming?",
+    "options": [
+      "Operations that don't block execution",
+      "Sequential programming",
+      "Parallel computing",
+      "Concurrent processing"
+    ],
+    "answer": "Operations that don't block execution",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[2] What is a callback function?",
+    "options": [
+      "Function passed as argument",
+      "Function that returns value",
+      "Function that calls itself",
+      "Main program function"
+    ],
+    "answer": "Function passed as argument",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[2] What is a function?",
+    "options": [
+      "A reusable block of code",
+      "A variable",
+      "A loop",
+      "A data type"
+    ],
+    "answer": "A reusable block of code",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[2] What is a class?",
+    "options": [
+      "A blueprint for objects",
+      "A function",
+      "A variable",
+      "A module"
+    ],
+    "answer": "A blueprint for objects",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[2] What is inheritance?",
+    "options": [
+      "A class inheriting from another",
+      "Creating copies",
+      "Passing data",
+      "Declaring variables"
+    ],
+    "answer": "A class inheriting from another",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[2] What is polymorphism?",
+    "options": [
+      "Methods with same name, different behavior",
+      "Using multiple classes",
+      "Creating multiple objects",
+      "Inheriting methods"
+    ],
+    "answer": "Methods with same name, different behavior",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[2] What is abstraction?",
+    "options": [
+      "Hiding complex details",
+      "Creating abstract classes",
+      "Using interfaces",
+      "Base classes"
+    ],
+    "answer": "Hiding complex details",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[2] What is encapsulation?",
+    "options": [
+      "Bundling data and methods",
+      "Creating modules",
+      "Using libraries",
+      "Organizing code"
+    ],
+    "answer": "Bundling data and methods",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[2] What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Operating Network",
+      "Java System Object"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[2] What is REST API?",
+    "options": [
+      "Architectural style for web services",
+      "Database query",
+      "Programming language",
+      "Framework"
+    ],
+    "answer": "Architectural style for web services",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[2] What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Tech Transfer Protocol",
+      "Home Text Transfer",
+      "Hyper Tech Transmission"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[2] What is Git?",
+    "options": [
+      "Version control system",
+      "Programming language",
+      "Database",
+      "IDE"
+    ],
+    "answer": "Version control system",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[3] What is SQL?",
+    "options": [
+      "Structured Query Language",
+      "Strong Query Language",
+      "System Query Language",
+      "Simple Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[3] What is a framework?",
+    "options": [
+      "Pre-built structure for development",
+      "A library",
+      "A design pattern",
+      "A package"
+    ],
+    "answer": "Pre-built structure for development",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[3] What is React?",
+    "options": [
+      "JavaScript library for UIs",
+      "Programming language",
+      "Database",
+      "Mobile framework"
+    ],
+    "answer": "JavaScript library for UIs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[3] What is Vue.js?",
+    "options": [
+      "Progressive JavaScript framework",
+      "Template engine",
+      "Testing tool",
+      "Compiler"
+    ],
+    "answer": "Progressive JavaScript framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[3] What is Angular?",
+    "options": [
+      "Typescript-based framework",
+      "Server-side framework",
+      "Mobile development framework",
+      "Database framework"
+    ],
+    "answer": "Typescript-based framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[3] What is Node.js?",
+    "options": [
+      "JavaScript runtime environment",
+      "JavaScript language",
+      "Web browser",
+      "Operating system"
+    ],
+    "answer": "JavaScript runtime environment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[3] What is npm?",
+    "options": [
+      "Node Package Manager",
+      "Network Package Manager",
+      "Node Programming Manager",
+      "Network Protocol Manager"
+    ],
+    "answer": "Node Package Manager",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[3] What is a package?",
+    "options": [
+      "A module with code and metadata",
+      "A compressed file",
+      "A library",
+      "A framework"
+    ],
+    "answer": "A module with code and metadata",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[3] What is asynchronous programming?",
+    "options": [
+      "Operations that don't block execution",
+      "Sequential programming",
+      "Parallel computing",
+      "Concurrent processing"
+    ],
+    "answer": "Operations that don't block execution",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[3] What is a callback function?",
+    "options": [
+      "Function passed as argument",
+      "Function that returns value",
+      "Function that calls itself",
+      "Main program function"
+    ],
+    "answer": "Function passed as argument",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[3] What is a function?",
+    "options": [
+      "A reusable block of code",
+      "A variable",
+      "A loop",
+      "A data type"
+    ],
+    "answer": "A reusable block of code",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[3] What is a class?",
+    "options": [
+      "A blueprint for objects",
+      "A function",
+      "A variable",
+      "A module"
+    ],
+    "answer": "A blueprint for objects",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[3] What is inheritance?",
+    "options": [
+      "A class inheriting from another",
+      "Creating copies",
+      "Passing data",
+      "Declaring variables"
+    ],
+    "answer": "A class inheriting from another",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[3] What is polymorphism?",
+    "options": [
+      "Methods with same name, different behavior",
+      "Using multiple classes",
+      "Creating multiple objects",
+      "Inheriting methods"
+    ],
+    "answer": "Methods with same name, different behavior",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[3] What is abstraction?",
+    "options": [
+      "Hiding complex details",
+      "Creating abstract classes",
+      "Using interfaces",
+      "Base classes"
+    ],
+    "answer": "Hiding complex details",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[3] What is encapsulation?",
+    "options": [
+      "Bundling data and methods",
+      "Creating modules",
+      "Using libraries",
+      "Organizing code"
+    ],
+    "answer": "Bundling data and methods",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[3] What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Operating Network",
+      "Java System Object"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[3] What is REST API?",
+    "options": [
+      "Architectural style for web services",
+      "Database query",
+      "Programming language",
+      "Framework"
+    ],
+    "answer": "Architectural style for web services",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[3] What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Tech Transfer Protocol",
+      "Home Text Transfer",
+      "Hyper Tech Transmission"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[3] What is Git?",
+    "options": [
+      "Version control system",
+      "Programming language",
+      "Database",
+      "IDE"
+    ],
+    "answer": "Version control system",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[4] What is SQL?",
+    "options": [
+      "Structured Query Language",
+      "Strong Query Language",
+      "System Query Language",
+      "Simple Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[4] What is a framework?",
+    "options": [
+      "Pre-built structure for development",
+      "A library",
+      "A design pattern",
+      "A package"
+    ],
+    "answer": "Pre-built structure for development",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[4] What is React?",
+    "options": [
+      "JavaScript library for UIs",
+      "Programming language",
+      "Database",
+      "Mobile framework"
+    ],
+    "answer": "JavaScript library for UIs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[4] What is Vue.js?",
+    "options": [
+      "Progressive JavaScript framework",
+      "Template engine",
+      "Testing tool",
+      "Compiler"
+    ],
+    "answer": "Progressive JavaScript framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[4] What is Angular?",
+    "options": [
+      "Typescript-based framework",
+      "Server-side framework",
+      "Mobile development framework",
+      "Database framework"
+    ],
+    "answer": "Typescript-based framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[4] What is Node.js?",
+    "options": [
+      "JavaScript runtime environment",
+      "JavaScript language",
+      "Web browser",
+      "Operating system"
+    ],
+    "answer": "JavaScript runtime environment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[4] What is npm?",
+    "options": [
+      "Node Package Manager",
+      "Network Package Manager",
+      "Node Programming Manager",
+      "Network Protocol Manager"
+    ],
+    "answer": "Node Package Manager",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[4] What is a package?",
+    "options": [
+      "A module with code and metadata",
+      "A compressed file",
+      "A library",
+      "A framework"
+    ],
+    "answer": "A module with code and metadata",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[4] What is asynchronous programming?",
+    "options": [
+      "Operations that don't block execution",
+      "Sequential programming",
+      "Parallel computing",
+      "Concurrent processing"
+    ],
+    "answer": "Operations that don't block execution",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[4] What is a callback function?",
+    "options": [
+      "Function passed as argument",
+      "Function that returns value",
+      "Function that calls itself",
+      "Main program function"
+    ],
+    "answer": "Function passed as argument",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[4] What is a function?",
+    "options": [
+      "A reusable block of code",
+      "A variable",
+      "A loop",
+      "A data type"
+    ],
+    "answer": "A reusable block of code",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[4] What is a class?",
+    "options": [
+      "A blueprint for objects",
+      "A function",
+      "A variable",
+      "A module"
+    ],
+    "answer": "A blueprint for objects",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[4] What is inheritance?",
+    "options": [
+      "A class inheriting from another",
+      "Creating copies",
+      "Passing data",
+      "Declaring variables"
+    ],
+    "answer": "A class inheriting from another",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[4] What is polymorphism?",
+    "options": [
+      "Methods with same name, different behavior",
+      "Using multiple classes",
+      "Creating multiple objects",
+      "Inheriting methods"
+    ],
+    "answer": "Methods with same name, different behavior",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[4] What is abstraction?",
+    "options": [
+      "Hiding complex details",
+      "Creating abstract classes",
+      "Using interfaces",
+      "Base classes"
+    ],
+    "answer": "Hiding complex details",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[4] What is encapsulation?",
+    "options": [
+      "Bundling data and methods",
+      "Creating modules",
+      "Using libraries",
+      "Organizing code"
+    ],
+    "answer": "Bundling data and methods",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[4] What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Operating Network",
+      "Java System Object"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[4] What is REST API?",
+    "options": [
+      "Architectural style for web services",
+      "Database query",
+      "Programming language",
+      "Framework"
+    ],
+    "answer": "Architectural style for web services",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[4] What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Tech Transfer Protocol",
+      "Home Text Transfer",
+      "Hyper Tech Transmission"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[4] What is Git?",
+    "options": [
+      "Version control system",
+      "Programming language",
+      "Database",
+      "IDE"
+    ],
+    "answer": "Version control system",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[5] What is SQL?",
+    "options": [
+      "Structured Query Language",
+      "Strong Query Language",
+      "System Query Language",
+      "Simple Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[5] What is a framework?",
+    "options": [
+      "Pre-built structure for development",
+      "A library",
+      "A design pattern",
+      "A package"
+    ],
+    "answer": "Pre-built structure for development",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[5] What is React?",
+    "options": [
+      "JavaScript library for UIs",
+      "Programming language",
+      "Database",
+      "Mobile framework"
+    ],
+    "answer": "JavaScript library for UIs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[5] What is Vue.js?",
+    "options": [
+      "Progressive JavaScript framework",
+      "Template engine",
+      "Testing tool",
+      "Compiler"
+    ],
+    "answer": "Progressive JavaScript framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[5] What is Angular?",
+    "options": [
+      "Typescript-based framework",
+      "Server-side framework",
+      "Mobile development framework",
+      "Database framework"
+    ],
+    "answer": "Typescript-based framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[5] What is Node.js?",
+    "options": [
+      "JavaScript runtime environment",
+      "JavaScript language",
+      "Web browser",
+      "Operating system"
+    ],
+    "answer": "JavaScript runtime environment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[5] What is npm?",
+    "options": [
+      "Node Package Manager",
+      "Network Package Manager",
+      "Node Programming Manager",
+      "Network Protocol Manager"
+    ],
+    "answer": "Node Package Manager",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[5] What is a package?",
+    "options": [
+      "A module with code and metadata",
+      "A compressed file",
+      "A library",
+      "A framework"
+    ],
+    "answer": "A module with code and metadata",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[5] What is asynchronous programming?",
+    "options": [
+      "Operations that don't block execution",
+      "Sequential programming",
+      "Parallel computing",
+      "Concurrent processing"
+    ],
+    "answer": "Operations that don't block execution",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[5] What is a callback function?",
+    "options": [
+      "Function passed as argument",
+      "Function that returns value",
+      "Function that calls itself",
+      "Main program function"
+    ],
+    "answer": "Function passed as argument",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[5] What is a function?",
+    "options": [
+      "A reusable block of code",
+      "A variable",
+      "A loop",
+      "A data type"
+    ],
+    "answer": "A reusable block of code",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[5] What is a class?",
+    "options": [
+      "A blueprint for objects",
+      "A function",
+      "A variable",
+      "A module"
+    ],
+    "answer": "A blueprint for objects",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[5] What is inheritance?",
+    "options": [
+      "A class inheriting from another",
+      "Creating copies",
+      "Passing data",
+      "Declaring variables"
+    ],
+    "answer": "A class inheriting from another",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[5] What is polymorphism?",
+    "options": [
+      "Methods with same name, different behavior",
+      "Using multiple classes",
+      "Creating multiple objects",
+      "Inheriting methods"
+    ],
+    "answer": "Methods with same name, different behavior",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[5] What is abstraction?",
+    "options": [
+      "Hiding complex details",
+      "Creating abstract classes",
+      "Using interfaces",
+      "Base classes"
+    ],
+    "answer": "Hiding complex details",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[5] What is encapsulation?",
+    "options": [
+      "Bundling data and methods",
+      "Creating modules",
+      "Using libraries",
+      "Organizing code"
+    ],
+    "answer": "Bundling data and methods",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[5] What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Operating Network",
+      "Java System Object"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[5] What is REST API?",
+    "options": [
+      "Architectural style for web services",
+      "Database query",
+      "Programming language",
+      "Framework"
+    ],
+    "answer": "Architectural style for web services",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[5] What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Tech Transfer Protocol",
+      "Home Text Transfer",
+      "Hyper Tech Transmission"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[5] What is Git?",
+    "options": [
+      "Version control system",
+      "Programming language",
+      "Database",
+      "IDE"
+    ],
+    "answer": "Version control system",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[6] What is SQL?",
+    "options": [
+      "Structured Query Language",
+      "Strong Query Language",
+      "System Query Language",
+      "Simple Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[6] What is a framework?",
+    "options": [
+      "Pre-built structure for development",
+      "A library",
+      "A design pattern",
+      "A package"
+    ],
+    "answer": "Pre-built structure for development",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[6] What is React?",
+    "options": [
+      "JavaScript library for UIs",
+      "Programming language",
+      "Database",
+      "Mobile framework"
+    ],
+    "answer": "JavaScript library for UIs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[6] What is Vue.js?",
+    "options": [
+      "Progressive JavaScript framework",
+      "Template engine",
+      "Testing tool",
+      "Compiler"
+    ],
+    "answer": "Progressive JavaScript framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[6] What is Angular?",
+    "options": [
+      "Typescript-based framework",
+      "Server-side framework",
+      "Mobile development framework",
+      "Database framework"
+    ],
+    "answer": "Typescript-based framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[6] What is Node.js?",
+    "options": [
+      "JavaScript runtime environment",
+      "JavaScript language",
+      "Web browser",
+      "Operating system"
+    ],
+    "answer": "JavaScript runtime environment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[6] What is npm?",
+    "options": [
+      "Node Package Manager",
+      "Network Package Manager",
+      "Node Programming Manager",
+      "Network Protocol Manager"
+    ],
+    "answer": "Node Package Manager",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[6] What is a package?",
+    "options": [
+      "A module with code and metadata",
+      "A compressed file",
+      "A library",
+      "A framework"
+    ],
+    "answer": "A module with code and metadata",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[6] What is asynchronous programming?",
+    "options": [
+      "Operations that don't block execution",
+      "Sequential programming",
+      "Parallel computing",
+      "Concurrent processing"
+    ],
+    "answer": "Operations that don't block execution",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[6] What is a callback function?",
+    "options": [
+      "Function passed as argument",
+      "Function that returns value",
+      "Function that calls itself",
+      "Main program function"
+    ],
+    "answer": "Function passed as argument",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[6] What is a function?",
+    "options": [
+      "A reusable block of code",
+      "A variable",
+      "A loop",
+      "A data type"
+    ],
+    "answer": "A reusable block of code",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[6] What is a class?",
+    "options": [
+      "A blueprint for objects",
+      "A function",
+      "A variable",
+      "A module"
+    ],
+    "answer": "A blueprint for objects",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[6] What is inheritance?",
+    "options": [
+      "A class inheriting from another",
+      "Creating copies",
+      "Passing data",
+      "Declaring variables"
+    ],
+    "answer": "A class inheriting from another",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[6] What is polymorphism?",
+    "options": [
+      "Methods with same name, different behavior",
+      "Using multiple classes",
+      "Creating multiple objects",
+      "Inheriting methods"
+    ],
+    "answer": "Methods with same name, different behavior",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[6] What is abstraction?",
+    "options": [
+      "Hiding complex details",
+      "Creating abstract classes",
+      "Using interfaces",
+      "Base classes"
+    ],
+    "answer": "Hiding complex details",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[6] What is encapsulation?",
+    "options": [
+      "Bundling data and methods",
+      "Creating modules",
+      "Using libraries",
+      "Organizing code"
+    ],
+    "answer": "Bundling data and methods",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[6] What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Operating Network",
+      "Java System Object"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[6] What is REST API?",
+    "options": [
+      "Architectural style for web services",
+      "Database query",
+      "Programming language",
+      "Framework"
+    ],
+    "answer": "Architectural style for web services",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[6] What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Tech Transfer Protocol",
+      "Home Text Transfer",
+      "Hyper Tech Transmission"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[6] What is Git?",
+    "options": [
+      "Version control system",
+      "Programming language",
+      "Database",
+      "IDE"
+    ],
+    "answer": "Version control system",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[7] What is SQL?",
+    "options": [
+      "Structured Query Language",
+      "Strong Query Language",
+      "System Query Language",
+      "Simple Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[7] What is a framework?",
+    "options": [
+      "Pre-built structure for development",
+      "A library",
+      "A design pattern",
+      "A package"
+    ],
+    "answer": "Pre-built structure for development",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[7] What is React?",
+    "options": [
+      "JavaScript library for UIs",
+      "Programming language",
+      "Database",
+      "Mobile framework"
+    ],
+    "answer": "JavaScript library for UIs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[7] What is Vue.js?",
+    "options": [
+      "Progressive JavaScript framework",
+      "Template engine",
+      "Testing tool",
+      "Compiler"
+    ],
+    "answer": "Progressive JavaScript framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[7] What is Angular?",
+    "options": [
+      "Typescript-based framework",
+      "Server-side framework",
+      "Mobile development framework",
+      "Database framework"
+    ],
+    "answer": "Typescript-based framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[7] What is Node.js?",
+    "options": [
+      "JavaScript runtime environment",
+      "JavaScript language",
+      "Web browser",
+      "Operating system"
+    ],
+    "answer": "JavaScript runtime environment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[7] What is npm?",
+    "options": [
+      "Node Package Manager",
+      "Network Package Manager",
+      "Node Programming Manager",
+      "Network Protocol Manager"
+    ],
+    "answer": "Node Package Manager",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[7] What is a package?",
+    "options": [
+      "A module with code and metadata",
+      "A compressed file",
+      "A library",
+      "A framework"
+    ],
+    "answer": "A module with code and metadata",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[7] What is asynchronous programming?",
+    "options": [
+      "Operations that don't block execution",
+      "Sequential programming",
+      "Parallel computing",
+      "Concurrent processing"
+    ],
+    "answer": "Operations that don't block execution",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[7] What is a callback function?",
+    "options": [
+      "Function passed as argument",
+      "Function that returns value",
+      "Function that calls itself",
+      "Main program function"
+    ],
+    "answer": "Function passed as argument",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[7] What is a function?",
+    "options": [
+      "A reusable block of code",
+      "A variable",
+      "A loop",
+      "A data type"
+    ],
+    "answer": "A reusable block of code",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[7] What is a class?",
+    "options": [
+      "A blueprint for objects",
+      "A function",
+      "A variable",
+      "A module"
+    ],
+    "answer": "A blueprint for objects",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[7] What is inheritance?",
+    "options": [
+      "A class inheriting from another",
+      "Creating copies",
+      "Passing data",
+      "Declaring variables"
+    ],
+    "answer": "A class inheriting from another",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[7] What is polymorphism?",
+    "options": [
+      "Methods with same name, different behavior",
+      "Using multiple classes",
+      "Creating multiple objects",
+      "Inheriting methods"
+    ],
+    "answer": "Methods with same name, different behavior",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[7] What is abstraction?",
+    "options": [
+      "Hiding complex details",
+      "Creating abstract classes",
+      "Using interfaces",
+      "Base classes"
+    ],
+    "answer": "Hiding complex details",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[7] What is encapsulation?",
+    "options": [
+      "Bundling data and methods",
+      "Creating modules",
+      "Using libraries",
+      "Organizing code"
+    ],
+    "answer": "Bundling data and methods",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[7] What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Operating Network",
+      "Java System Object"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[7] What is REST API?",
+    "options": [
+      "Architectural style for web services",
+      "Database query",
+      "Programming language",
+      "Framework"
+    ],
+    "answer": "Architectural style for web services",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[7] What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Tech Transfer Protocol",
+      "Home Text Transfer",
+      "Hyper Tech Transmission"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[7] What is Git?",
+    "options": [
+      "Version control system",
+      "Programming language",
+      "Database",
+      "IDE"
+    ],
+    "answer": "Version control system",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[8] What is SQL?",
+    "options": [
+      "Structured Query Language",
+      "Strong Query Language",
+      "System Query Language",
+      "Simple Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[8] What is a framework?",
+    "options": [
+      "Pre-built structure for development",
+      "A library",
+      "A design pattern",
+      "A package"
+    ],
+    "answer": "Pre-built structure for development",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[8] What is React?",
+    "options": [
+      "JavaScript library for UIs",
+      "Programming language",
+      "Database",
+      "Mobile framework"
+    ],
+    "answer": "JavaScript library for UIs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[8] What is Vue.js?",
+    "options": [
+      "Progressive JavaScript framework",
+      "Template engine",
+      "Testing tool",
+      "Compiler"
+    ],
+    "answer": "Progressive JavaScript framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[8] What is Angular?",
+    "options": [
+      "Typescript-based framework",
+      "Server-side framework",
+      "Mobile development framework",
+      "Database framework"
+    ],
+    "answer": "Typescript-based framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[8] What is Node.js?",
+    "options": [
+      "JavaScript runtime environment",
+      "JavaScript language",
+      "Web browser",
+      "Operating system"
+    ],
+    "answer": "JavaScript runtime environment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[8] What is npm?",
+    "options": [
+      "Node Package Manager",
+      "Network Package Manager",
+      "Node Programming Manager",
+      "Network Protocol Manager"
+    ],
+    "answer": "Node Package Manager",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[8] What is a package?",
+    "options": [
+      "A module with code and metadata",
+      "A compressed file",
+      "A library",
+      "A framework"
+    ],
+    "answer": "A module with code and metadata",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[8] What is asynchronous programming?",
+    "options": [
+      "Operations that don't block execution",
+      "Sequential programming",
+      "Parallel computing",
+      "Concurrent processing"
+    ],
+    "answer": "Operations that don't block execution",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[8] What is a callback function?",
+    "options": [
+      "Function passed as argument",
+      "Function that returns value",
+      "Function that calls itself",
+      "Main program function"
+    ],
+    "answer": "Function passed as argument",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[8] What is a function?",
+    "options": [
+      "A reusable block of code",
+      "A variable",
+      "A loop",
+      "A data type"
+    ],
+    "answer": "A reusable block of code",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[8] What is a class?",
+    "options": [
+      "A blueprint for objects",
+      "A function",
+      "A variable",
+      "A module"
+    ],
+    "answer": "A blueprint for objects",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[8] What is inheritance?",
+    "options": [
+      "A class inheriting from another",
+      "Creating copies",
+      "Passing data",
+      "Declaring variables"
+    ],
+    "answer": "A class inheriting from another",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[8] What is polymorphism?",
+    "options": [
+      "Methods with same name, different behavior",
+      "Using multiple classes",
+      "Creating multiple objects",
+      "Inheriting methods"
+    ],
+    "answer": "Methods with same name, different behavior",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[8] What is abstraction?",
+    "options": [
+      "Hiding complex details",
+      "Creating abstract classes",
+      "Using interfaces",
+      "Base classes"
+    ],
+    "answer": "Hiding complex details",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[8] What is encapsulation?",
+    "options": [
+      "Bundling data and methods",
+      "Creating modules",
+      "Using libraries",
+      "Organizing code"
+    ],
+    "answer": "Bundling data and methods",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[8] What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Operating Network",
+      "Java System Object"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[8] What is REST API?",
+    "options": [
+      "Architectural style for web services",
+      "Database query",
+      "Programming language",
+      "Framework"
+    ],
+    "answer": "Architectural style for web services",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[8] What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Tech Transfer Protocol",
+      "Home Text Transfer",
+      "Hyper Tech Transmission"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[8] What is Git?",
+    "options": [
+      "Version control system",
+      "Programming language",
+      "Database",
+      "IDE"
+    ],
+    "answer": "Version control system",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[9] What is SQL?",
+    "options": [
+      "Structured Query Language",
+      "Strong Query Language",
+      "System Query Language",
+      "Simple Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[9] What is a framework?",
+    "options": [
+      "Pre-built structure for development",
+      "A library",
+      "A design pattern",
+      "A package"
+    ],
+    "answer": "Pre-built structure for development",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[9] What is React?",
+    "options": [
+      "JavaScript library for UIs",
+      "Programming language",
+      "Database",
+      "Mobile framework"
+    ],
+    "answer": "JavaScript library for UIs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[9] What is Vue.js?",
+    "options": [
+      "Progressive JavaScript framework",
+      "Template engine",
+      "Testing tool",
+      "Compiler"
+    ],
+    "answer": "Progressive JavaScript framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[9] What is Angular?",
+    "options": [
+      "Typescript-based framework",
+      "Server-side framework",
+      "Mobile development framework",
+      "Database framework"
+    ],
+    "answer": "Typescript-based framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[9] What is Node.js?",
+    "options": [
+      "JavaScript runtime environment",
+      "JavaScript language",
+      "Web browser",
+      "Operating system"
+    ],
+    "answer": "JavaScript runtime environment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[9] What is npm?",
+    "options": [
+      "Node Package Manager",
+      "Network Package Manager",
+      "Node Programming Manager",
+      "Network Protocol Manager"
+    ],
+    "answer": "Node Package Manager",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[9] What is a package?",
+    "options": [
+      "A module with code and metadata",
+      "A compressed file",
+      "A library",
+      "A framework"
+    ],
+    "answer": "A module with code and metadata",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[9] What is asynchronous programming?",
+    "options": [
+      "Operations that don't block execution",
+      "Sequential programming",
+      "Parallel computing",
+      "Concurrent processing"
+    ],
+    "answer": "Operations that don't block execution",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[9] What is a callback function?",
+    "options": [
+      "Function passed as argument",
+      "Function that returns value",
+      "Function that calls itself",
+      "Main program function"
+    ],
+    "answer": "Function passed as argument",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[9] What is a function?",
+    "options": [
+      "A reusable block of code",
+      "A variable",
+      "A loop",
+      "A data type"
+    ],
+    "answer": "A reusable block of code",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[9] What is a class?",
+    "options": [
+      "A blueprint for objects",
+      "A function",
+      "A variable",
+      "A module"
+    ],
+    "answer": "A blueprint for objects",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[9] What is inheritance?",
+    "options": [
+      "A class inheriting from another",
+      "Creating copies",
+      "Passing data",
+      "Declaring variables"
+    ],
+    "answer": "A class inheriting from another",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[9] What is polymorphism?",
+    "options": [
+      "Methods with same name, different behavior",
+      "Using multiple classes",
+      "Creating multiple objects",
+      "Inheriting methods"
+    ],
+    "answer": "Methods with same name, different behavior",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[9] What is abstraction?",
+    "options": [
+      "Hiding complex details",
+      "Creating abstract classes",
+      "Using interfaces",
+      "Base classes"
+    ],
+    "answer": "Hiding complex details",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[9] What is encapsulation?",
+    "options": [
+      "Bundling data and methods",
+      "Creating modules",
+      "Using libraries",
+      "Organizing code"
+    ],
+    "answer": "Bundling data and methods",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[9] What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Operating Network",
+      "Java System Object"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[9] What is REST API?",
+    "options": [
+      "Architectural style for web services",
+      "Database query",
+      "Programming language",
+      "Framework"
+    ],
+    "answer": "Architectural style for web services",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[9] What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Tech Transfer Protocol",
+      "Home Text Transfer",
+      "Hyper Tech Transmission"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[9] What is Git?",
+    "options": [
+      "Version control system",
+      "Programming language",
+      "Database",
+      "IDE"
+    ],
+    "answer": "Version control system",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[10] What is SQL?",
+    "options": [
+      "Structured Query Language",
+      "Strong Query Language",
+      "System Query Language",
+      "Simple Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[10] What is a framework?",
+    "options": [
+      "Pre-built structure for development",
+      "A library",
+      "A design pattern",
+      "A package"
+    ],
+    "answer": "Pre-built structure for development",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[10] What is React?",
+    "options": [
+      "JavaScript library for UIs",
+      "Programming language",
+      "Database",
+      "Mobile framework"
+    ],
+    "answer": "JavaScript library for UIs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[10] What is Vue.js?",
+    "options": [
+      "Progressive JavaScript framework",
+      "Template engine",
+      "Testing tool",
+      "Compiler"
+    ],
+    "answer": "Progressive JavaScript framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[10] What is Angular?",
+    "options": [
+      "Typescript-based framework",
+      "Server-side framework",
+      "Mobile development framework",
+      "Database framework"
+    ],
+    "answer": "Typescript-based framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[10] What is Node.js?",
+    "options": [
+      "JavaScript runtime environment",
+      "JavaScript language",
+      "Web browser",
+      "Operating system"
+    ],
+    "answer": "JavaScript runtime environment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[10] What is npm?",
+    "options": [
+      "Node Package Manager",
+      "Network Package Manager",
+      "Node Programming Manager",
+      "Network Protocol Manager"
+    ],
+    "answer": "Node Package Manager",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[10] What is a package?",
+    "options": [
+      "A module with code and metadata",
+      "A compressed file",
+      "A library",
+      "A framework"
+    ],
+    "answer": "A module with code and metadata",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[10] What is asynchronous programming?",
+    "options": [
+      "Operations that don't block execution",
+      "Sequential programming",
+      "Parallel computing",
+      "Concurrent processing"
+    ],
+    "answer": "Operations that don't block execution",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[10] What is a callback function?",
+    "options": [
+      "Function passed as argument",
+      "Function that returns value",
+      "Function that calls itself",
+      "Main program function"
+    ],
+    "answer": "Function passed as argument",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[10] What is a function?",
+    "options": [
+      "A reusable block of code",
+      "A variable",
+      "A loop",
+      "A data type"
+    ],
+    "answer": "A reusable block of code",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[10] What is a class?",
+    "options": [
+      "A blueprint for objects",
+      "A function",
+      "A variable",
+      "A module"
+    ],
+    "answer": "A blueprint for objects",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[10] What is inheritance?",
+    "options": [
+      "A class inheriting from another",
+      "Creating copies",
+      "Passing data",
+      "Declaring variables"
+    ],
+    "answer": "A class inheriting from another",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[10] What is polymorphism?",
+    "options": [
+      "Methods with same name, different behavior",
+      "Using multiple classes",
+      "Creating multiple objects",
+      "Inheriting methods"
+    ],
+    "answer": "Methods with same name, different behavior",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[10] What is abstraction?",
+    "options": [
+      "Hiding complex details",
+      "Creating abstract classes",
+      "Using interfaces",
+      "Base classes"
+    ],
+    "answer": "Hiding complex details",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[10] What is encapsulation?",
+    "options": [
+      "Bundling data and methods",
+      "Creating modules",
+      "Using libraries",
+      "Organizing code"
+    ],
+    "answer": "Bundling data and methods",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[10] What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Operating Network",
+      "Java System Object"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[10] What is REST API?",
+    "options": [
+      "Architectural style for web services",
+      "Database query",
+      "Programming language",
+      "Framework"
+    ],
+    "answer": "Architectural style for web services",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[10] What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Tech Transfer Protocol",
+      "Home Text Transfer",
+      "Hyper Tech Transmission"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[10] What is Git?",
+    "options": [
+      "Version control system",
+      "Programming language",
+      "Database",
+      "IDE"
+    ],
+    "answer": "Version control system",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[11] What is SQL?",
+    "options": [
+      "Structured Query Language",
+      "Strong Query Language",
+      "System Query Language",
+      "Simple Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[11] What is a framework?",
+    "options": [
+      "Pre-built structure for development",
+      "A library",
+      "A design pattern",
+      "A package"
+    ],
+    "answer": "Pre-built structure for development",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[11] What is React?",
+    "options": [
+      "JavaScript library for UIs",
+      "Programming language",
+      "Database",
+      "Mobile framework"
+    ],
+    "answer": "JavaScript library for UIs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[11] What is Vue.js?",
+    "options": [
+      "Progressive JavaScript framework",
+      "Template engine",
+      "Testing tool",
+      "Compiler"
+    ],
+    "answer": "Progressive JavaScript framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[11] What is Angular?",
+    "options": [
+      "Typescript-based framework",
+      "Server-side framework",
+      "Mobile development framework",
+      "Database framework"
+    ],
+    "answer": "Typescript-based framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[11] What is Node.js?",
+    "options": [
+      "JavaScript runtime environment",
+      "JavaScript language",
+      "Web browser",
+      "Operating system"
+    ],
+    "answer": "JavaScript runtime environment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[11] What is npm?",
+    "options": [
+      "Node Package Manager",
+      "Network Package Manager",
+      "Node Programming Manager",
+      "Network Protocol Manager"
+    ],
+    "answer": "Node Package Manager",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[11] What is a package?",
+    "options": [
+      "A module with code and metadata",
+      "A compressed file",
+      "A library",
+      "A framework"
+    ],
+    "answer": "A module with code and metadata",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[11] What is asynchronous programming?",
+    "options": [
+      "Operations that don't block execution",
+      "Sequential programming",
+      "Parallel computing",
+      "Concurrent processing"
+    ],
+    "answer": "Operations that don't block execution",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[11] What is a callback function?",
+    "options": [
+      "Function passed as argument",
+      "Function that returns value",
+      "Function that calls itself",
+      "Main program function"
+    ],
+    "answer": "Function passed as argument",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[11] What is a function?",
+    "options": [
+      "A reusable block of code",
+      "A variable",
+      "A loop",
+      "A data type"
+    ],
+    "answer": "A reusable block of code",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[11] What is a class?",
+    "options": [
+      "A blueprint for objects",
+      "A function",
+      "A variable",
+      "A module"
+    ],
+    "answer": "A blueprint for objects",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[11] What is inheritance?",
+    "options": [
+      "A class inheriting from another",
+      "Creating copies",
+      "Passing data",
+      "Declaring variables"
+    ],
+    "answer": "A class inheriting from another",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[11] What is polymorphism?",
+    "options": [
+      "Methods with same name, different behavior",
+      "Using multiple classes",
+      "Creating multiple objects",
+      "Inheriting methods"
+    ],
+    "answer": "Methods with same name, different behavior",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[11] What is abstraction?",
+    "options": [
+      "Hiding complex details",
+      "Creating abstract classes",
+      "Using interfaces",
+      "Base classes"
+    ],
+    "answer": "Hiding complex details",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[11] What is encapsulation?",
+    "options": [
+      "Bundling data and methods",
+      "Creating modules",
+      "Using libraries",
+      "Organizing code"
+    ],
+    "answer": "Bundling data and methods",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[11] What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Operating Network",
+      "Java System Object"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[11] What is REST API?",
+    "options": [
+      "Architectural style for web services",
+      "Database query",
+      "Programming language",
+      "Framework"
+    ],
+    "answer": "Architectural style for web services",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[11] What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Tech Transfer Protocol",
+      "Home Text Transfer",
+      "Hyper Tech Transmission"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[11] What is Git?",
+    "options": [
+      "Version control system",
+      "Programming language",
+      "Database",
+      "IDE"
+    ],
+    "answer": "Version control system",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[12] What is SQL?",
+    "options": [
+      "Structured Query Language",
+      "Strong Query Language",
+      "System Query Language",
+      "Simple Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[12] What is a framework?",
+    "options": [
+      "Pre-built structure for development",
+      "A library",
+      "A design pattern",
+      "A package"
+    ],
+    "answer": "Pre-built structure for development",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[12] What is React?",
+    "options": [
+      "JavaScript library for UIs",
+      "Programming language",
+      "Database",
+      "Mobile framework"
+    ],
+    "answer": "JavaScript library for UIs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[12] What is Vue.js?",
+    "options": [
+      "Progressive JavaScript framework",
+      "Template engine",
+      "Testing tool",
+      "Compiler"
+    ],
+    "answer": "Progressive JavaScript framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[12] What is Angular?",
+    "options": [
+      "Typescript-based framework",
+      "Server-side framework",
+      "Mobile development framework",
+      "Database framework"
+    ],
+    "answer": "Typescript-based framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[12] What is Node.js?",
+    "options": [
+      "JavaScript runtime environment",
+      "JavaScript language",
+      "Web browser",
+      "Operating system"
+    ],
+    "answer": "JavaScript runtime environment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[12] What is npm?",
+    "options": [
+      "Node Package Manager",
+      "Network Package Manager",
+      "Node Programming Manager",
+      "Network Protocol Manager"
+    ],
+    "answer": "Node Package Manager",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[12] What is a package?",
+    "options": [
+      "A module with code and metadata",
+      "A compressed file",
+      "A library",
+      "A framework"
+    ],
+    "answer": "A module with code and metadata",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[12] What is asynchronous programming?",
+    "options": [
+      "Operations that don't block execution",
+      "Sequential programming",
+      "Parallel computing",
+      "Concurrent processing"
+    ],
+    "answer": "Operations that don't block execution",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[12] What is a callback function?",
+    "options": [
+      "Function passed as argument",
+      "Function that returns value",
+      "Function that calls itself",
+      "Main program function"
+    ],
+    "answer": "Function passed as argument",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[12] What is a function?",
+    "options": [
+      "A reusable block of code",
+      "A variable",
+      "A loop",
+      "A data type"
+    ],
+    "answer": "A reusable block of code",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[12] What is a class?",
+    "options": [
+      "A blueprint for objects",
+      "A function",
+      "A variable",
+      "A module"
+    ],
+    "answer": "A blueprint for objects",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[12] What is inheritance?",
+    "options": [
+      "A class inheriting from another",
+      "Creating copies",
+      "Passing data",
+      "Declaring variables"
+    ],
+    "answer": "A class inheriting from another",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[12] What is polymorphism?",
+    "options": [
+      "Methods with same name, different behavior",
+      "Using multiple classes",
+      "Creating multiple objects",
+      "Inheriting methods"
+    ],
+    "answer": "Methods with same name, different behavior",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[12] What is abstraction?",
+    "options": [
+      "Hiding complex details",
+      "Creating abstract classes",
+      "Using interfaces",
+      "Base classes"
+    ],
+    "answer": "Hiding complex details",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[12] What is encapsulation?",
+    "options": [
+      "Bundling data and methods",
+      "Creating modules",
+      "Using libraries",
+      "Organizing code"
+    ],
+    "answer": "Bundling data and methods",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[12] What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Operating Network",
+      "Java System Object"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[12] What is REST API?",
+    "options": [
+      "Architectural style for web services",
+      "Database query",
+      "Programming language",
+      "Framework"
+    ],
+    "answer": "Architectural style for web services",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[12] What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Tech Transfer Protocol",
+      "Home Text Transfer",
+      "Hyper Tech Transmission"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[12] What is Git?",
+    "options": [
+      "Version control system",
+      "Programming language",
+      "Database",
+      "IDE"
+    ],
+    "answer": "Version control system",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[13] What is SQL?",
+    "options": [
+      "Structured Query Language",
+      "Strong Query Language",
+      "System Query Language",
+      "Simple Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[13] What is a framework?",
+    "options": [
+      "Pre-built structure for development",
+      "A library",
+      "A design pattern",
+      "A package"
+    ],
+    "answer": "Pre-built structure for development",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[13] What is React?",
+    "options": [
+      "JavaScript library for UIs",
+      "Programming language",
+      "Database",
+      "Mobile framework"
+    ],
+    "answer": "JavaScript library for UIs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[13] What is Vue.js?",
+    "options": [
+      "Progressive JavaScript framework",
+      "Template engine",
+      "Testing tool",
+      "Compiler"
+    ],
+    "answer": "Progressive JavaScript framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[13] What is Angular?",
+    "options": [
+      "Typescript-based framework",
+      "Server-side framework",
+      "Mobile development framework",
+      "Database framework"
+    ],
+    "answer": "Typescript-based framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[13] What is Node.js?",
+    "options": [
+      "JavaScript runtime environment",
+      "JavaScript language",
+      "Web browser",
+      "Operating system"
+    ],
+    "answer": "JavaScript runtime environment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[13] What is npm?",
+    "options": [
+      "Node Package Manager",
+      "Network Package Manager",
+      "Node Programming Manager",
+      "Network Protocol Manager"
+    ],
+    "answer": "Node Package Manager",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[13] What is a package?",
+    "options": [
+      "A module with code and metadata",
+      "A compressed file",
+      "A library",
+      "A framework"
+    ],
+    "answer": "A module with code and metadata",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[13] What is asynchronous programming?",
+    "options": [
+      "Operations that don't block execution",
+      "Sequential programming",
+      "Parallel computing",
+      "Concurrent processing"
+    ],
+    "answer": "Operations that don't block execution",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[13] What is a callback function?",
+    "options": [
+      "Function passed as argument",
+      "Function that returns value",
+      "Function that calls itself",
+      "Main program function"
+    ],
+    "answer": "Function passed as argument",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[13] What is a function?",
+    "options": [
+      "A reusable block of code",
+      "A variable",
+      "A loop",
+      "A data type"
+    ],
+    "answer": "A reusable block of code",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[13] What is a class?",
+    "options": [
+      "A blueprint for objects",
+      "A function",
+      "A variable",
+      "A module"
+    ],
+    "answer": "A blueprint for objects",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[13] What is inheritance?",
+    "options": [
+      "A class inheriting from another",
+      "Creating copies",
+      "Passing data",
+      "Declaring variables"
+    ],
+    "answer": "A class inheriting from another",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[13] What is polymorphism?",
+    "options": [
+      "Methods with same name, different behavior",
+      "Using multiple classes",
+      "Creating multiple objects",
+      "Inheriting methods"
+    ],
+    "answer": "Methods with same name, different behavior",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[13] What is abstraction?",
+    "options": [
+      "Hiding complex details",
+      "Creating abstract classes",
+      "Using interfaces",
+      "Base classes"
+    ],
+    "answer": "Hiding complex details",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[13] What is encapsulation?",
+    "options": [
+      "Bundling data and methods",
+      "Creating modules",
+      "Using libraries",
+      "Organizing code"
+    ],
+    "answer": "Bundling data and methods",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[13] What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Operating Network",
+      "Java System Object"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[13] What is REST API?",
+    "options": [
+      "Architectural style for web services",
+      "Database query",
+      "Programming language",
+      "Framework"
+    ],
+    "answer": "Architectural style for web services",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[13] What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Tech Transfer Protocol",
+      "Home Text Transfer",
+      "Hyper Tech Transmission"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[13] What is Git?",
+    "options": [
+      "Version control system",
+      "Programming language",
+      "Database",
+      "IDE"
+    ],
+    "answer": "Version control system",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[14] What is SQL?",
+    "options": [
+      "Structured Query Language",
+      "Strong Query Language",
+      "System Query Language",
+      "Simple Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[14] What is a framework?",
+    "options": [
+      "Pre-built structure for development",
+      "A library",
+      "A design pattern",
+      "A package"
+    ],
+    "answer": "Pre-built structure for development",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[14] What is React?",
+    "options": [
+      "JavaScript library for UIs",
+      "Programming language",
+      "Database",
+      "Mobile framework"
+    ],
+    "answer": "JavaScript library for UIs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[14] What is Vue.js?",
+    "options": [
+      "Progressive JavaScript framework",
+      "Template engine",
+      "Testing tool",
+      "Compiler"
+    ],
+    "answer": "Progressive JavaScript framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[14] What is Angular?",
+    "options": [
+      "Typescript-based framework",
+      "Server-side framework",
+      "Mobile development framework",
+      "Database framework"
+    ],
+    "answer": "Typescript-based framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[14] What is Node.js?",
+    "options": [
+      "JavaScript runtime environment",
+      "JavaScript language",
+      "Web browser",
+      "Operating system"
+    ],
+    "answer": "JavaScript runtime environment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[14] What is npm?",
+    "options": [
+      "Node Package Manager",
+      "Network Package Manager",
+      "Node Programming Manager",
+      "Network Protocol Manager"
+    ],
+    "answer": "Node Package Manager",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[14] What is a package?",
+    "options": [
+      "A module with code and metadata",
+      "A compressed file",
+      "A library",
+      "A framework"
+    ],
+    "answer": "A module with code and metadata",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[14] What is asynchronous programming?",
+    "options": [
+      "Operations that don't block execution",
+      "Sequential programming",
+      "Parallel computing",
+      "Concurrent processing"
+    ],
+    "answer": "Operations that don't block execution",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[14] What is a callback function?",
+    "options": [
+      "Function passed as argument",
+      "Function that returns value",
+      "Function that calls itself",
+      "Main program function"
+    ],
+    "answer": "Function passed as argument",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[14] What is a function?",
+    "options": [
+      "A reusable block of code",
+      "A variable",
+      "A loop",
+      "A data type"
+    ],
+    "answer": "A reusable block of code",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[14] What is a class?",
+    "options": [
+      "A blueprint for objects",
+      "A function",
+      "A variable",
+      "A module"
+    ],
+    "answer": "A blueprint for objects",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[14] What is inheritance?",
+    "options": [
+      "A class inheriting from another",
+      "Creating copies",
+      "Passing data",
+      "Declaring variables"
+    ],
+    "answer": "A class inheriting from another",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[14] What is polymorphism?",
+    "options": [
+      "Methods with same name, different behavior",
+      "Using multiple classes",
+      "Creating multiple objects",
+      "Inheriting methods"
+    ],
+    "answer": "Methods with same name, different behavior",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[14] What is abstraction?",
+    "options": [
+      "Hiding complex details",
+      "Creating abstract classes",
+      "Using interfaces",
+      "Base classes"
+    ],
+    "answer": "Hiding complex details",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[14] What is encapsulation?",
+    "options": [
+      "Bundling data and methods",
+      "Creating modules",
+      "Using libraries",
+      "Organizing code"
+    ],
+    "answer": "Bundling data and methods",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[14] What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Operating Network",
+      "Java System Object"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[14] What is REST API?",
+    "options": [
+      "Architectural style for web services",
+      "Database query",
+      "Programming language",
+      "Framework"
+    ],
+    "answer": "Architectural style for web services",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[14] What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Tech Transfer Protocol",
+      "Home Text Transfer",
+      "Hyper Tech Transmission"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[14] What is Git?",
+    "options": [
+      "Version control system",
+      "Programming language",
+      "Database",
+      "IDE"
+    ],
+    "answer": "Version control system",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[15] What is SQL?",
+    "options": [
+      "Structured Query Language",
+      "Strong Query Language",
+      "System Query Language",
+      "Simple Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[15] What is a framework?",
+    "options": [
+      "Pre-built structure for development",
+      "A library",
+      "A design pattern",
+      "A package"
+    ],
+    "answer": "Pre-built structure for development",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[15] What is React?",
+    "options": [
+      "JavaScript library for UIs",
+      "Programming language",
+      "Database",
+      "Mobile framework"
+    ],
+    "answer": "JavaScript library for UIs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[15] What is Vue.js?",
+    "options": [
+      "Progressive JavaScript framework",
+      "Template engine",
+      "Testing tool",
+      "Compiler"
+    ],
+    "answer": "Progressive JavaScript framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[15] What is Angular?",
+    "options": [
+      "Typescript-based framework",
+      "Server-side framework",
+      "Mobile development framework",
+      "Database framework"
+    ],
+    "answer": "Typescript-based framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[15] What is Node.js?",
+    "options": [
+      "JavaScript runtime environment",
+      "JavaScript language",
+      "Web browser",
+      "Operating system"
+    ],
+    "answer": "JavaScript runtime environment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[15] What is npm?",
+    "options": [
+      "Node Package Manager",
+      "Network Package Manager",
+      "Node Programming Manager",
+      "Network Protocol Manager"
+    ],
+    "answer": "Node Package Manager",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[15] What is a package?",
+    "options": [
+      "A module with code and metadata",
+      "A compressed file",
+      "A library",
+      "A framework"
+    ],
+    "answer": "A module with code and metadata",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[15] What is asynchronous programming?",
+    "options": [
+      "Operations that don't block execution",
+      "Sequential programming",
+      "Parallel computing",
+      "Concurrent processing"
+    ],
+    "answer": "Operations that don't block execution",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[15] What is a callback function?",
+    "options": [
+      "Function passed as argument",
+      "Function that returns value",
+      "Function that calls itself",
+      "Main program function"
+    ],
+    "answer": "Function passed as argument",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[15] What is a function?",
+    "options": [
+      "A reusable block of code",
+      "A variable",
+      "A loop",
+      "A data type"
+    ],
+    "answer": "A reusable block of code",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[15] What is a class?",
+    "options": [
+      "A blueprint for objects",
+      "A function",
+      "A variable",
+      "A module"
+    ],
+    "answer": "A blueprint for objects",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[15] What is inheritance?",
+    "options": [
+      "A class inheriting from another",
+      "Creating copies",
+      "Passing data",
+      "Declaring variables"
+    ],
+    "answer": "A class inheriting from another",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[15] What is polymorphism?",
+    "options": [
+      "Methods with same name, different behavior",
+      "Using multiple classes",
+      "Creating multiple objects",
+      "Inheriting methods"
+    ],
+    "answer": "Methods with same name, different behavior",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[15] What is abstraction?",
+    "options": [
+      "Hiding complex details",
+      "Creating abstract classes",
+      "Using interfaces",
+      "Base classes"
+    ],
+    "answer": "Hiding complex details",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[15] What is encapsulation?",
+    "options": [
+      "Bundling data and methods",
+      "Creating modules",
+      "Using libraries",
+      "Organizing code"
+    ],
+    "answer": "Bundling data and methods",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[15] What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Operating Network",
+      "Java System Object"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[15] What is REST API?",
+    "options": [
+      "Architectural style for web services",
+      "Database query",
+      "Programming language",
+      "Framework"
+    ],
+    "answer": "Architectural style for web services",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[15] What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Tech Transfer Protocol",
+      "Home Text Transfer",
+      "Hyper Tech Transmission"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[15] What is Git?",
+    "options": [
+      "Version control system",
+      "Programming language",
+      "Database",
+      "IDE"
+    ],
+    "answer": "Version control system",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[16] What is SQL?",
+    "options": [
+      "Structured Query Language",
+      "Strong Query Language",
+      "System Query Language",
+      "Simple Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[16] What is a framework?",
+    "options": [
+      "Pre-built structure for development",
+      "A library",
+      "A design pattern",
+      "A package"
+    ],
+    "answer": "Pre-built structure for development",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[16] What is React?",
+    "options": [
+      "JavaScript library for UIs",
+      "Programming language",
+      "Database",
+      "Mobile framework"
+    ],
+    "answer": "JavaScript library for UIs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[16] What is Vue.js?",
+    "options": [
+      "Progressive JavaScript framework",
+      "Template engine",
+      "Testing tool",
+      "Compiler"
+    ],
+    "answer": "Progressive JavaScript framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[16] What is Angular?",
+    "options": [
+      "Typescript-based framework",
+      "Server-side framework",
+      "Mobile development framework",
+      "Database framework"
+    ],
+    "answer": "Typescript-based framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[16] What is Node.js?",
+    "options": [
+      "JavaScript runtime environment",
+      "JavaScript language",
+      "Web browser",
+      "Operating system"
+    ],
+    "answer": "JavaScript runtime environment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[16] What is npm?",
+    "options": [
+      "Node Package Manager",
+      "Network Package Manager",
+      "Node Programming Manager",
+      "Network Protocol Manager"
+    ],
+    "answer": "Node Package Manager",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[16] What is a package?",
+    "options": [
+      "A module with code and metadata",
+      "A compressed file",
+      "A library",
+      "A framework"
+    ],
+    "answer": "A module with code and metadata",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[16] What is asynchronous programming?",
+    "options": [
+      "Operations that don't block execution",
+      "Sequential programming",
+      "Parallel computing",
+      "Concurrent processing"
+    ],
+    "answer": "Operations that don't block execution",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[16] What is a callback function?",
+    "options": [
+      "Function passed as argument",
+      "Function that returns value",
+      "Function that calls itself",
+      "Main program function"
+    ],
+    "answer": "Function passed as argument",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[16] What is a function?",
+    "options": [
+      "A reusable block of code",
+      "A variable",
+      "A loop",
+      "A data type"
+    ],
+    "answer": "A reusable block of code",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[16] What is a class?",
+    "options": [
+      "A blueprint for objects",
+      "A function",
+      "A variable",
+      "A module"
+    ],
+    "answer": "A blueprint for objects",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[16] What is inheritance?",
+    "options": [
+      "A class inheriting from another",
+      "Creating copies",
+      "Passing data",
+      "Declaring variables"
+    ],
+    "answer": "A class inheriting from another",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[16] What is polymorphism?",
+    "options": [
+      "Methods with same name, different behavior",
+      "Using multiple classes",
+      "Creating multiple objects",
+      "Inheriting methods"
+    ],
+    "answer": "Methods with same name, different behavior",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[16] What is abstraction?",
+    "options": [
+      "Hiding complex details",
+      "Creating abstract classes",
+      "Using interfaces",
+      "Base classes"
+    ],
+    "answer": "Hiding complex details",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[16] What is encapsulation?",
+    "options": [
+      "Bundling data and methods",
+      "Creating modules",
+      "Using libraries",
+      "Organizing code"
+    ],
+    "answer": "Bundling data and methods",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[16] What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Operating Network",
+      "Java System Object"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[16] What is REST API?",
+    "options": [
+      "Architectural style for web services",
+      "Database query",
+      "Programming language",
+      "Framework"
+    ],
+    "answer": "Architectural style for web services",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[16] What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Tech Transfer Protocol",
+      "Home Text Transfer",
+      "Hyper Tech Transmission"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[16] What is Git?",
+    "options": [
+      "Version control system",
+      "Programming language",
+      "Database",
+      "IDE"
+    ],
+    "answer": "Version control system",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[17] What is SQL?",
+    "options": [
+      "Structured Query Language",
+      "Strong Query Language",
+      "System Query Language",
+      "Simple Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[17] What is a framework?",
+    "options": [
+      "Pre-built structure for development",
+      "A library",
+      "A design pattern",
+      "A package"
+    ],
+    "answer": "Pre-built structure for development",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[17] What is React?",
+    "options": [
+      "JavaScript library for UIs",
+      "Programming language",
+      "Database",
+      "Mobile framework"
+    ],
+    "answer": "JavaScript library for UIs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[17] What is Vue.js?",
+    "options": [
+      "Progressive JavaScript framework",
+      "Template engine",
+      "Testing tool",
+      "Compiler"
+    ],
+    "answer": "Progressive JavaScript framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[17] What is Angular?",
+    "options": [
+      "Typescript-based framework",
+      "Server-side framework",
+      "Mobile development framework",
+      "Database framework"
+    ],
+    "answer": "Typescript-based framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[17] What is Node.js?",
+    "options": [
+      "JavaScript runtime environment",
+      "JavaScript language",
+      "Web browser",
+      "Operating system"
+    ],
+    "answer": "JavaScript runtime environment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[17] What is npm?",
+    "options": [
+      "Node Package Manager",
+      "Network Package Manager",
+      "Node Programming Manager",
+      "Network Protocol Manager"
+    ],
+    "answer": "Node Package Manager",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[17] What is a package?",
+    "options": [
+      "A module with code and metadata",
+      "A compressed file",
+      "A library",
+      "A framework"
+    ],
+    "answer": "A module with code and metadata",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[17] What is asynchronous programming?",
+    "options": [
+      "Operations that don't block execution",
+      "Sequential programming",
+      "Parallel computing",
+      "Concurrent processing"
+    ],
+    "answer": "Operations that don't block execution",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[17] What is a callback function?",
+    "options": [
+      "Function passed as argument",
+      "Function that returns value",
+      "Function that calls itself",
+      "Main program function"
+    ],
+    "answer": "Function passed as argument",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[17] What is a function?",
+    "options": [
+      "A reusable block of code",
+      "A variable",
+      "A loop",
+      "A data type"
+    ],
+    "answer": "A reusable block of code",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[17] What is a class?",
+    "options": [
+      "A blueprint for objects",
+      "A function",
+      "A variable",
+      "A module"
+    ],
+    "answer": "A blueprint for objects",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[17] What is inheritance?",
+    "options": [
+      "A class inheriting from another",
+      "Creating copies",
+      "Passing data",
+      "Declaring variables"
+    ],
+    "answer": "A class inheriting from another",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[17] What is polymorphism?",
+    "options": [
+      "Methods with same name, different behavior",
+      "Using multiple classes",
+      "Creating multiple objects",
+      "Inheriting methods"
+    ],
+    "answer": "Methods with same name, different behavior",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[17] What is abstraction?",
+    "options": [
+      "Hiding complex details",
+      "Creating abstract classes",
+      "Using interfaces",
+      "Base classes"
+    ],
+    "answer": "Hiding complex details",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[17] What is encapsulation?",
+    "options": [
+      "Bundling data and methods",
+      "Creating modules",
+      "Using libraries",
+      "Organizing code"
+    ],
+    "answer": "Bundling data and methods",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[17] What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Operating Network",
+      "Java System Object"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[17] What is REST API?",
+    "options": [
+      "Architectural style for web services",
+      "Database query",
+      "Programming language",
+      "Framework"
+    ],
+    "answer": "Architectural style for web services",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[17] What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Tech Transfer Protocol",
+      "Home Text Transfer",
+      "Hyper Tech Transmission"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[17] What is Git?",
+    "options": [
+      "Version control system",
+      "Programming language",
+      "Database",
+      "IDE"
+    ],
+    "answer": "Version control system",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[18] What is SQL?",
+    "options": [
+      "Structured Query Language",
+      "Strong Query Language",
+      "System Query Language",
+      "Simple Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[18] What is a framework?",
+    "options": [
+      "Pre-built structure for development",
+      "A library",
+      "A design pattern",
+      "A package"
+    ],
+    "answer": "Pre-built structure for development",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[18] What is React?",
+    "options": [
+      "JavaScript library for UIs",
+      "Programming language",
+      "Database",
+      "Mobile framework"
+    ],
+    "answer": "JavaScript library for UIs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[18] What is Vue.js?",
+    "options": [
+      "Progressive JavaScript framework",
+      "Template engine",
+      "Testing tool",
+      "Compiler"
+    ],
+    "answer": "Progressive JavaScript framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[18] What is Angular?",
+    "options": [
+      "Typescript-based framework",
+      "Server-side framework",
+      "Mobile development framework",
+      "Database framework"
+    ],
+    "answer": "Typescript-based framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[18] What is Node.js?",
+    "options": [
+      "JavaScript runtime environment",
+      "JavaScript language",
+      "Web browser",
+      "Operating system"
+    ],
+    "answer": "JavaScript runtime environment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[18] What is npm?",
+    "options": [
+      "Node Package Manager",
+      "Network Package Manager",
+      "Node Programming Manager",
+      "Network Protocol Manager"
+    ],
+    "answer": "Node Package Manager",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[18] What is a package?",
+    "options": [
+      "A module with code and metadata",
+      "A compressed file",
+      "A library",
+      "A framework"
+    ],
+    "answer": "A module with code and metadata",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[18] What is asynchronous programming?",
+    "options": [
+      "Operations that don't block execution",
+      "Sequential programming",
+      "Parallel computing",
+      "Concurrent processing"
+    ],
+    "answer": "Operations that don't block execution",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[18] What is a callback function?",
+    "options": [
+      "Function passed as argument",
+      "Function that returns value",
+      "Function that calls itself",
+      "Main program function"
+    ],
+    "answer": "Function passed as argument",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[18] What is a function?",
+    "options": [
+      "A reusable block of code",
+      "A variable",
+      "A loop",
+      "A data type"
+    ],
+    "answer": "A reusable block of code",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[18] What is a class?",
+    "options": [
+      "A blueprint for objects",
+      "A function",
+      "A variable",
+      "A module"
+    ],
+    "answer": "A blueprint for objects",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[18] What is inheritance?",
+    "options": [
+      "A class inheriting from another",
+      "Creating copies",
+      "Passing data",
+      "Declaring variables"
+    ],
+    "answer": "A class inheriting from another",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[18] What is polymorphism?",
+    "options": [
+      "Methods with same name, different behavior",
+      "Using multiple classes",
+      "Creating multiple objects",
+      "Inheriting methods"
+    ],
+    "answer": "Methods with same name, different behavior",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[18] What is abstraction?",
+    "options": [
+      "Hiding complex details",
+      "Creating abstract classes",
+      "Using interfaces",
+      "Base classes"
+    ],
+    "answer": "Hiding complex details",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[18] What is encapsulation?",
+    "options": [
+      "Bundling data and methods",
+      "Creating modules",
+      "Using libraries",
+      "Organizing code"
+    ],
+    "answer": "Bundling data and methods",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[18] What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Operating Network",
+      "Java System Object"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[18] What is REST API?",
+    "options": [
+      "Architectural style for web services",
+      "Database query",
+      "Programming language",
+      "Framework"
+    ],
+    "answer": "Architectural style for web services",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[18] What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Tech Transfer Protocol",
+      "Home Text Transfer",
+      "Hyper Tech Transmission"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[18] What is Git?",
+    "options": [
+      "Version control system",
+      "Programming language",
+      "Database",
+      "IDE"
+    ],
+    "answer": "Version control system",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[19] What is SQL?",
+    "options": [
+      "Structured Query Language",
+      "Strong Query Language",
+      "System Query Language",
+      "Simple Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[19] What is a framework?",
+    "options": [
+      "Pre-built structure for development",
+      "A library",
+      "A design pattern",
+      "A package"
+    ],
+    "answer": "Pre-built structure for development",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[19] What is React?",
+    "options": [
+      "JavaScript library for UIs",
+      "Programming language",
+      "Database",
+      "Mobile framework"
+    ],
+    "answer": "JavaScript library for UIs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[19] What is Vue.js?",
+    "options": [
+      "Progressive JavaScript framework",
+      "Template engine",
+      "Testing tool",
+      "Compiler"
+    ],
+    "answer": "Progressive JavaScript framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[19] What is Angular?",
+    "options": [
+      "Typescript-based framework",
+      "Server-side framework",
+      "Mobile development framework",
+      "Database framework"
+    ],
+    "answer": "Typescript-based framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[19] What is Node.js?",
+    "options": [
+      "JavaScript runtime environment",
+      "JavaScript language",
+      "Web browser",
+      "Operating system"
+    ],
+    "answer": "JavaScript runtime environment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[19] What is npm?",
+    "options": [
+      "Node Package Manager",
+      "Network Package Manager",
+      "Node Programming Manager",
+      "Network Protocol Manager"
+    ],
+    "answer": "Node Package Manager",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[19] What is a package?",
+    "options": [
+      "A module with code and metadata",
+      "A compressed file",
+      "A library",
+      "A framework"
+    ],
+    "answer": "A module with code and metadata",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[19] What is asynchronous programming?",
+    "options": [
+      "Operations that don't block execution",
+      "Sequential programming",
+      "Parallel computing",
+      "Concurrent processing"
+    ],
+    "answer": "Operations that don't block execution",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[19] What is a callback function?",
+    "options": [
+      "Function passed as argument",
+      "Function that returns value",
+      "Function that calls itself",
+      "Main program function"
+    ],
+    "answer": "Function passed as argument",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[19] What is a function?",
+    "options": [
+      "A reusable block of code",
+      "A variable",
+      "A loop",
+      "A data type"
+    ],
+    "answer": "A reusable block of code",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[19] What is a class?",
+    "options": [
+      "A blueprint for objects",
+      "A function",
+      "A variable",
+      "A module"
+    ],
+    "answer": "A blueprint for objects",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[19] What is inheritance?",
+    "options": [
+      "A class inheriting from another",
+      "Creating copies",
+      "Passing data",
+      "Declaring variables"
+    ],
+    "answer": "A class inheriting from another",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[19] What is polymorphism?",
+    "options": [
+      "Methods with same name, different behavior",
+      "Using multiple classes",
+      "Creating multiple objects",
+      "Inheriting methods"
+    ],
+    "answer": "Methods with same name, different behavior",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[19] What is abstraction?",
+    "options": [
+      "Hiding complex details",
+      "Creating abstract classes",
+      "Using interfaces",
+      "Base classes"
+    ],
+    "answer": "Hiding complex details",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[19] What is encapsulation?",
+    "options": [
+      "Bundling data and methods",
+      "Creating modules",
+      "Using libraries",
+      "Organizing code"
+    ],
+    "answer": "Bundling data and methods",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[19] What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Operating Network",
+      "Java System Object"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[19] What is REST API?",
+    "options": [
+      "Architectural style for web services",
+      "Database query",
+      "Programming language",
+      "Framework"
+    ],
+    "answer": "Architectural style for web services",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[19] What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Tech Transfer Protocol",
+      "Home Text Transfer",
+      "Hyper Tech Transmission"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[19] What is Git?",
+    "options": [
+      "Version control system",
+      "Programming language",
+      "Database",
+      "IDE"
+    ],
+    "answer": "Version control system",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[20] What is SQL?",
+    "options": [
+      "Structured Query Language",
+      "Strong Query Language",
+      "System Query Language",
+      "Simple Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[20] What is a framework?",
+    "options": [
+      "Pre-built structure for development",
+      "A library",
+      "A design pattern",
+      "A package"
+    ],
+    "answer": "Pre-built structure for development",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[20] What is React?",
+    "options": [
+      "JavaScript library for UIs",
+      "Programming language",
+      "Database",
+      "Mobile framework"
+    ],
+    "answer": "JavaScript library for UIs",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[20] What is Vue.js?",
+    "options": [
+      "Progressive JavaScript framework",
+      "Template engine",
+      "Testing tool",
+      "Compiler"
+    ],
+    "answer": "Progressive JavaScript framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[20] What is Angular?",
+    "options": [
+      "Typescript-based framework",
+      "Server-side framework",
+      "Mobile development framework",
+      "Database framework"
+    ],
+    "answer": "Typescript-based framework",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[20] What is Node.js?",
+    "options": [
+      "JavaScript runtime environment",
+      "JavaScript language",
+      "Web browser",
+      "Operating system"
+    ],
+    "answer": "JavaScript runtime environment",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[20] What is npm?",
+    "options": [
+      "Node Package Manager",
+      "Network Package Manager",
+      "Node Programming Manager",
+      "Network Protocol Manager"
+    ],
+    "answer": "Node Package Manager",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[20] What is a package?",
+    "options": [
+      "A module with code and metadata",
+      "A compressed file",
+      "A library",
+      "A framework"
+    ],
+    "answer": "A module with code and metadata",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[20] What is asynchronous programming?",
+    "options": [
+      "Operations that don't block execution",
+      "Sequential programming",
+      "Parallel computing",
+      "Concurrent processing"
+    ],
+    "answer": "Operations that don't block execution",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[20] What is a callback function?",
+    "options": [
+      "Function passed as argument",
+      "Function that returns value",
+      "Function that calls itself",
+      "Main program function"
+    ],
+    "answer": "Function passed as argument",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[20] What is a function?",
+    "options": [
+      "A reusable block of code",
+      "A variable",
+      "A loop",
+      "A data type"
+    ],
+    "answer": "A reusable block of code",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[20] What is a class?",
+    "options": [
+      "A blueprint for objects",
+      "A function",
+      "A variable",
+      "A module"
+    ],
+    "answer": "A blueprint for objects",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[20] What is inheritance?",
+    "options": [
+      "A class inheriting from another",
+      "Creating copies",
+      "Passing data",
+      "Declaring variables"
+    ],
+    "answer": "A class inheriting from another",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[20] What is polymorphism?",
+    "options": [
+      "Methods with same name, different behavior",
+      "Using multiple classes",
+      "Creating multiple objects",
+      "Inheriting methods"
+    ],
+    "answer": "Methods with same name, different behavior",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[20] What is abstraction?",
+    "options": [
+      "Hiding complex details",
+      "Creating abstract classes",
+      "Using interfaces",
+      "Base classes"
+    ],
+    "answer": "Hiding complex details",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[20] What is encapsulation?",
+    "options": [
+      "Bundling data and methods",
+      "Creating modules",
+      "Using libraries",
+      "Organizing code"
+    ],
+    "answer": "Bundling data and methods",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[20] What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "JavaScript Operating Network",
+      "Java System Object"
+    ],
+    "answer": "JavaScript Object Notation",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[20] What is REST API?",
+    "options": [
+      "Architectural style for web services",
+      "Database query",
+      "Programming language",
+      "Framework"
+    ],
+    "answer": "Architectural style for web services",
+    "difficulty": "medium"
+  },
+  {
+    "question": "[20] What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Tech Transfer Protocol",
+      "Home Text Transfer",
+      "Hyper Tech Transmission"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "difficulty": "basic"
+  },
+  {
+    "question": "[20] What is Git?",
+    "options": [
+      "Version control system",
+      "Programming language",
+      "Database",
+      "IDE"
+    ],
+    "answer": "Version control system",
+    "difficulty": "medium"
+  }
+]
