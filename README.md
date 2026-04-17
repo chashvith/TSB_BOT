@@ -3,9 +3,34 @@
 TSB Bot is a Discord productivity and community bot built for Telugu Study Buddies server.
 It combines smart buddy matching, study tracking, reminders, quiz duels, and community automation in one bot.
 
+## Core Highlights
+
+### Smart Study Buddy Finder
+
+- Users register subjects with `/registersubject`.
+- Subject text is normalized (case-insensitive, stop-word cleanup, abbreviation expansion).
+- Matching is server-specific and availability-aware.
+- Buddy pairing uses keyword overlap for smarter matches.
+- `/findbuddy` returns a private match suggestion.
+
+### Quiz Duel Arena
+
+- `/quiz duel` runs a real-time 1v1 quiz battle.
+- Theme-driven question pools with large banks.
+- Timed rounds with button answers and speed-bonus scoring.
+- `/quiz leaderboard` supports `all_time` and `weekly` rankings.
+- `/quiz themes` shows active themes and question counts.
+
+### Focus Mode and Voice Discipline
+
+- Focus role workflow for distraction control.
+- Voice study tracking for leaderboard scoring.
+- Screen-share enforcement in configured study channels.
+- Built for accountability in long study sessions.
+
 ## What The Bot Can Do
 
-### 1. Smart Study Buddy System
+### 1. Smart Study Buddy Finder (Core)
 
 - `/registersubject <subject>` registers your study subject for matching.
 - Subject matching is smart and resilient:
@@ -34,7 +59,7 @@ It combines smart buddy matching, study tracking, reminders, quiz duels, and com
 - Score formula: `(tasksCompleted x 10) + studyTimeMinutes`.
 - Tracks study time and task completion per user.
 
-### 4. Quiz Duel System
+### 4. Quiz Duel System (Core)
 
 - `/quiz duel` starts a 2-player themed quiz duel.
 - Theme support includes:
@@ -70,7 +95,7 @@ It combines smart buddy matching, study tracking, reminders, quiz duels, and com
 - Supports view and delete of saved reminders.
 - Reminder data is persisted locally.
 
-### 8. Voice Productivity Automation
+### 8. Voice Productivity Automation (Core)
 
 - Study voice channel tracking for study-time analytics.
 - Focus mode role workflow support.
