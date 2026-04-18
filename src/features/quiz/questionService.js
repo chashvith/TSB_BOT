@@ -4,6 +4,12 @@ const { readThemeQuestions, writeThemeQuestions } = require("./fileManager");
 const { mergeUniqueQuestions, normalizeQuestionKey } = require("./dedupe");
 
 const QUIZ_THEMES = ["general", "math", "dsa", "puzzles", "indian_history"];
+const THEME_ALIASES = {
+  history: "indian_history",
+  indianhistory: "indian_history",
+  indian_history: "indian_history",
+  "indian history": "indian_history",
+};
 const STARTUP_MIN_DYNAMIC = 50;
 const REFILL_THRESHOLD = 20;
 const REFILL_BATCH_SIZE = 20;
@@ -60,17 +66,16 @@ class QuizQuestionService {
   }
 
   isSupportedTheme(theme) {
-    return QUIZ_THEMES.includes(
-      String(theme || "")
-        .trim()
-        .toLowerCase(),
-    );
+    return QUIZ_THEMES.includes(this.normalizeTheme(theme));
   }
 
   normalizeTheme(theme) {
-    return String(theme || "")
+    const normalized = String(theme || "")
       .trim()
-      .toLowerCase();
+      .toLowerCase()
+      .replace(/[-\s]+/g, "_");
+
+    return THEME_ALIASES[normalized] || normalized;
   }
 
   getThemeQuestionCounts() {

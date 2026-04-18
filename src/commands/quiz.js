@@ -1,6 +1,14 @@
 const { SlashCommandBuilder } = require("discord.js");
 const { SUPPORTED_THEMES } = require("../features/quiz/quizService");
 
+const THEME_LABELS = {
+  general: "General",
+  math: "Math",
+  dsa: "DSA",
+  puzzles: "Puzzles",
+  indian_history: "Indian History",
+};
+
 module.exports = {
   data: new SlashCommandBuilder()
     .setName("quiz")
@@ -22,7 +30,10 @@ module.exports = {
             .setRequired(true);
 
           for (const theme of SUPPORTED_THEMES) {
-            optionBuilder.addChoices({ name: theme, value: theme });
+            optionBuilder.addChoices({
+              name: THEME_LABELS[theme] || theme,
+              value: theme,
+            });
           }
 
           return optionBuilder;
