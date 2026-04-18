@@ -1,0 +1,3302 @@
+[
+  {
+    "question": "Who was the founder of the Maurya Empire?",
+    "options": [
+      "Chandragupta Maurya",
+      "Ashoka",
+      "Bindusara",
+      "Harsha"
+    ],
+    "answer": "Chandragupta Maurya",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Which emperor issued the famous Edicts?",
+    "options": [
+      "Ashoka",
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Samudragupta"
+    ],
+    "answer": "Ashoka",
+    "difficulty": "basic"
+  },
+  {
+    "question": "What was the capital of the Maurya Empire?",
+    "options": [
+      "Pataliputra",
+      "Ujjain",
+      "Taxila",
+      "Varanasi"
+    ],
+    "answer": "Pataliputra",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Who was the founder of the Gupta Empire?",
+    "options": [
+      "Chandragupta I",
+      "Samudragupta",
+      "Chandragupta II",
+      "Kumaragupta I"
+    ],
+    "answer": "Chandragupta I",
+    "difficulty": "basic"
+  },
+  {
+    "question": "What was the capital of the Gupta Empire?",
+    "options": [
+      "Pataliputra",
+      "Ujjain",
+      "Mathura",
+      "Varanasi"
+    ],
+    "answer": "Pataliputra",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Who was the greatest Gupta emperor?",
+    "options": [
+      "Chandragupta II",
+      "Samudragupta",
+      "Kumaragupta I",
+      "Skandagupta"
+    ],
+    "answer": "Chandragupta II",
+    "difficulty": "basic"
+  },
+  {
+    "question": "What was the golden age of India?",
+    "options": [
+      "Gupta Empire period",
+      "Maurya period",
+      "Mughal period",
+      "British period"
+    ],
+    "answer": "Gupta Empire period",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Who founded the Mughal Empire in India?",
+    "options": [
+      "Babur",
+      "Akbar",
+      "Humayun",
+      "Jahangir"
+    ],
+    "answer": "Babur",
+    "difficulty": "basic"
+  },
+  {
+    "question": "In what year did Babur found the Mughal Empire?",
+    "options": [
+      "1526",
+      "1556",
+      "1605",
+      "1707"
+    ],
+    "answer": "1526",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Who was the greatest Mughal emperor?",
+    "options": [
+      "Akbar",
+      "Babur",
+      "Jahangir",
+      "Shah Jahan"
+    ],
+    "answer": "Akbar",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Who was Ashoka?",
+    "options": [
+      "Mauryan emperor who spread Buddhism",
+      "Founder of Maurya dynasty",
+      "Last Mauryan emperor",
+      "General of Chandragupta"
+    ],
+    "answer": "Mauryan emperor who spread Buddhism",
+    "difficulty": "basic"
+  },
+  {
+    "question": "What was the Mauryan dynasty known for?",
+    "options": [
+      "Administrative excellence",
+      "Military conquests",
+      "Buddhist spread",
+      "All of these"
+    ],
+    "answer": "All of these",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Who was Shah Jahan?",
+    "options": [
+      "Mughal emperor who built Taj Mahal",
+      "Akbar's successor",
+      "British administrator",
+      "Social reformer"
+    ],
+    "answer": "Mughal emperor who built Taj Mahal",
+    "difficulty": "basic"
+  },
+  {
+    "question": "When was the Taj Mahal built?",
+    "options": [
+      "1643-1653",
+      "1550-1570",
+      "1700-1720",
+      "1720-1750"
+    ],
+    "answer": "1643-1653",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Who was Akbar?",
+    "options": [
+      "Greatest Mughal emperor",
+      "Founder of Mughal Empire",
+      "Shah Jahan's father",
+      "Aurangzeb's predecessor"
+    ],
+    "answer": "Greatest Mughal emperor",
+    "difficulty": "basic"
+  },
+  {
+    "question": "What was Akbar's main achievement?",
+    "options": [
+      "Unified empire and introduced reforms",
+      "Built monuments",
+      "Won battles",
+      "Expanded territory"
+    ],
+    "answer": "Unified empire and introduced reforms",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Who was Aurangzeb?",
+    "options": [
+      "Strict Mughal emperor",
+      "Akbar's rival",
+      "Shah Jahan's brother",
+      "Last great Mughal"
+    ],
+    "answer": "Strict Mughal emperor",
+    "difficulty": "basic"
+  },
+  {
+    "question": "When did the British East India Company arrive in India?",
+    "options": [
+      "1608",
+      "1600",
+      "1620",
+      "1650"
+    ],
+    "answer": "1608",
+    "difficulty": "basic"
+  },
+  {
+    "question": "What was the Battle of Plassey?",
+    "options": [
+      "Turning point of British rule in India",
+      "Last Mughal battle",
+      "Independence war",
+      "Rebellion"
+    ],
+    "answer": "Turning point of British rule in India",
+    "difficulty": "basic"
+  },
+  {
+    "question": "When was the Battle of Plassey?",
+    "options": [
+      "1757",
+      "1750",
+      "1765",
+      "1775"
+    ],
+    "answer": "1757",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Who won the Battle of Plassey?",
+    "options": [
+      "Lord Clive and British",
+      "Bengali nawab",
+      "French forces",
+      "Indian alliance"
+    ],
+    "answer": "Lord Clive and British",
+    "difficulty": "basic"
+  },
+  {
+    "question": "What was the Indian Rebellion of 1857?",
+    "options": [
+      "Major uprising against British rule",
+      "Peaceful movement",
+      "Social reform",
+      "Religious movement"
+    ],
+    "answer": "Major uprising against British rule",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Who led the 1857 rebellion in different regions?",
+    "options": [
+      "Various leaders like Rani Lakshmi Bai",
+      "Single leader",
+      "British-backed rulers",
+      "Mughal emperors"
+    ],
+    "answer": "Various leaders like Rani Lakshmi Bai",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Who was Rani Lakshmi Bai?",
+    "options": [
+      "Queen of Jhansi, rebel leader",
+      "Mughal queen",
+      "British administrator's wife",
+      "Social reformer"
+    ],
+    "answer": "Queen of Jhansi, rebel leader",
+    "difficulty": "basic"
+  },
+  {
+    "question": "When was India's independence?",
+    "options": [
+      "August 15, 1947",
+      "August 15, 1946",
+      "July 4, 1947",
+      "September 15, 1947"
+    ],
+    "answer": "August 15, 1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Rajendra Prasad",
+      "Sardar Patel",
+      "Maulana Azad"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Who was the first President of India?",
+    "options": [
+      "Rajendra Prasad",
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Rajendra Prasad",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Who drafted the Indian Constitution?",
+    "options": [
+      "Dr. Ambedkar",
+      "Nehru",
+      "Rajendra Prasad",
+      "Patel"
+    ],
+    "answer": "Dr. Ambedkar",
+    "difficulty": "basic"
+  },
+  {
+    "question": "When was the Indian Constitution adopted?",
+    "options": [
+      "January 26, 1950",
+      "August 15, 1947",
+      "November 26, 1949",
+      "December 25, 1950"
+    ],
+    "answer": "January 26, 1950",
+    "difficulty": "basic"
+  },
+  {
+    "question": "What is the Indian National Congress?",
+    "options": [
+      "Oldest political party, lead independence movement",
+      "Government body",
+      "Administrative organization",
+      "Military group"
+    ],
+    "answer": "Oldest political party, lead independence movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Who was Gandhi?",
+    "options": [
+      "Leader of non-violent independence movement",
+      "First PM",
+      "Military commander",
+      "Social reformer"
+    ],
+    "answer": "Leader of non-violent independence movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "What was the Quit India Movement?",
+    "options": [
+      "Demand for British withdrawal in 1942",
+      "Peaceful protest",
+      "Economic boycott",
+      "Military uprising"
+    ],
+    "answer": "Demand for British withdrawal in 1942",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Who was Subhas Chandra Bose?",
+    "options": [
+      "Revolutionary freedom fighter",
+      "Gandhian leader",
+      "British administrator",
+      "Social reformer"
+    ],
+    "answer": "Revolutionary freedom fighter",
+    "difficulty": "basic"
+  },
+  {
+    "question": "What was Subhas' Indian National Army?",
+    "options": [
+      "Armed force to fight British",
+      "Police force",
+      "Civilian organization",
+      "Political party"
+    ],
+    "answer": "Armed force to fight British",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Who was Bhagat Singh?",
+    "options": [
+      "Revolutionary freedom fighter",
+      "Political leader",
+      "Social reformer",
+      "Spiritual leader"
+    ],
+    "answer": "Revolutionary freedom fighter",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 36: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 37: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 38: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 39: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 40: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 41: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 42: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 43: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 44: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 45: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 46: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 47: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 48: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 49: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 50: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 51: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 52: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 53: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 54: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 55: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 56: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 57: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 58: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 59: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 60: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 61: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 62: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 63: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 64: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 65: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 66: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 67: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 68: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 69: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 70: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 71: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 72: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 73: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 74: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 75: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 76: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 77: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 78: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 79: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 80: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 81: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 82: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 83: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 84: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 85: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 86: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 87: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 88: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 89: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 90: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 91: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 92: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 93: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 94: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 95: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 96: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 97: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 98: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 99: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 100: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 101: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 102: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 103: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 104: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 105: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 106: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 107: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 108: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 109: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 110: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 111: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 112: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 113: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 114: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 115: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 116: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 117: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 118: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 119: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 120: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 121: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 122: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 123: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 124: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 125: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 126: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 127: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 128: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 129: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 130: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 131: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 132: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 133: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 134: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 135: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 136: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 137: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 138: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 139: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 140: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 141: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 142: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 143: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 144: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 145: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 146: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 147: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 148: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 149: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 150: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 151: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 152: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 153: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 154: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 155: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 156: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 157: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 158: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 159: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 160: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 161: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 162: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 163: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 164: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 165: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 166: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 167: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 168: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 169: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 170: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 171: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 172: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 173: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 174: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 175: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 176: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 177: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 178: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 179: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 180: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 181: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 182: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 183: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 184: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 185: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 186: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 187: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 188: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 189: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 190: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 191: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 192: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 193: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 194: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 195: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 196: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 197: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 198: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 199: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 200: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 201: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 202: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 203: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 204: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 205: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 206: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 207: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 208: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 209: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 210: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 211: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 212: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 213: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 214: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 215: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 216: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 217: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 218: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 219: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 220: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 221: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 222: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 223: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 224: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 225: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 226: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 227: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 228: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 229: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 230: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 231: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 232: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 233: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 234: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 235: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 236: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 237: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 238: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 239: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 240: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 241: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 242: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 243: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 244: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 245: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 246: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 247: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 248: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 249: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 250: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 251: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 252: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 253: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 254: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 255: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 256: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 257: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 258: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 259: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 260: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 261: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 262: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 263: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 264: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 265: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 266: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 267: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 268: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 269: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 270: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 271: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 272: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 273: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 274: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 275: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 276: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 277: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 278: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 279: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 280: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 281: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 282: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 283: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 284: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 285: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 286: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 287: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 288: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 289: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 290: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 291: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 292: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 293: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 294: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 295: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 296: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Indian History 297: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 298: In which year did India gain independence?",
+    "options": [
+      "1947",
+      "1946",
+      "1948",
+      "1950"
+    ],
+    "answer": "1947",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 299: Which movement demanded immediate British withdrawal?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "difficulty": "basic"
+  },
+  {
+    "question": "Indian History 300: Who was the first Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Rajendra Prasad",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "difficulty": "basic"
+  }
+]

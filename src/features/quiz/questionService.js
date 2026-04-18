@@ -3,7 +3,7 @@ const { generateQuestionsFromGroq } = require("./apiGenerator");
 const { readThemeQuestions, writeThemeQuestions } = require("./fileManager");
 const { mergeUniqueQuestions, normalizeQuestionKey } = require("./dedupe");
 
-const QUIZ_THEMES = ["general", "math", "dsa", "puzzles"];
+const QUIZ_THEMES = ["general", "math", "dsa", "puzzles", "indian_history"];
 const STARTUP_MIN_DYNAMIC = 50;
 const REFILL_THRESHOLD = 20;
 const REFILL_BATCH_SIZE = 20;
