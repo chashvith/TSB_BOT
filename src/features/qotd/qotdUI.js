@@ -22,9 +22,9 @@ function buildQotdEmbed(questionText, { dateKey, requestedBy = null } = {}) {
 }
 
 function buildQotdThreadPrompt(questionText) {
+  void questionText;
   return [
-    `QOTD: ${questionText}`,
-    "",
+    "Use this thread to post your answer.",
     "Reply in this thread with your answer.",
     "You can submit your own QOTD using `/qotd suggest`.",
   ].join("\n");

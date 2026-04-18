@@ -92,21 +92,31 @@ module.exports = {
       }
 
       const top = entries.slice(0, 10);
-      const lines = top.map(
-        (entry, idx) =>
-          `${idx + 1}. <@${entry.userId}> - ${entry.wins}W/${entry.losses}L/${entry.draws}D | WR ${entry.gamesPlayed ? Math.round((entry.wins / entry.gamesPlayed) * 100) : 0}% | Streak ${entry.winStreak}`,
+      const users = await Promise.all(
+        top.map((entry) =>
+          interaction.client.users.fetch(entry.userId).catch(() => null),
+        ),
       );
 
+      const lines = top.map((entry, idx) => {
+        const user = users[idx];
+        const username = user ? user.username : `User ${entry.userId}`;
+        return `${idx + 1}. ${username} - ${entry.wins}W/${entry.losses}L/${entry.draws}D | WR ${entry.gamesPlayed ? Math.round((entry.wins / entry.gamesPlayed) * 100) : 0}% | Streak ${entry.winStreak}`;
+      });
+
       if (me) {
+        const meUser = await interaction.client.users
+          .fetch(interaction.user.id)
+          .catch(() => null);
+        const meName = meUser ? meUser.username : `User ${interaction.user.id}`;
         lines.push(
           "",
-          `Your position: #${me.rank}/${me.totalPlayers} (${me.entry.wins} wins, best streak ${me.entry.bestWinStreak})`,
+          `Your position (${meName}): #${me.rank}/${me.totalPlayers} (${me.entry.wins} wins, best streak ${me.entry.bestWinStreak})`,
         );
       }
 
       await interaction.reply({
         content: [`Quiz Leaderboard (${scope})`, ...lines].join("\n"),
-        allowedMentions: { users: top.map((entry) => entry.userId) },
       });
       return;
     }

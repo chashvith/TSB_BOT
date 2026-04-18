@@ -520,16 +520,6 @@
     "answer": "55"
   },
   {
-    "question": "What is -5 + 3?",
-    "options": [
-      "-8",
-      "-2",
-      "2",
-      "8"
-    ],
-    "answer": "-2"
-  },
-  {
     "question": "What is -10 * -3?",
     "options": [
       "-30",
@@ -558,16 +548,6 @@
       "x=15"
     ],
     "answer": "x=10"
-  },
-  {
-    "question": "What is 15/3?",
-    "options": [
-      "3",
-      "5",
-      "12",
-      "18"
-    ],
-    "answer": "5"
   },
   {
     "question": "What is 20/4?",
@@ -738,16 +718,6 @@
       "30"
     ],
     "answer": "20"
-  },
-  {
-    "question": "What is 2 + 3 * 4?",
-    "options": [
-      "14",
-      "20",
-      "24",
-      "30"
-    ],
-    "answer": "14"
   },
   {
     "question": "What is (10+5)/3?",
@@ -1190,16 +1160,6 @@
     "answer": "27"
   },
   {
-    "question": "What is √4?",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "answer": "2"
-  },
-  {
     "question": "What is √25?",
     "options": [
       "4",
@@ -1450,16 +1410,6 @@
     "answer": "49"
   },
   {
-    "question": "What is 8²?",
-    "options": [
-      "56",
-      "64",
-      "72",
-      "80"
-    ],
-    "answer": "64"
-  },
-  {
     "question": "What is 13²?",
     "options": [
       "150",
@@ -1488,16 +1438,6 @@
       "250"
     ],
     "answer": "225"
-  },
-  {
-    "question": "What is 16²?",
-    "options": [
-      "240",
-      "250",
-      "256",
-      "280"
-    ],
-    "answer": "256"
   },
   {
     "question": "Is 17 prime?",
@@ -1788,16 +1728,6 @@
       "x=6"
     ],
     "answer": "x=4"
-  },
-  {
-    "question": "What is 2 + 3 + 4?",
-    "options": [
-      "8",
-      "9",
-      "10",
-      "11"
-    ],
-    "answer": "9"
   },
   {
     "question": "What is 5 + 6 + 7?",
@@ -2120,16 +2050,6 @@
     "answer": "5"
   },
   {
-    "question": "What is |-10|?",
-    "options": [
-      "-10",
-      "10",
-      "0",
-      "20"
-    ],
-    "answer": "10"
-  },
-  {
     "question": "What is |-3| + |5|?",
     "options": [
       "2",
@@ -2158,46 +2078,6 @@
       "160"
     ],
     "answer": "120"
-  },
-  {
-    "question": "What is 6!?",
-    "options": [
-      "600",
-      "620",
-      "720",
-      "820"
-    ],
-    "answer": "720"
-  },
-  {
-    "question": "What is 4!?",
-    "options": [
-      "20",
-      "24",
-      "28",
-      "32"
-    ],
-    "answer": "24"
-  },
-  {
-    "question": "What is 3!?",
-    "options": [
-      "3",
-      "6",
-      "9",
-      "12"
-    ],
-    "answer": "6"
-  },
-  {
-    "question": "What is 2!?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "6"
-    ],
-    "answer": "2"
   },
   {
     "question": "What is 1!?",
@@ -2400,16 +2280,6 @@
     "answer": "12"
   },
   {
-    "question": "What is 9 * 9?",
-    "options": [
-      "72",
-      "81",
-      "90",
-      "99"
-    ],
-    "answer": "81"
-  },
-  {
     "question": "Is 37 prime?",
     "options": [
       "No",
@@ -2550,16 +2420,6 @@
     "answer": "5"
   },
   {
-    "question": "What is the derivative of x⁴?",
-    "options": [
-      "4x",
-      "4x²",
-      "4x³",
-      "x³"
-    ],
-    "answer": "4x³"
-  },
-  {
     "question": "What is the integral of 2x dx?",
     "options": [
       "2",
@@ -2630,26 +2490,6 @@
     "answer": "2.25"
   },
   {
-    "question": "What is (-3)² ?",
-    "options": [
-      "-9",
-      "-6",
-      "6",
-      "9"
-    ],
-    "answer": "9"
-  },
-  {
-    "question": "What is (-2)³ ?",
-    "options": [
-      "-8",
-      "-6",
-      "6",
-      "8"
-    ],
-    "answer": "-8"
-  },
-  {
     "question": "Solve: 2x + 10 = 30",
     "options": [
       "x=5",
@@ -2708,16 +2548,6 @@
       "512"
     ],
     "answer": "128"
-  },
-  {
-    "question": "What is 3^5?",
-    "options": [
-      "81",
-      "100",
-      "125",
-      "243"
-    ],
-    "answer": "243"
   },
   {
     "question": "What is 5^4?",
@@ -3370,16 +3200,6 @@
     "answer": "202"
   },
   {
-    "question": "What is 50 * 50?",
-    "options": [
-      "2000",
-      "2250",
-      "2500",
-      "2750"
-    ],
-    "answer": "2500"
-  },
-  {
     "question": "What is 60 * 60?",
     "options": [
       "3000",
@@ -3458,16 +3278,6 @@
       "22"
     ],
     "answer": "12"
-  },
-  {
-    "question": "What is (2 + 2) * 5?",
-    "options": [
-      "12",
-      "14",
-      "20",
-      "22"
-    ],
-    "answer": "20"
   },
   {
     "question": "Complete: 8, 16, 32, 64, ?",

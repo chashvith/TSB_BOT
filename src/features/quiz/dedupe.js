@@ -2,6 +2,10 @@ function normalizeQuestionKey(value) {
   return String(value || "")
     .trim()
     .toLowerCase()
+    // Remove synthetic numbering prefixes like "Puzzle 301:".
+    .replace(/^[a-z\s]{2,40}\s\d{1,5}\s*:\s*/i, "")
+    // Normalize punctuation so tiny formatting differences dedupe correctly.
+    .replace(/[^a-z0-9\s]/g, " ")
     .replace(/\s+/g, " ");
 }
 

@@ -8,7 +8,7 @@ const STARTUP_MIN_DYNAMIC = 50;
 const REFILL_THRESHOLD = 20;
 const REFILL_BATCH_SIZE = 20;
 const REFILL_INTERVAL_MS = 5 * 60 * 1000;
-const RECENT_BUFFER_SIZE = 30;
+const RECENT_BUFFER_SIZE = 120;
 
 class QuizQuestionService {
   constructor({ logger }) {
@@ -127,26 +127,65 @@ class QuizQuestionService {
       return [];
     }
 
-    const picked = [];
-    const pickedSet = new Set();
-    const guardLimit = Math.max(20, safeCount * 10);
+    const dynamicPool = this.dynamicPools.get(normalizedTheme) || [];
+    const fallbackPool = this.fallbackPools.get(normalizedTheme) || [];
+    const recent = this.recentQuestionBuffers.get(normalizedTheme) || [];
+    const recentSet = new Set(recent);
 
-    let attempts = 0;
-    while (picked.length < safeCount && attempts < guardLimit) {
-      const next = this.getQuestion(normalizedTheme);
-      if (!next) {
-        break;
+    const mergeUniqueByQuestion = (questions) => {
+      const seen = new Set();
+      const unique = [];
+
+      for (const question of questions) {
+        const key = normalizeQuestionKey(question?.question);
+        if (!key || seen.has(key)) {
+          continue;
+        }
+
+        seen.add(key);
+        unique.push(question);
       }
 
-      const key = normalizeQuestionKey(next.question);
-      if (!key || pickedSet.has(key)) {
-        attempts += 1;
-        continue;
+      return unique;
+    };
+
+    const pickShuffled = (questions, limit) => {
+      const shuffled = [...questions];
+      for (let index = shuffled.length - 1; index > 0; index -= 1) {
+        const randomIndex = Math.floor(Math.random() * (index + 1));
+        [shuffled[index], shuffled[randomIndex]] = [
+          shuffled[randomIndex],
+          shuffled[index],
+        ];
       }
 
-      picked.push(next);
-      pickedSet.add(key);
-      attempts += 1;
+      return shuffled.slice(0, limit);
+    };
+
+    // Prefer dynamic pool, then fallback, while avoiding recently used questions.
+    const preferredPool = mergeUniqueByQuestion([...dynamicPool, ...fallbackPool]);
+    const nonRecentPool = preferredPool.filter(
+      (question) => !recentSet.has(normalizeQuestionKey(question.question)),
+    );
+
+    let picked = pickShuffled(nonRecentPool, safeCount);
+    if (picked.length < safeCount) {
+      const missing = safeCount - picked.length;
+      const pickedSet = new Set(
+        picked.map((question) => normalizeQuestionKey(question.question)),
+      );
+
+      const refillCandidates = preferredPool.filter((question) => {
+        const key = normalizeQuestionKey(question.question);
+        return key && !pickedSet.has(key);
+      });
+
+      picked = [...picked, ...pickShuffled(refillCandidates, missing)];
+    }
+
+    // Mark selected prompts as recent so next duel rotates to fresh ones.
+    for (const question of picked) {
+      this.markRecent(normalizedTheme, question.question);
     }
 
     return picked;
