@@ -44,7 +44,21 @@ module.exports = (client, deps) => {
     return `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}-${String(now.getDate()).padStart(2, "0")}`;
   }
 
+  if (!client.__tsbHandledInteractionIds) {
+    client.__tsbHandledInteractionIds = new Set();
+  }
+
   client.on("interactionCreate", async (interaction) => {
+    // Prevent duplicate processing when listeners are accidentally attached twice.
+    if (client.__tsbHandledInteractionIds.has(interaction.id)) {
+      return;
+    }
+
+    client.__tsbHandledInteractionIds.add(interaction.id);
+    setTimeout(() => {
+      client.__tsbHandledInteractionIds.delete(interaction.id);
+    }, 5 * 60 * 1000);
+
     try {
       if (interaction.isChatInputCommand()) {
         const command = commands.get(interaction.commandName);
@@ -478,6 +492,15 @@ module.exports = (client, deps) => {
         });
       }
     } catch (error) {
+      const apiCode = error?.code;
+      if (apiCode === 40060 || apiCode === 10062) {
+        logger.warn("Skipped interaction error reply for acknowledged/expired interaction", {
+          interactionId: interaction.id,
+          code: apiCode,
+        });
+        return;
+      }
+
       logger.error("interactionCreate handler failed", error);
 
       if (interaction.deferred || interaction.replied) {
