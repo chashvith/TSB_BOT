@@ -58,6 +58,17 @@ function loadConfig(env = process.env) {
     codeforcesReminderLeadMinutes: Number(
       env.CODEFORCES_REMINDER_LEAD_MINUTES || 180,
     ),
+    focusCategoryId: optionalId(env.FOCUS_CATEGORY_ID),
+    focusJoinToCreateChannelId: optionalId(env.FOCUS_JOIN_TO_CREATE_CHANNEL_ID),
+    focusJoinToCreateChannelName: (
+      env.FOCUS_JOIN_TO_CREATE_CHANNEL_NAME || "Join to Create Focus Room"
+    ).trim(),
+    focusRoomNamePrefix: (env.FOCUS_ROOM_NAME_PREFIX || "Focus Room").trim(),
+    focusMinimumSessionMinutes: Number(env.FOCUS_MINIMUM_SESSION_MINUTES || 5),
+    focusTaskCooldownMinutes: Number(env.FOCUS_TASK_COOLDOWN_MINUTES || 10),
+    focusMaxTasksPerSession: Number(env.FOCUS_MAX_TASKS_PER_SESSION || 5),
+    focusTaskXpPerTask: Number(env.FOCUS_TASK_XP_PER_TASK || 15),
+    aloneXpMultiplier: Number(env.ALONE_XP_MULTIPLIER || 1),
     focusModeRoleName: (env.FOCUS_MODE_ROLE_NAME || "Focus Mode").trim(),
     distractionRoleNames: hasDistractionRolesConfig
       ? distractionRoleNames
@@ -108,6 +119,41 @@ function loadConfig(env = process.env) {
     config.riddleDelayMinutes <= 0
   ) {
     config.riddleDelayMinutes = 60;
+  }
+
+  if (
+    !Number.isFinite(config.focusMinimumSessionMinutes) ||
+    config.focusMinimumSessionMinutes <= 0
+  ) {
+    config.focusMinimumSessionMinutes = 5;
+  }
+
+  if (
+    !Number.isFinite(config.focusTaskCooldownMinutes) ||
+    config.focusTaskCooldownMinutes <= 0
+  ) {
+    config.focusTaskCooldownMinutes = 10;
+  }
+
+  if (
+    !Number.isFinite(config.focusMaxTasksPerSession) ||
+    config.focusMaxTasksPerSession <= 0
+  ) {
+    config.focusMaxTasksPerSession = 5;
+  }
+
+  if (
+    !Number.isFinite(config.focusTaskXpPerTask) ||
+    config.focusTaskXpPerTask <= 0
+  ) {
+    config.focusTaskXpPerTask = 15;
+  }
+
+  if (
+    !Number.isFinite(config.aloneXpMultiplier) ||
+    config.aloneXpMultiplier < 0
+  ) {
+    config.aloneXpMultiplier = 1;
   }
 
   return config;

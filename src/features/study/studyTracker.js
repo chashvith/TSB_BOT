@@ -24,6 +24,7 @@ class StudyTracker {
       data.users[id] = {
         tasksCompleted: 0,
         studyTime: 0,
+        totalXp: 0,
       };
     }
 

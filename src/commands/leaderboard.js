@@ -16,15 +16,14 @@ function rankLabel(index) {
 module.exports = {
   data: new SlashCommandBuilder()
     .setName("leaderboard")
-    .setDescription("Show weekly study leaderboard"),
+    .setDescription("Show focus XP leaderboard"),
 
   async execute(interaction, { leaderboardService }) {
     const rows = leaderboardService.getLeaderboardRows();
 
-    if (!rows.length || !rows.some((row) => row.score > 0)) {
+    if (!rows.length || !rows.some((row) => row.totalXp > 0)) {
       await interaction.reply({
-        content:
-          "Leaderboard is empty this week. Start with /tasks and study in the VC.",
+        content: "Leaderboard is empty. Start a session with /focus start.",
         ephemeral: true,
       });
       return;
@@ -38,15 +37,15 @@ module.exports = {
           .catch(() => null);
         const username = user ? user.username : `User ${row.userId}`;
 
-        return `${rankLabel(index)} ${username} | Tasks: ${row.tasksCompleted} | Study: ${leaderboardService.formatStudyTime(row.studyTime)} | Score: ${row.score}`;
+        return `${rankLabel(index)} ${username} | XP: ${row.totalXp} | Tasks: ${row.tasksCompleted} | Study: ${leaderboardService.formatStudyTime(Math.round(row.studyTime))}`;
       }),
     );
 
     const embed = new EmbedBuilder()
-      .setTitle("Weekly Study Leaderboard")
+      .setTitle("Focus XP Leaderboard")
       .setDescription(lines.join("\n"))
       .setColor(0xf1c40f)
-      .setFooter({ text: "Score = (tasksCompleted × 10) + studyTimeMinutes" })
+      .setFooter({ text: "XP = weighted VC minutes + (session tasks × 15)" })
       .setTimestamp();
 
     await interaction.reply({ embeds: [embed] });

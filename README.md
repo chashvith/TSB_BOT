@@ -24,7 +24,7 @@ It combines smart buddy matching, study tracking, reminders, quiz duels, and com
 ### Focus Mode and Voice Discipline
 
 - Focus role workflow for distraction control.
-- Voice study tracking for leaderboard scoring.
+- Focus session timer and XP scoring.
 - Screen-share enforcement in configured study channels.
 - Built for accountability in long study sessions.
 
@@ -53,13 +53,34 @@ It combines smart buddy matching, study tracking, reminders, quiz duels, and com
 - `/completetask` marks a specific task ID as completed.
 - Duplicate pending task protection is included.
 
-### 3. Weekly Study Leaderboard
+### 3. Focus Session XP System
 
-- `/leaderboard` shows top weekly performers.
-- Score formula: `(tasksCompleted x 10) + studyTimeMinutes`.
-- Tracks study time and task completion per user.
+- `/focus start <minutes>` starts a timed focus session.
+- XP formula: `weightedVoiceMinutes + (sessionTasks x 15)`.
+- Voice multipliers:
+  - Focus VC + screen share: `1.2x`
+  - Focus VC only: `1.0x`
+  - Normal VC: `0.6x`
+  - Not in VC: `0x`
+- Session is split automatically when user switches VC or toggles stream.
+- Leaving VC before timer end gives no XP.
+- Sessions under 5 minutes are ignored.
+- Optional anti-abuse penalty when user is alone in VC via `ALONE_XP_MULTIPLIER`.
 
-### 4. Quiz Duel System (Core)
+### 4. Focus Task Progress Inside Sessions
+
+- `/task done` works only while a focus session is active.
+- Requires user to be in a Focus category VC.
+- Maximum 5 task marks per session.
+- Minimum 10 minutes between task marks.
+- Each valid task adds 15 XP (max 75 task XP per session).
+
+### 5. Focus XP Leaderboard
+
+- `/leaderboard` sorts users by total XP.
+- Stores cumulative XP per user in productivity data.
+
+### 6. Quiz Duel System (Core)
 
 - `/quiz duel` starts a 2-player themed quiz duel.
 - Theme support includes:
@@ -74,7 +95,7 @@ It combines smart buddy matching, study tracking, reminders, quiz duels, and com
 - `/quiz leaderboard` supports `all_time` and `weekly` scope.
 - `/quiz themes` shows theme-wise question counts.
 
-### 5. QOTD (Question Of The Day)
+### 7. QOTD (Question Of The Day)
 
 - `/qotd suggest` lets users queue questions.
 - Prevents duplicate queue questions and duplicate user queue entries.
@@ -82,32 +103,32 @@ It combines smart buddy matching, study tracking, reminders, quiz duels, and com
 - `/qotd post` allows admin-triggered posting.
 - Scheduled auto-posting is also supported.
 
-### 6. Facts and Riddles
+### 8. Facts and Riddles
 
 - `/fact` posts a random fact instantly.
 - `/riddle` posts a random riddle embed instantly.
 - Background scheduled posting for facts and riddles is supported.
 
-### 7. Alerts and Reminders
+### 9. Alerts and Reminders
 
 - Interactive alert panel with modal + dropdown flow.
 - Supports schedule type, delivery mode, and day selection.
 - Supports view and delete of saved reminders.
 - Reminder data is persisted locally.
 
-### 8. Voice Productivity Automation (Core)
+### 10. Voice Productivity Automation (Core)
 
 - Study voice channel tracking for study-time analytics.
 - Focus mode role workflow support.
 - Screen share enforcement in configured study voice channels.
 
-### 9. Community Moderation and Onboarding
+### 11. Community Moderation and Onboarding
 
 - Welcome embed for new members.
 - Intro panel + modal submission flow.
 - Anti-spam protection against repeated `@everyone` mentions with timeout action.
 
-### 10. Admin and Utility Features
+### 12. Admin and Utility Features
 
 - `/announce` sends admin announcements to selected channels.
 - Codeforces service hooks are integrated for contest-related automation.
@@ -116,7 +137,9 @@ It combines smart buddy matching, study tracking, reminders, quiz duels, and com
 
 - `/announce`
 - `/tasks`
+- `/task`
 - `/completetask`
+- `/focus`
 - `/leaderboard`
 - `/qotd`
 - `/fact`
@@ -170,6 +193,17 @@ RIDDLE_DELAY_MINUTES=60
 
 FOCUS_MODE_ROLE_NAME=Focus Mode
 DISTRACTION_ROLE_NAMES=Normal,General Access
+
+FOCUS_CATEGORY_ID=0
+FOCUS_JOIN_TO_CREATE_CHANNEL_ID=0
+FOCUS_JOIN_TO_CREATE_CHANNEL_NAME=Join to Create Focus Room
+FOCUS_ROOM_NAME_PREFIX=Focus Room
+
+FOCUS_MINIMUM_SESSION_MINUTES=5
+FOCUS_TASK_COOLDOWN_MINUTES=10
+FOCUS_MAX_TASKS_PER_SESSION=5
+FOCUS_TASK_XP_PER_TASK=15
+ALONE_XP_MULTIPLIER=1
 
 CODEFORCES_ALERT_CHANNEL_ID=0
 CODEFORCES_PING_ROLE_ID=0

@@ -15,6 +15,31 @@ function createDefaultData() {
   };
 }
 
+function sanitizeUsers(users) {
+  if (!users || typeof users !== "object") {
+    return {};
+  }
+
+  const normalized = {};
+  for (const [userId, stats] of Object.entries(users)) {
+    const safeStats = stats && typeof stats === "object" ? stats : {};
+    normalized[userId] = {
+      ...safeStats,
+      tasksCompleted: Number.isFinite(Number(safeStats.tasksCompleted))
+        ? Number(safeStats.tasksCompleted)
+        : 0,
+      studyTime: Number.isFinite(Number(safeStats.studyTime))
+        ? Number(safeStats.studyTime)
+        : 0,
+      totalXp: Number.isFinite(Number(safeStats.totalXp))
+        ? Number(safeStats.totalXp)
+        : 0,
+    };
+  }
+
+  return normalized;
+}
+
 function ensureStorageFile(logger) {
   if (!fs.existsSync(DATA_PATH)) {
     fs.mkdirSync(DATA_PATH, { recursive: true });
@@ -36,7 +61,7 @@ function sanitizeData(rawData) {
     rawData && typeof rawData === "object" ? rawData : createDefaultData();
 
   return {
-    users: safe.users && typeof safe.users === "object" ? safe.users : {},
+    users: sanitizeUsers(safe.users),
     tasks: Array.isArray(safe.tasks) ? safe.tasks : [],
     meta:
       safe.meta && typeof safe.meta === "object"

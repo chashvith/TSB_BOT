@@ -32,24 +32,24 @@ class LeaderboardService {
   buildLeaderboardEmbed(rows, title = "Weekly Study Leaderboard") {
     const visibleRows = rows.slice(0, 10);
 
-    if (!visibleRows.length || !visibleRows.some((row) => row.score > 0)) {
+    if (!visibleRows.length || !visibleRows.some((row) => row.totalXp > 0)) {
       return new EmbedBuilder()
         .setTitle(title)
-        .setDescription("No activity this week yet.")
+        .setDescription("No XP earned yet.")
         .setColor(0x5865f2)
         .setTimestamp();
     }
 
     const lines = visibleRows.map((row, index) => {
       const username = row.username || `User ${row.userId}`;
-      return `${rankLabel(index)} ${username} | Tasks: ${row.tasksCompleted} | Study: ${this.formatStudyTime(row.studyTime)} | Score: ${row.score}`;
+      return `${rankLabel(index)} ${username} | XP: ${row.totalXp} | Tasks: ${row.tasksCompleted} | Study: ${this.formatStudyTime(Math.round(row.studyTime))}`;
     });
 
     return new EmbedBuilder()
       .setTitle(title)
       .setDescription(lines.join("\n"))
       .setColor(0xf1c40f)
-      .setFooter({ text: "Score = (tasksCompleted × 10) + studyTimeMinutes" })
+      .setFooter({ text: "XP = weighted VC minutes + (session tasks × 15)" })
       .setTimestamp();
   }
 
@@ -59,18 +59,18 @@ class LeaderboardService {
     const rows = Object.entries(data.users || {}).map(([userId, stats]) => {
       const tasksCompleted = Number(stats.tasksCompleted || 0);
       const studyTime = Number(stats.studyTime || 0);
-      const score = tasksCompleted * 10 + studyTime;
+      const totalXp = Number(stats.totalXp || 0);
 
       return {
         userId,
         username: stats.username || null,
         tasksCompleted,
         studyTime,
-        score,
+        totalXp,
       };
     });
 
-    return rows.sort((left, right) => right.score - left.score);
+    return rows.sort((left, right) => right.totalXp - left.totalXp);
   }
 
   resetWeeklyStats(reason = "scheduled") {
@@ -84,6 +84,7 @@ class LeaderboardService {
     for (const userId of Object.keys(data.users || {})) {
       data.users[userId].tasksCompleted = 0;
       data.users[userId].studyTime = 0;
+      data.users[userId].totalXp = Number(data.users[userId].totalXp || 0);
     }
 
     data.meta = data.meta || {};
@@ -139,10 +140,7 @@ class LeaderboardService {
       }),
     );
 
-    const embed = this.buildLeaderboardEmbed(
-      rows,
-      "This Week's Study Leaderboard",
-    );
+    const embed = this.buildLeaderboardEmbed(rows, "Focus XP Leaderboard");
     await channel.send({ embeds: [embed] });
   }
 

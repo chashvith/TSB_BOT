@@ -10,6 +10,7 @@ module.exports = (client, deps) => {
     alertService,
     codeforcesService,
     leaderboardService,
+    focusVoiceTracker,
     qotdService,
     factsService,
     riddleService,
@@ -48,6 +49,7 @@ module.exports = (client, deps) => {
     alertService.start(client);
     codeforcesService.start(client);
     leaderboardService.startWeeklyResetScheduler(client);
+    await focusVoiceTracker.ensureJoinToCreateChannels(client);
     qotdService.start(client);
     factsService.start(client);
     riddleService.start(client);

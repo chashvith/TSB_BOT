@@ -29,6 +29,9 @@ const buddyStorage = require("./features/buddy/buddyStorage");
 const { BuddyService } = require("./features/buddy/buddyService");
 const quizStorage = require("./features/quiz/quizStorage");
 const { QuizDuelService } = require("./features/quiz/quizService");
+const { FocusSessionManager } = require("./features/focus/sessionManager");
+const { FocusTaskHandler } = require("./features/focus/taskHandler");
+const { FocusVoiceTracker } = require("./features/focus/voiceTracker");
 
 async function bootstrap() {
   const config = loadConfig(process.env);
@@ -83,6 +86,25 @@ async function bootstrap() {
     config,
   });
 
+  const focusSessionManager = new FocusSessionManager({
+    storage: productivityStorage,
+    logger,
+    config,
+  });
+
+  const focusVoiceTracker = new FocusVoiceTracker({
+    logger,
+    config,
+    sessionManager: focusSessionManager,
+  });
+
+  const focusTaskHandler = new FocusTaskHandler({
+    sessionManager: focusSessionManager,
+    logger,
+    config,
+    voiceTracker: focusVoiceTracker,
+  });
+
   const qotdService = new QotdService({
     storage: qotdStorage,
     logger,
@@ -126,6 +148,9 @@ async function bootstrap() {
     todoService,
     leaderboardService,
     studyTracker,
+    focusSessionManager,
+    focusVoiceTracker,
+    focusTaskHandler,
     qotdService,
     factsService,
     riddleService,
