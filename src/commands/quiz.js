@@ -1,6 +1,5 @@
 const { SlashCommandBuilder } = require("discord.js");
 const { SUPPORTED_THEMES } = require("../features/quiz/quizService");
-const { getThemeQuestionCounts } = require("../features/quiz/quizQuestionBank");
 
 module.exports = {
   data: new SlashCommandBuilder()
@@ -50,7 +49,7 @@ module.exports = {
         .setDescription("Show available quiz themes and question counts"),
     ),
 
-  async execute(interaction, { quizDuelService }) {
+  async execute(interaction, { quizDuelService, quizQuestionService }) {
     if (!interaction.inGuild()) {
       await interaction.reply({
         content: "This command can only be used in a server.",
@@ -62,11 +61,9 @@ module.exports = {
     const sub = interaction.options.getSubcommand();
 
     if (sub === "themes") {
-      const rows = getThemeQuestionCounts();
+      const rows = quizQuestionService.getThemeQuestionCounts();
       const lines = rows.map((row) =>
-        row.ok
-          ? `• ${row.theme}: ${row.count} questions`
-          : `• ${row.theme}: unavailable (${row.code})`,
+        `• ${row.theme}: dynamic ${row.dynamicCount}, fallback ${row.fallbackCount}, total ${row.totalCount}`,
       );
 
       await interaction.reply({

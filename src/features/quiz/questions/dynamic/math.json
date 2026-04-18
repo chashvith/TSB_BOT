@@ -1,0 +1,3882 @@
+[
+  {
+    "question": "What is 15 * 3?",
+    "options": [
+      "35",
+      "45",
+      "55",
+      "65"
+    ],
+    "answer": "45"
+  },
+  {
+    "question": "What is the derivative of x^2?",
+    "options": [
+      "x",
+      "2x",
+      "x^2",
+      "2"
+    ],
+    "answer": "2x"
+  },
+  {
+    "question": "What is 12^2?",
+    "options": [
+      "124",
+      "132",
+      "144",
+      "154"
+    ],
+    "answer": "144"
+  },
+  {
+    "question": "Solve: 9 + 6 / 3",
+    "options": [
+      "5",
+      "11",
+      "15",
+      "3"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "What is the value of pi rounded to 2 decimals?",
+    "options": [
+      "3.12",
+      "3.14",
+      "3.16",
+      "3.18"
+    ],
+    "answer": "3.14"
+  },
+  {
+    "question": "What is the square root of 81?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "If a triangle has angles 90°, 45°, and 45°, what type is it?",
+    "options": [
+      "Scalene",
+      "Equilateral",
+      "Isosceles right",
+      "Obtuse"
+    ],
+    "answer": "Isosceles right"
+  },
+  {
+    "question": "What is 7 factorial (7!)?",
+    "options": [
+      "5040",
+      "720",
+      "840",
+      "40320"
+    ],
+    "answer": "5040"
+  },
+  {
+    "question": "What is the next prime after 29?",
+    "options": [
+      "30",
+      "31",
+      "33",
+      "37"
+    ],
+    "answer": "31"
+  },
+  {
+    "question": "What is 0.25 as a fraction?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "3/4"
+    ],
+    "answer": "1/4"
+  },
+  {
+    "question": "Solve: 4x + 8 = 20",
+    "options": [
+      "x=2",
+      "x=3",
+      "x=4",
+      "x=5"
+    ],
+    "answer": "x=3"
+  },
+  {
+    "question": "What is 5^3?",
+    "options": [
+      "125",
+      "75",
+      "100",
+      "150"
+    ],
+    "answer": "125"
+  },
+  {
+    "question": "What is the cube root of 27?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "9"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is the area of a circle with radius 5?",
+    "options": [
+      "25π",
+      "10π",
+      "50π",
+      "100π"
+    ],
+    "answer": "25π"
+  },
+  {
+    "question": "What is the circumference of a circle with radius 3?",
+    "options": [
+      "6π",
+      "9π",
+      "12π",
+      "18π"
+    ],
+    "answer": "6π"
+  },
+  {
+    "question": "Solve: 2x² - 8 = 0",
+    "options": [
+      "x=±1",
+      "x=±2",
+      "x=±3",
+      "x=±4"
+    ],
+    "answer": "x=±2"
+  },
+  {
+    "question": "What is the sum of angles in a pentagon?",
+    "options": [
+      "540°",
+      "720°",
+      "900°",
+      "1080°"
+    ],
+    "answer": "540°"
+  },
+  {
+    "question": "What is 8!?",
+    "options": [
+      "40320",
+      "5040",
+      "10080",
+      "20160"
+    ],
+    "answer": "40320"
+  },
+  {
+    "question": "What is log₁₀(100)?",
+    "options": [
+      "1",
+      "2",
+      "10",
+      "100"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "What is the hypotenuse of a 3-4-5 right triangle?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "Solve: x² - 5x + 6 = 0",
+    "options": [
+      "x=2,3",
+      "x=1,6",
+      "x=0,5",
+      "x=3,4"
+    ],
+    "answer": "x=2,3"
+  },
+  {
+    "question": "What is the mode of: 2, 5, 5, 7, 9?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "2"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What is the median of: 3, 7, 9, 15, 2?",
+    "options": [
+      "7",
+      "9",
+      "6",
+      "5"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "What is 6 * 7 / 2?",
+    "options": [
+      "18",
+      "21",
+      "24",
+      "28"
+    ],
+    "answer": "21"
+  },
+  {
+    "question": "What is √144?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "What is the integral of x dx?",
+    "options": [
+      "x²/2 + C",
+      "x + C",
+      "x²+ C",
+      "2x + C"
+    ],
+    "answer": "x²/2 + C"
+  },
+  {
+    "question": "What percent is 25 out of 100?",
+    "options": [
+      "10%",
+      "20%",
+      "25%",
+      "50%"
+    ],
+    "answer": "25%"
+  },
+  {
+    "question": "What is the probability of rolling a 6 on a die?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1/6"
+    ],
+    "answer": "1/6"
+  },
+  {
+    "question": "What is 25% of 80?",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "answer": "20"
+  },
+  {
+    "question": "Solve: 3x - 5 = 10",
+    "options": [
+      "x=5",
+      "x=3",
+      "x=7",
+      "x=9"
+    ],
+    "answer": "x=5"
+  },
+  {
+    "question": "What is the GCD of 24 and 36?",
+    "options": [
+      "6",
+      "12",
+      "8",
+      "4"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "What is the LCM of 12 and 18?",
+    "options": [
+      "24",
+      "36",
+      "48",
+      "60"
+    ],
+    "answer": "36"
+  },
+  {
+    "question": "What is 2⁵?",
+    "options": [
+      "16",
+      "32",
+      "64",
+      "128"
+    ],
+    "answer": "32"
+  },
+  {
+    "question": "What is 3⁴?",
+    "options": [
+      "27",
+      "64",
+      "81",
+      "125"
+    ],
+    "answer": "81"
+  },
+  {
+    "question": "What is the area of a square with side 7?",
+    "options": [
+      "28",
+      "35",
+      "42",
+      "49"
+    ],
+    "answer": "49"
+  },
+  {
+    "question": "What is the perimeter of a rectangle 5 by 3?",
+    "options": [
+      "8",
+      "15",
+      "16",
+      "20"
+    ],
+    "answer": "16"
+  },
+  {
+    "question": "Solve: |x| = 5",
+    "options": [
+      "x=5",
+      "x=±5",
+      "x=-5",
+      "No solution"
+    ],
+    "answer": "x=±5"
+  },
+  {
+    "question": "What is tan(45°)?",
+    "options": [
+      "0",
+      "1/2",
+      "1",
+      "√2"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "What is sin(90°)?",
+    "options": [
+      "0",
+      "1/2",
+      "1",
+      "√2/2"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "What is cos(0°)?",
+    "options": [
+      "0",
+      "1/2",
+      "1",
+      "√2/2"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "What is the slope of y = 2x + 3?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "1/2"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "What is the y-intercept of y = 2x + 3?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Solve: 2(x + 3) = 10",
+    "options": [
+      "x=1",
+      "x=2",
+      "x=3",
+      "x=4"
+    ],
+    "answer": "x=2"
+  },
+  {
+    "question": "What is 10% of 300?",
+    "options": [
+      "30",
+      "3",
+      "300",
+      "3000"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "What is 0.5 as a percentage?",
+    "options": [
+      "5%",
+      "50%",
+      "0.5%",
+      "500%"
+    ],
+    "answer": "50%"
+  },
+  {
+    "question": "What is 3/4 as a decimal?",
+    "options": [
+      "0.25",
+      "0.5",
+      "0.75",
+      "1.5"
+    ],
+    "answer": "0.75"
+  },
+  {
+    "question": "What is the volume of a cube with side 3?",
+    "options": [
+      "9",
+      "18",
+      "27",
+      "36"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "What is the volume of a rectangular box 2×3×4?",
+    "options": [
+      "9",
+      "12",
+      "24",
+      "36"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "What is √16?",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "What is √36?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "9"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "What is the sum 1+2+3+4+5?",
+    "options": [
+      "12",
+      "14",
+      "15",
+      "18"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "What is the sum 1+2+3+...+10?",
+    "options": [
+      "45",
+      "50",
+      "55",
+      "60"
+    ],
+    "answer": "55"
+  },
+  {
+    "question": "What is -5 + 3?",
+    "options": [
+      "-8",
+      "-2",
+      "2",
+      "8"
+    ],
+    "answer": "-2"
+  },
+  {
+    "question": "What is -10 * -3?",
+    "options": [
+      "-30",
+      "30",
+      "-13",
+      "13"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "What is 7 - (-2)?",
+    "options": [
+      "5",
+      "9",
+      "-5",
+      "-9"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Solve: x/2 = 5",
+    "options": [
+      "x=2.5",
+      "x=5",
+      "x=10",
+      "x=15"
+    ],
+    "answer": "x=10"
+  },
+  {
+    "question": "What is 15/3?",
+    "options": [
+      "3",
+      "5",
+      "12",
+      "18"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What is 20/4?",
+    "options": [
+      "4",
+      "5",
+      "24",
+      "80"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What is 100/5?",
+    "options": [
+      "5",
+      "15",
+      "20",
+      "25"
+    ],
+    "answer": "20"
+  },
+  {
+    "question": "What is 2^6?",
+    "options": [
+      "12",
+      "32",
+      "64",
+      "128"
+    ],
+    "answer": "64"
+  },
+  {
+    "question": "What is 4^3?",
+    "options": [
+      "12",
+      "16",
+      "48",
+      "64"
+    ],
+    "answer": "64"
+  },
+  {
+    "question": "What is the range of: 5, 10, 20?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "What is the mean of: 4, 6, 8?",
+    "options": [
+      "6",
+      "10",
+      "18",
+      "4"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "What is 9² ?",
+    "options": [
+      "18",
+      "72",
+      "81",
+      "90"
+    ],
+    "answer": "81"
+  },
+  {
+    "question": "What is 15/5?",
+    "options": [
+      "3",
+      "10",
+      "20",
+      "75"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is 50% of 60?",
+    "options": [
+      "10",
+      "20",
+      "30",
+      "40"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "What is 20% of 50?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "Solve: 5x = 25",
+    "options": [
+      "x=4",
+      "x=5",
+      "x=20",
+      "x=30"
+    ],
+    "answer": "x=5"
+  },
+  {
+    "question": "What is -(-5)?",
+    "options": [
+      "-5",
+      "5",
+      "0",
+      "10"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What is 8 + (-3)?",
+    "options": [
+      "5",
+      "11",
+      "-11",
+      "-5"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What is 6 * 8?",
+    "options": [
+      "14",
+      "42",
+      "48",
+      "54"
+    ],
+    "answer": "48"
+  },
+  {
+    "question": "What is 9 * 7?",
+    "options": [
+      "56",
+      "63",
+      "72",
+      "81"
+    ],
+    "answer": "63"
+  },
+  {
+    "question": "What is the area of a triangle with base 4 and height 6?",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "What is (2+3) * 4?",
+    "options": [
+      "14",
+      "20",
+      "24",
+      "30"
+    ],
+    "answer": "20"
+  },
+  {
+    "question": "What is 2 + 3 * 4?",
+    "options": [
+      "14",
+      "20",
+      "24",
+      "30"
+    ],
+    "answer": "14"
+  },
+  {
+    "question": "What is (10+5)/3?",
+    "options": [
+      "5",
+      "5.5",
+      "7.5",
+      "10"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What is 3² + 4²?",
+    "options": [
+      "25",
+      "36",
+      "49",
+      "64"
+    ],
+    "answer": "25"
+  },
+  {
+    "question": "What is the sum of the angles in a triangle?",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "answer": "180°"
+  },
+  {
+    "question": "What is the sum of angles in a hexagon?",
+    "options": [
+      "360°",
+      "540°",
+      "720°",
+      "900°"
+    ],
+    "answer": "720°"
+  },
+  {
+    "question": "What is twice 45?",
+    "options": [
+      "45",
+      "67.5",
+      "90",
+      "135"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is half of 100?",
+    "options": [
+      "25",
+      "50",
+      "75",
+      "150"
+    ],
+    "answer": "50"
+  },
+  {
+    "question": "What is 33% of 300?",
+    "options": [
+      "99",
+      "100",
+      "150",
+      "200"
+    ],
+    "answer": "99"
+  },
+  {
+    "question": "What is log₂(8)?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is log₂(16)?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Solve: x² = 9",
+    "options": [
+      "x=3",
+      "x=±3",
+      "x=-3",
+      "No solution"
+    ],
+    "answer": "x=±3"
+  },
+  {
+    "question": "Solve: x² = 16",
+    "options": [
+      "x=4",
+      "x=±4",
+      "x=-4",
+      "No solution"
+    ],
+    "answer": "x=±4"
+  },
+  {
+    "question": "What is the derivative of 3x?",
+    "options": [
+      "3",
+      "x",
+      "3x",
+      "6"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is the derivative of x³?",
+    "options": [
+      "3x",
+      "3x²",
+      "x²",
+      "2x"
+    ],
+    "answer": "3x²"
+  },
+  {
+    "question": "What is 1.5 * 4?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "What is 2.5 + 3.5?",
+    "options": [
+      "5",
+      "5.5",
+      "6",
+      "6.5"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "What is 10 - 3.5?",
+    "options": [
+      "6",
+      "6.5",
+      "7",
+      "7.5"
+    ],
+    "answer": "6.5"
+  },
+  {
+    "question": "What is 4² ?",
+    "options": [
+      "8",
+      "12",
+      "16",
+      "20"
+    ],
+    "answer": "16"
+  },
+  {
+    "question": "What is 10²?",
+    "options": [
+      "20",
+      "50",
+      "100",
+      "200"
+    ],
+    "answer": "100"
+  },
+  {
+    "question": "What is 11²?",
+    "options": [
+      "100",
+      "110",
+      "121",
+      "131"
+    ],
+    "answer": "121"
+  },
+  {
+    "question": "What is 6 + 7?",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "answer": "13"
+  },
+  {
+    "question": "What is 8 * 9?",
+    "options": [
+      "63",
+      "72",
+      "81",
+      "90"
+    ],
+    "answer": "72"
+  },
+  {
+    "question": "What is 100 - 45?",
+    "options": [
+      "45",
+      "50",
+      "55",
+      "60"
+    ],
+    "answer": "55"
+  },
+  {
+    "question": "What is 7 * 6?",
+    "options": [
+      "35",
+      "40",
+      "42",
+      "48"
+    ],
+    "answer": "42"
+  },
+  {
+    "question": "What is 14 / 2?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "What is 24 / 3?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "What is 30 / 5?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "Solve: x - 4 = 8",
+    "options": [
+      "x=4",
+      "x=8",
+      "x=12",
+      "x=16"
+    ],
+    "answer": "x=12"
+  },
+  {
+    "question": "Solve: 2x - 3 = 7",
+    "options": [
+      "x=2",
+      "x=3",
+      "x=4",
+      "x=5"
+    ],
+    "answer": "x=5"
+  },
+  {
+    "question": "What is 60 * 2?",
+    "options": [
+      "60",
+      "100",
+      "120",
+      "180"
+    ],
+    "answer": "120"
+  },
+  {
+    "question": "What is 45 + 15?",
+    "options": [
+      "50",
+      "55",
+      "60",
+      "75"
+    ],
+    "answer": "60"
+  },
+  {
+    "question": "What is 80 - 30?",
+    "options": [
+      "40",
+      "50",
+      "60",
+      "70"
+    ],
+    "answer": "50"
+  },
+  {
+    "question": "What is 5 + 10?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "What is the median of: 1, 2, 3, 4, 5?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is 1000 / 10?",
+    "options": [
+      "10",
+      "50",
+      "100",
+      "1000"
+    ],
+    "answer": "100"
+  },
+  {
+    "question": "What is 32 + 18?",
+    "options": [
+      "40",
+      "45",
+      "50",
+      "55"
+    ],
+    "answer": "50"
+  },
+  {
+    "question": "What is 99 - 25?",
+    "options": [
+      "64",
+      "70",
+      "74",
+      "84"
+    ],
+    "answer": "74"
+  },
+  {
+    "question": "What is 42 / 6?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "What is 8 + 8 + 8?",
+    "options": [
+      "16",
+      "20",
+      "24",
+      "32"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "What is 5 * 5?",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "answer": "25"
+  },
+  {
+    "question": "What is 12 + 13?",
+    "options": [
+      "20",
+      "24",
+      "25",
+      "26"
+    ],
+    "answer": "25"
+  },
+  {
+    "question": "What is 100 * 0.01?",
+    "options": [
+      "0.01",
+      "0.1",
+      "1",
+      "10"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "What is 50 / 10?",
+    "options": [
+      "2",
+      "5",
+      "10",
+      "50"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What is 77 - 7?",
+    "options": [
+      "60",
+      "70",
+      "80",
+      "90"
+    ],
+    "answer": "70"
+  },
+  {
+    "question": "What is 3 * 3 * 3?",
+    "options": [
+      "9",
+      "18",
+      "27",
+      "36"
+    ],
+    "answer": "27"
+  },
+  {
+    "question": "What is √4?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "What is √25?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What is √49?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "What is √64?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "What is √100?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "What is √121?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "What is √169?",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "answer": "13"
+  },
+  {
+    "question": "What is √196?",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "answer": "14"
+  },
+  {
+    "question": "What is √225?",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "Solve: x + 5 = 12",
+    "options": [
+      "x=5",
+      "x=6",
+      "x=7",
+      "x=8"
+    ],
+    "answer": "x=7"
+  },
+  {
+    "question": "Solve: x - 2 = 8",
+    "options": [
+      "x=6",
+      "x=8",
+      "x=10",
+      "x=12"
+    ],
+    "answer": "x=10"
+  },
+  {
+    "question": "Solve: 3x + 2 = 11",
+    "options": [
+      "x=2",
+      "x=3",
+      "x=4",
+      "x=5"
+    ],
+    "answer": "x=3"
+  },
+  {
+    "question": "What is 15 + 25?",
+    "options": [
+      "35",
+      "40",
+      "45",
+      "50"
+    ],
+    "answer": "40"
+  },
+  {
+    "question": "What is 50 + 50?",
+    "options": [
+      "80",
+      "90",
+      "100",
+      "110"
+    ],
+    "answer": "100"
+  },
+  {
+    "question": "What is 25 * 4?",
+    "options": [
+      "50",
+      "75",
+      "100",
+      "125"
+    ],
+    "answer": "100"
+  },
+  {
+    "question": "What is 35 * 3?",
+    "options": [
+      "90",
+      "100",
+      "105",
+      "120"
+    ],
+    "answer": "105"
+  },
+  {
+    "question": "What is 200 / 4?",
+    "options": [
+      "40",
+      "45",
+      "50",
+      "55"
+    ],
+    "answer": "50"
+  },
+  {
+    "question": "What is 360 / 12?",
+    "options": [
+      "30",
+      "36",
+      "45",
+      "60"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "Solve: x/3 = 4",
+    "options": [
+      "x=8",
+      "x=10",
+      "x=12",
+      "x=14"
+    ],
+    "answer": "x=12"
+  },
+  {
+    "question": "What is 2 + 2 + 2 + 2?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "What is 5 + 5 + 5?",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "18"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "What is 10 * 10?",
+    "options": [
+      "50",
+      "100",
+      "150",
+      "200"
+    ],
+    "answer": "100"
+  },
+  {
+    "question": "What is 9 + 9?",
+    "options": [
+      "16",
+      "18",
+      "20",
+      "22"
+    ],
+    "answer": "18"
+  },
+  {
+    "question": "What is 7 + 7 + 7?",
+    "options": [
+      "18",
+      "20",
+      "21",
+      "24"
+    ],
+    "answer": "21"
+  },
+  {
+    "question": "What is 6² ?",
+    "options": [
+      "30",
+      "36",
+      "42",
+      "48"
+    ],
+    "answer": "36"
+  },
+  {
+    "question": "What is 7²?",
+    "options": [
+      "42",
+      "49",
+      "56",
+      "63"
+    ],
+    "answer": "49"
+  },
+  {
+    "question": "What is 8²?",
+    "options": [
+      "56",
+      "64",
+      "72",
+      "80"
+    ],
+    "answer": "64"
+  },
+  {
+    "question": "What is 13²?",
+    "options": [
+      "150",
+      "160",
+      "169",
+      "179"
+    ],
+    "answer": "169"
+  },
+  {
+    "question": "What is 14²?",
+    "options": [
+      "184",
+      "190",
+      "196",
+      "204"
+    ],
+    "answer": "196"
+  },
+  {
+    "question": "What is 15²?",
+    "options": [
+      "200",
+      "215",
+      "225",
+      "250"
+    ],
+    "answer": "225"
+  },
+  {
+    "question": "What is 16²?",
+    "options": [
+      "240",
+      "250",
+      "256",
+      "280"
+    ],
+    "answer": "256"
+  },
+  {
+    "question": "Is 17 prime?",
+    "options": [
+      "No, divisible by 3",
+      "Yes, it's prime",
+      "No, it's even",
+      "No, divisible by 5"
+    ],
+    "answer": "Yes, it's prime"
+  },
+  {
+    "question": "Is 20 prime?",
+    "options": [
+      "Yes",
+      "No, divisible by 2",
+      "No, divisible by 5",
+      "Both divisible by 2 and 5"
+    ],
+    "answer": "Both divisible by 2 and 5"
+  },
+  {
+    "question": "Is 23 prime?",
+    "options": [
+      "No, even",
+      "Yes, it's prime",
+      "No, divisible by 4",
+      "No, divisible by 6"
+    ],
+    "answer": "Yes, it's prime"
+  },
+  {
+    "question": "What is 2 * 2 * 2?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "What is 3 * 3 * 3 * 3?",
+    "options": [
+      "81",
+      "64",
+      "49",
+      "36"
+    ],
+    "answer": "81"
+  },
+  {
+    "question": "What is 5 * 4 * 3?",
+    "options": [
+      "40",
+      "50",
+      "60",
+      "70"
+    ],
+    "answer": "60"
+  },
+  {
+    "question": "What is 10 / 2?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What is 18 / 2?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "What is 36 / 4?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "What is 40 / 8?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What is 56 / 7?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "What is 63 / 9?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "What is 72 / 8?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Is 25 a perfect square?",
+    "options": [
+      "No",
+      "Yes, 5²",
+      "Yes, 4²",
+      "Not sure"
+    ],
+    "answer": "Yes, 5²"
+  },
+  {
+    "question": "Is 50 a perfect square?",
+    "options": [
+      "No",
+      "Yes, 7²",
+      "Yes, 8²",
+      "Yes, 9²"
+    ],
+    "answer": "No"
+  },
+  {
+    "question": "What is the prime factorization of 12?",
+    "options": [
+      "2 × 3",
+      "2² × 3",
+      "2 × 3²",
+      "3 × 4"
+    ],
+    "answer": "2² × 3"
+  },
+  {
+    "question": "What is the prime factorization of 18?",
+    "options": [
+      "2 × 3²",
+      "2² × 3",
+      "2 × 3",
+      "3²"
+    ],
+    "answer": "2 × 3²"
+  },
+  {
+    "question": "What is the prime factorization of 20?",
+    "options": [
+      "2 × 5",
+      "2² × 5",
+      "4 × 5",
+      "2² × 3"
+    ],
+    "answer": "2² × 5"
+  },
+  {
+    "question": "What is 1.5 + 1.5?",
+    "options": [
+      "2",
+      "2.5",
+      "3",
+      "3.5"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is 2.5 + 2.5?",
+    "options": [
+      "4",
+      "4.5",
+      "5",
+      "5.5"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What is 3.5 * 2?",
+    "options": [
+      "6",
+      "6.5",
+      "7",
+      "7.5"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "What is 4.5 * 2?",
+    "options": [
+      "8",
+      "8.5",
+      "9",
+      "9.5"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "What is 6 / 2?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is 8 / 4?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "What is 9 / 3?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is 12 / 4?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Solve: 2x + 5 = 13",
+    "options": [
+      "x=3",
+      "x=4",
+      "x=5",
+      "x=6"
+    ],
+    "answer": "x=4"
+  },
+  {
+    "question": "Solve: 3x - 2 = 10",
+    "options": [
+      "x=3",
+      "x=4",
+      "x=5",
+      "x=6"
+    ],
+    "answer": "x=4"
+  },
+  {
+    "question": "Solve: 4x + 1 = 17",
+    "options": [
+      "x=3",
+      "x=4",
+      "x=5",
+      "x=6"
+    ],
+    "answer": "x=4"
+  },
+  {
+    "question": "What is 2 + 3 + 4?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "What is 5 + 6 + 7?",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "19"
+    ],
+    "answer": "18"
+  },
+  {
+    "question": "What is 1 + 2 + 3 + 4?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "What is 10 + 20 + 30?",
+    "options": [
+      "50",
+      "55",
+      "60",
+      "65"
+    ],
+    "answer": "60"
+  },
+  {
+    "question": "What is 100 + 200?",
+    "options": [
+      "200",
+      "250",
+      "300",
+      "400"
+    ],
+    "answer": "300"
+  },
+  {
+    "question": "What is 150 * 2?",
+    "options": [
+      "250",
+      "300",
+      "350",
+      "400"
+    ],
+    "answer": "300"
+  },
+  {
+    "question": "What is 25 + 25 + 25 + 25?",
+    "options": [
+      "75",
+      "85",
+      "95",
+      "100"
+    ],
+    "answer": "100"
+  },
+  {
+    "question": "What is 11 * 11?",
+    "options": [
+      "100",
+      "110",
+      "121",
+      "144"
+    ],
+    "answer": "121"
+  },
+  {
+    "question": "What is 12 * 12?",
+    "options": [
+      "120",
+      "130",
+      "140",
+      "144"
+    ],
+    "answer": "144"
+  },
+  {
+    "question": "What is 13 * 13?",
+    "options": [
+      "150",
+      "160",
+      "169",
+      "180"
+    ],
+    "answer": "169"
+  },
+  {
+    "question": "What is 14 * 14?",
+    "options": [
+      "180",
+      "190",
+      "196",
+      "210"
+    ],
+    "answer": "196"
+  },
+  {
+    "question": "What is 15 * 15?",
+    "options": [
+      "200",
+      "215",
+      "225",
+      "240"
+    ],
+    "answer": "225"
+  },
+  {
+    "question": "What is 16 * 16?",
+    "options": [
+      "240",
+      "250",
+      "256",
+      "270"
+    ],
+    "answer": "256"
+  },
+  {
+    "question": "What is 17 * 17?",
+    "options": [
+      "280",
+      "289",
+      "300",
+      "310"
+    ],
+    "answer": "289"
+  },
+  {
+    "question": "What is 18 * 18?",
+    "options": [
+      "310",
+      "320",
+      "324",
+      "340"
+    ],
+    "answer": "324"
+  },
+  {
+    "question": "What is 19 * 19?",
+    "options": [
+      "350",
+      "360",
+      "361",
+      "380"
+    ],
+    "answer": "361"
+  },
+  {
+    "question": "What is 20 * 20?",
+    "options": [
+      "380",
+      "400",
+      "420",
+      "450"
+    ],
+    "answer": "400"
+  },
+  {
+    "question": "Is 2 prime?",
+    "options": [
+      "No",
+      "Yes",
+      "Sort of",
+      "Only even prime"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "question": "Is 3 prime?",
+    "options": [
+      "No",
+      "Yes",
+      "No,it's odd",
+      "No, divisible by 2"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "question": "Is 4 prime?",
+    "options": [
+      "Yes",
+      "No",
+      "Sort of",
+      "Prime and composite"
+    ],
+    "answer": "No"
+  },
+  {
+    "question": "Is 5 prime?",
+    "options": [
+      "No",
+      "Yes",
+      "No, even",
+      "No, divisible by 10"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "question": "Is 6 prime?",
+    "options": [
+      "Yes",
+      "No",
+      "Only if even",
+      "Maybe"
+    ],
+    "answer": "No"
+  },
+  {
+    "question": "Is 7 prime?",
+    "options": [
+      "No",
+      "Yes",
+      "No, divisible by 2",
+      "No, divisible by 3"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "question": "Is 8 prime?",
+    "options": [
+      "Yes",
+      "No",
+      "Sort of",
+      "Only even prime"
+    ],
+    "answer": "No"
+  },
+  {
+    "question": "Is 9 prime?",
+    "options": [
+      "Yes",
+      "No",
+      "Only multiple of 3",
+      "Prime but not odd"
+    ],
+    "answer": "No"
+  },
+  {
+    "question": "Is 10 prime?",
+    "options": [
+      "Yes",
+      "No",
+      "Almost",
+      "Both odd and prime"
+    ],
+    "answer": "No"
+  },
+  {
+    "question": "Is 11 prime?",
+    "options": [
+      "No",
+      "Yes",
+      "No, divisible by 5",
+      "No, divisible by 2"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "question": "Is 12 prime?",
+    "options": [
+      "Yes",
+      "No",
+      "Maybe",
+      "Prime and even"
+    ],
+    "answer": "No"
+  },
+  {
+    "question": "Is 13 prime?",
+    "options": [
+      "No",
+      "Yes",
+      "No, divisible by 3",
+      "No, divisible by 5"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "question": "Is 14 prime?",
+    "options": [
+      "Yes",
+      "No",
+      "Sort of",
+      "Only even prime"
+    ],
+    "answer": "No"
+  },
+  {
+    "question": "Is 15 prime?",
+    "options": [
+      "Yes",
+      "No",
+      "Maybe",
+      "Both 3 and 5"
+    ],
+    "answer": "No"
+  },
+  {
+    "question": "Is 19 prime?",
+    "options": [
+      "No",
+      "Yes",
+      "No, divisible by 2",
+      "No, divisible by 3"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the absolute value of -5?",
+    "options": [
+      "-5",
+      "5",
+      "0",
+      "10"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What is |-10|?",
+    "options": [
+      "-10",
+      "10",
+      "0",
+      "20"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "What is |-3| + |5|?",
+    "options": [
+      "2",
+      "8",
+      "-2",
+      "-8"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Solve: |x| = 7",
+    "options": [
+      "x=7",
+      "x=-7",
+      "x=±7",
+      "No solution"
+    ],
+    "answer": "x=±7"
+  },
+  {
+    "question": "What is the factorial 5!?",
+    "options": [
+      "100",
+      "120",
+      "140",
+      "160"
+    ],
+    "answer": "120"
+  },
+  {
+    "question": "What is 6!?",
+    "options": [
+      "600",
+      "620",
+      "720",
+      "820"
+    ],
+    "answer": "720"
+  },
+  {
+    "question": "What is 4!?",
+    "options": [
+      "20",
+      "24",
+      "28",
+      "32"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "What is 3!?",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "What is 2!?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "What is 1!?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "What is 0!?",
+    "options": [
+      "0",
+      "1",
+      "undefined",
+      "-1"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "What is the reciprocal of 2?",
+    "options": [
+      "1",
+      "1/2",
+      "2",
+      "4"
+    ],
+    "answer": "1/2"
+  },
+  {
+    "question": "What is the reciprocal of 4?",
+    "options": [
+      "1/4",
+      "1/2",
+      "2",
+      "4"
+    ],
+    "answer": "1/4"
+  },
+  {
+    "question": "What is the reciprocal of 1/3?",
+    "options": [
+      "1/3",
+      "3",
+      "1",
+      "1/9"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is 5 * 1/5?",
+    "options": [
+      "1",
+      "5",
+      "25",
+      "1/25"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "What is 99 / 9?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "What is 101 - 1?",
+    "options": [
+      "99",
+      "100",
+      "101",
+      "102"
+    ],
+    "answer": "100"
+  },
+  {
+    "question": "What is the circumference of a circle with diameter 10?",
+    "options": [
+      "10π",
+      "20π",
+      "30π",
+      "40π"
+    ],
+    "answer": "10π"
+  },
+  {
+    "question": "Solve: 10x = 100",
+    "options": [
+      "x=5",
+      "x=10",
+      "x=15",
+      "x=20"
+    ],
+    "answer": "x=10"
+  },
+  {
+    "question": "What is 17² ?",
+    "options": [
+      "280",
+      "289",
+      "300",
+      "320"
+    ],
+    "answer": "289"
+  },
+  {
+    "question": "What are the factors of 12?",
+    "options": [
+      "1,2,3,4,6,12",
+      "1,2,3,12",
+      "2,3,4,6",
+      "1,3,6,12"
+    ],
+    "answer": "1,2,3,4,6,12"
+  },
+  {
+    "question": "What is sin(30°)?",
+    "options": [
+      "1/2",
+      "√2/2",
+      "√3/2",
+      "1"
+    ],
+    "answer": "1/2"
+  },
+  {
+    "question": "What is cos(60°)?",
+    "options": [
+      "0",
+      "1/2",
+      "√2/2",
+      "1"
+    ],
+    "answer": "1/2"
+  },
+  {
+    "question": "What is the area of a triangle with base 10 and height 5?",
+    "options": [
+      "25",
+      "50",
+      "75",
+      "100"
+    ],
+    "answer": "25"
+  },
+  {
+    "question": "What is the perimeter of a square with side 8?",
+    "options": [
+      "16",
+      "32",
+      "64",
+      "128"
+    ],
+    "answer": "32"
+  },
+  {
+    "question": "What is 18 + 32?",
+    "options": [
+      "40",
+      "50",
+      "60",
+      "70"
+    ],
+    "answer": "50"
+  },
+  {
+    "question": "What is 120 - 40?",
+    "options": [
+      "70",
+      "80",
+      "90",
+      "100"
+    ],
+    "answer": "80"
+  },
+  {
+    "question": "What is 22 * 5?",
+    "options": [
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "answer": "110"
+  },
+  {
+    "question": "What is 144 / 12?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "What is 9 * 9?",
+    "options": [
+      "72",
+      "81",
+      "90",
+      "99"
+    ],
+    "answer": "81"
+  },
+  {
+    "question": "Is 37 prime?",
+    "options": [
+      "No",
+      "Yes",
+      "Not sure",
+      "Both prime and composite"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is √361?",
+    "options": [
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "answer": "19"
+  },
+  {
+    "question": "What is √289?",
+    "options": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "answer": "17"
+  },
+  {
+    "question": "What is the next even number after 56?",
+    "options": [
+      "57",
+      "58",
+      "59",
+      "60"
+    ],
+    "answer": "58"
+  },
+  {
+    "question": "What is the next odd number after 47?",
+    "options": [
+      "48",
+      "49",
+      "50",
+      "51"
+    ],
+    "answer": "49"
+  },
+  {
+    "question": "Complete sequence: 5, 10, 15, 20, ?",
+    "options": [
+      "23",
+      "24",
+      "25",
+      "26"
+    ],
+    "answer": "25"
+  },
+  {
+    "question": "Complete sequence: 100, 90, 80, 70, ?",
+    "options": [
+      "55",
+      "60",
+      "65",
+      "70"
+    ],
+    "answer": "60"
+  },
+  {
+    "question": "What is 2/5 as a decimal?",
+    "options": [
+      "0.2",
+      "0.4",
+      "0.5",
+      "0.6"
+    ],
+    "answer": "0.4"
+  },
+  {
+    "question": "What is 3/8 as a decimal?",
+    "options": [
+      "0.3",
+      "0.375",
+      "0.5",
+      "0.6"
+    ],
+    "answer": "0.375"
+  },
+  {
+    "question": "What is 15% of 200?",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "What is 40% of 250?",
+    "options": [
+      "80",
+      "90",
+      "100",
+      "110"
+    ],
+    "answer": "100"
+  },
+  {
+    "question": "What is log₁₀(1000)?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is e (Euler's number) approximately?",
+    "options": [
+      "2.17",
+      "2.57",
+      "2.72",
+      "3.14"
+    ],
+    "answer": "2.72"
+  },
+  {
+    "question": "What is the derivative of 5x?",
+    "options": [
+      "5",
+      "x",
+      "5x",
+      "10"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What is the derivative of x⁴?",
+    "options": [
+      "4x",
+      "4x²",
+      "4x³",
+      "x³"
+    ],
+    "answer": "4x³"
+  },
+  {
+    "question": "What is the integral of 2x dx?",
+    "options": [
+      "2",
+      "x²",
+      "x² + C",
+      "2x + C"
+    ],
+    "answer": "x² + C"
+  },
+  {
+    "question": "Solve: x² - 4x + 3 = 0",
+    "options": [
+      "x=1,2",
+      "x=1,3",
+      "x=2,3",
+      "x=3,4"
+    ],
+    "answer": "x=1,3"
+  },
+  {
+    "question": "What is the sum of interior angles in a quadrilateral?",
+    "options": [
+      "180°",
+      "270°",
+      "360°",
+      "540°"
+    ],
+    "answer": "360°"
+  },
+  {
+    "question": "What is the sum of interior angles in an octagon?",
+    "options": [
+      "720°",
+      "900°",
+      "1080°",
+      "1260°"
+    ],
+    "answer": "1080°"
+  },
+  {
+    "question": "What is 25 / 0.5?",
+    "options": [
+      "12.5",
+      "25",
+      "50",
+      "75"
+    ],
+    "answer": "50"
+  },
+  {
+    "question": "What is 0.5 * 0.5?",
+    "options": [
+      "0.25",
+      "0.5",
+      "1",
+      "2"
+    ],
+    "answer": "0.25"
+  },
+  {
+    "question": "What is 1.5² ?",
+    "options": [
+      "2",
+      "2.25",
+      "2.5",
+      "3"
+    ],
+    "answer": "2.25"
+  },
+  {
+    "question": "What is (-3)² ?",
+    "options": [
+      "-9",
+      "-6",
+      "6",
+      "9"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "What is (-2)³ ?",
+    "options": [
+      "-8",
+      "-6",
+      "6",
+      "8"
+    ],
+    "answer": "-8"
+  },
+  {
+    "question": "Solve: 2x + 10 = 30",
+    "options": [
+      "x=5",
+      "x=10",
+      "x=15",
+      "x=20"
+    ],
+    "answer": "x=10"
+  },
+  {
+    "question": "Solve: 3x - 7 = 14",
+    "options": [
+      "x=5",
+      "x=6",
+      "x=7",
+      "x=8"
+    ],
+    "answer": "x=7"
+  },
+  {
+    "question": "What is the median of 10, 20, 30, 40, 50?",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "What is the mean of 10, 20, 30?",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "answer": "20"
+  },
+  {
+    "question": "What is the mode of 1, 2, 2, 3, 3, 3?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "No mode"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is 2^7?",
+    "options": [
+      "64",
+      "128",
+      "256",
+      "512"
+    ],
+    "answer": "128"
+  },
+  {
+    "question": "What is 3^5?",
+    "options": [
+      "81",
+      "100",
+      "125",
+      "243"
+    ],
+    "answer": "243"
+  },
+  {
+    "question": "What is 5^4?",
+    "options": [
+      "125",
+      "500",
+      "625",
+      "1000"
+    ],
+    "answer": "625"
+  },
+  {
+    "question": "Is 49 a perfect square?",
+    "options": [
+      "No",
+      "Yes, 7²",
+      "Yes, 6²",
+      "Uncertain"
+    ],
+    "answer": "Yes, 7²"
+  },
+  {
+    "question": "Is 64 a perfect square?",
+    "options": [
+      "No",
+      "Yes, 7²",
+      "Yes, 8²",
+      "Uncertain"
+    ],
+    "answer": "Yes, 8²"
+  },
+  {
+    "question": "What is |−20|?",
+    "options": [
+      "-20",
+      "0",
+      "10",
+      "20"
+    ],
+    "answer": "20"
+  },
+  {
+    "question": "What is |-7 + 3|?",
+    "options": [
+      "-10",
+      "-4",
+      "4",
+      "10"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Is 91 prime?",
+    "options": [
+      "Yes",
+      "No, divisible by 7",
+      "No, divisible by 13",
+      "Both B and C"
+    ],
+    "answer": "Both B and C"
+  },
+  {
+    "question": "Is 97 prime?",
+    "options": [
+      "No",
+      "Yes",
+      "Not sure",
+      "Composite"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the LCM of 8 and 12?",
+    "options": [
+      "24",
+      "32",
+      "48",
+      "96"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "What is the GCD of 18 and 24?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "What is 50 * 20?",
+    "options": [
+      "900",
+      "1000",
+      "1100",
+      "1200"
+    ],
+    "answer": "1000"
+  },
+  {
+    "question": "What is 73 + 27?",
+    "options": [
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "answer": "100"
+  },
+  {
+    "question": "What is 200 - 125?",
+    "options": [
+      "65",
+      "75",
+      "85",
+      "95"
+    ],
+    "answer": "75"
+  },
+  {
+    "question": "What is 88 / 8?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "Solve: x/4 = 7",
+    "options": [
+      "x=28",
+      "x=11",
+      "x=3",
+      "x=1.75"
+    ],
+    "answer": "x=28"
+  },
+  {
+    "question": "Solve: 5 + x = 22",
+    "options": [
+      "x=12",
+      "x=15",
+      "x=17",
+      "x=20"
+    ],
+    "answer": "x=17"
+  },
+  {
+    "question": "Solve: 30 - x = 8",
+    "options": [
+      "x=22",
+      "x=20",
+      "x=18",
+      "x=16"
+    ],
+    "answer": "x=22"
+  },
+  {
+    "question": "What is 25% of 120?",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "What is 60% of 150?",
+    "options": [
+      "80",
+      "85",
+      "90",
+      "95"
+    ],
+    "answer": "90"
+  },
+  {
+    "question": "What is 35% of 200?",
+    "options": [
+      "60",
+      "65",
+      "70",
+      "75"
+    ],
+    "answer": "70"
+  },
+  {
+    "question": "What is 0.1 as a percentage?",
+    "options": [
+      "1%",
+      "10%",
+      "0.01%",
+      "100%"
+    ],
+    "answer": "10%"
+  },
+  {
+    "question": "What is 0.02 as a percentage?",
+    "options": [
+      "0.2%",
+      "2%",
+      "20%",
+      "200%"
+    ],
+    "answer": "2%"
+  },
+  {
+    "question": "What is 7! / 5!?",
+    "options": [
+      "28",
+      "35",
+      "42",
+      "56"
+    ],
+    "answer": "42"
+  },
+  {
+    "question": "What is the sum of 1 to 20?",
+    "options": [
+      "190",
+      "200",
+      "210",
+      "220"
+    ],
+    "answer": "210"
+  },
+  {
+    "question": "Complete: 2, 6, 12, 20, ?",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "answer": "30"
+  },
+  {
+    "question": "Complete: 1, 4, 9, 16, 25, ?",
+    "options": [
+      "30",
+      "35",
+      "36",
+      "40"
+    ],
+    "answer": "36"
+  },
+  {
+    "question": "What is the area of a circle with radius 2?",
+    "options": [
+      "2π",
+      "4π",
+      "6π",
+      "8π"
+    ],
+    "answer": "4π"
+  },
+  {
+    "question": "What is the volume of a cube with side 4?",
+    "options": [
+      "16",
+      "32",
+      "48",
+      "64"
+    ],
+    "answer": "64"
+  },
+  {
+    "question": "What is the volume of a sphere with radius 3?",
+    "options": [
+      "36π",
+      "48π",
+      "72π",
+      "108π"
+    ],
+    "answer": "36π"
+  },
+  {
+    "question": "What is tan(0°)?",
+    "options": [
+      "0",
+      "1",
+      "undefined",
+      "-1"
+    ],
+    "answer": "0"
+  },
+  {
+    "question": "What is tan(90°)?",
+    "options": [
+      "0",
+      "1",
+      "undefined",
+      "-1"
+    ],
+    "answer": "undefined"
+  },
+  {
+    "question": "In a 3-4-5 triangle, what is the angle opposite side 5?",
+    "options": [
+      "45°",
+      "60°",
+      "90°",
+      "120°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "question": "What is sin(0°)?",
+    "options": [
+      "0",
+      "1/2",
+      "1",
+      "undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "question": "What is cos(90°)?",
+    "options": [
+      "0",
+      "1/2",
+      "1",
+      "-1"
+    ],
+    "answer": "0"
+  },
+  {
+    "question": "What is the supplement of 60°?",
+    "options": [
+      "30°",
+      "90°",
+      "120°",
+      "180°"
+    ],
+    "answer": "120°"
+  },
+  {
+    "question": "What is the complement of 35°?",
+    "options": [
+      "45°",
+      "55°",
+      "65°",
+      "90°"
+    ],
+    "answer": "55°"
+  },
+  {
+    "question": "How many degrees in a right angle?",
+    "options": [
+      "45°",
+      "90°",
+      "180°",
+      "360°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "question": "How many degrees in a straight line?",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "answer": "180°"
+  },
+  {
+    "question": "What is 50² ?",
+    "options": [
+      "2000",
+      "2500",
+      "3000",
+      "3500"
+    ],
+    "answer": "2500"
+  },
+  {
+    "question": "What is 45 * 45?",
+    "options": [
+      "1900",
+      "1950",
+      "2000",
+      "2025"
+    ],
+    "answer": "2025"
+  },
+  {
+    "question": "What is 30 * 30?",
+    "options": [
+      "800",
+      "900",
+      "1000",
+      "1100"
+    ],
+    "answer": "900"
+  },
+  {
+    "question": "What is 0.1 * 10?",
+    "options": [
+      "0.01",
+      "0.1",
+      "1",
+      "10"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "What is 0.01 * 100?",
+    "options": [
+      "0.01",
+      "0.1",
+      "1",
+      "10"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "What is 1000 / 100?",
+    "options": [
+      "1",
+      "10",
+      "100",
+      "1000"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "What is 10000 / 1000?",
+    "options": [
+      "1",
+      "10",
+      "100",
+      "1000"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "Solve: x² - 16 = 0",
+    "options": [
+      "x=±4",
+      "x=±2",
+      "x=±8",
+      "No solution"
+    ],
+    "answer": "x=±4"
+  },
+  {
+    "question": "Solve: x² - 25 = 0",
+    "options": [
+      "x=±5",
+      "x=±10",
+      "x=±15",
+      "No solution"
+    ],
+    "answer": "x=±5"
+  },
+  {
+    "question": "What is the hypotenuse of a 5-12-? triangle?",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "answer": "13"
+  },
+  {
+    "question": "Is 121 a perfect square?",
+    "options": [
+      "No",
+      "Yes, 11²",
+      "Yes, 10²",
+      "Yes, 12²"
+    ],
+    "answer": "Yes, 11²"
+  },
+  {
+    "question": "Is 144 a perfect square?",
+    "options": [
+      "No",
+      "Yes, 11²",
+      "Yes, 12²",
+      "Yes, 13²"
+    ],
+    "answer": "Yes, 12²"
+  },
+  {
+    "question": "What is 3/10 as a decimal?",
+    "options": [
+      "0.03",
+      "0.3",
+      "0.33",
+      "0.333"
+    ],
+    "answer": "0.3"
+  },
+  {
+    "question": "Convert 35% to a fraction",
+    "options": [
+      "1/4",
+      "1/3",
+      "7/20",
+      "3/5"
+    ],
+    "answer": "7/20"
+  },
+  {
+    "question": "Convert 20% to a fraction",
+    "options": [
+      "1/5",
+      "1/4",
+      "1/3",
+      "1/2"
+    ],
+    "answer": "1/5"
+  },
+  {
+    "question": "Solve: 2x - 10 = 6",
+    "options": [
+      "x=8",
+      "x=12",
+      "x=14",
+      "x=16"
+    ],
+    "answer": "x=8"
+  },
+  {
+    "question": "Solve: 5x + 5 = 30",
+    "options": [
+      "x=4",
+      "x=5",
+      "x=6",
+      "x=7"
+    ],
+    "answer": "x=5"
+  },
+  {
+    "question": "What is the radius of a circle with diameter 14?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "What is the diameter of a circle with radius 6?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "What is the area of a rectangle 7 by 9?",
+    "options": [
+      "49",
+      "56",
+      "63",
+      "72"
+    ],
+    "answer": "63"
+  },
+  {
+    "question": "What is the perimeter of a rectangle 5 by 8?",
+    "options": [
+      "20",
+      "24",
+      "26",
+      "40"
+    ],
+    "answer": "26"
+  },
+  {
+    "question": "Is 24 divisible by 3?",
+    "options": [
+      "No",
+      "Yes",
+      "Not sure",
+      "Maybe"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "question": "Is 35 divisible by 7?",
+    "options": [
+      "No",
+      "Yes",
+      "Not sure",
+      "Maybe"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "question": "Is 18 divisible by 4?",
+    "options": [
+      "Yes",
+      "No",
+      "Not sure",
+      "Maybe"
+    ],
+    "answer": "No"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "What is the next prime after 41?",
+    "options": [
+      "42",
+      "43",
+      "44",
+      "45"
+    ],
+    "answer": "43"
+  },
+  {
+    "question": "What is 99 * 2?",
+    "options": [
+      "180",
+      "190",
+      "198",
+      "200"
+    ],
+    "answer": "198"
+  },
+  {
+    "question": "What is 101 * 2?",
+    "options": [
+      "200",
+      "202",
+      "204",
+      "206"
+    ],
+    "answer": "202"
+  },
+  {
+    "question": "What is 50 * 50?",
+    "options": [
+      "2000",
+      "2250",
+      "2500",
+      "2750"
+    ],
+    "answer": "2500"
+  },
+  {
+    "question": "What is 60 * 60?",
+    "options": [
+      "3000",
+      "3200",
+      "3400",
+      "3600"
+    ],
+    "answer": "3600"
+  },
+  {
+    "question": "What is 70 * 70?",
+    "options": [
+      "4800",
+      "4900",
+      "5000",
+      "5100"
+    ],
+    "answer": "4900"
+  },
+  {
+    "question": "What is 80 * 80?",
+    "options": [
+      "6000",
+      "6200",
+      "6400",
+      "6600"
+    ],
+    "answer": "6400"
+  },
+  {
+    "question": "What is 90 * 90?",
+    "options": [
+      "8000",
+      "8100",
+      "8200",
+      "8300"
+    ],
+    "answer": "8100"
+  },
+  {
+    "question": "What is 100 * 100?",
+    "options": [
+      "9000",
+      "10000",
+      "11000",
+      "12000"
+    ],
+    "answer": "10000"
+  },
+  {
+    "question": "What is 9 / 3 / 3?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "9"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "What is (20 - 10) / 5?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "10"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "What is 2 + 2 * 5?",
+    "options": [
+      "12",
+      "14",
+      "20",
+      "22"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "What is (2 + 2) * 5?",
+    "options": [
+      "12",
+      "14",
+      "20",
+      "22"
+    ],
+    "answer": "20"
+  },
+  {
+    "question": "Complete: 8, 16, 32, 64, ?",
+    "options": [
+      "96",
+      "100",
+      "128",
+      "144"
+    ],
+    "answer": "128"
+  },
+  {
+    "question": "Complete: 3, 9, 27, 81, ?",
+    "options": [
+      "144",
+      "162",
+      "243",
+      "324"
+    ],
+    "answer": "243"
+  },
+  {
+    "question": "What is log₂(64)?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "What is log₂(32)?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What is log₃(27)?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is log₅(125)?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is √324?",
+    "options": [
+      "15",
+      "17",
+      "18",
+      "20"
+    ],
+    "answer": "18"
+  },
+  {
+    "question": "What is √256?",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "answer": "16"
+  },
+  {
+    "question": "Is 100 divisible by 5?",
+    "options": [
+      "No",
+      "Yes",
+      "Not sure",
+      "Maybe"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "question": "Is 100 divisible by 4?",
+    "options": [
+      "No",
+      "Yes",
+      "Not sure",
+      "Maybe"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "question": "Is 100 divisible by 3?",
+    "options": [
+      "Yes",
+      "No",
+      "Not sure",
+      "Maybe"
+    ],
+    "answer": "No"
+  },
+  {
+    "question": "What is 5^0?",
+    "options": [
+      "0",
+      "1",
+      "5",
+      "10"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "What is 10^0?",
+    "options": [
+      "0",
+      "1",
+      "10",
+      "100"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "What is 2^0?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "What is 3^0?",
+    "options": [
+      "0",
+      "1",
+      "3",
+      "9"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Solve: x + x + x = 30",
+    "options": [
+      "x=5",
+      "x=10",
+      "x=15",
+      "x=20"
+    ],
+    "answer": "x=10"
+  },
+  {
+    "question": "Solve: 2x + 2x = 64",
+    "options": [
+      "x=8",
+      "x=10",
+      "x=16",
+      "x=20"
+    ],
+    "answer": "x=16"
+  },
+  {
+    "question": "What is the perimeter of an equilateral triangle with side 5?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "What is the perimeter of an equilateral triangle with side 6?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "24"
+    ],
+    "answer": "18"
+  },
+  {
+    "question": "What is 1/10 as a percentage?",
+    "options": [
+      "1%",
+      "5%",
+      "10%",
+      "50%"
+    ],
+    "answer": "10%"
+  },
+  {
+    "question": "What is 1/8 as a percentage?",
+    "options": [
+      "8%",
+      "10%",
+      "12.5%",
+      "15%"
+    ],
+    "answer": "12.5%"
+  },
+  {
+    "question": "What is 1/6 as a percentage?",
+    "options": [
+      "15%",
+      "16.67%",
+      "20%",
+      "25%"
+    ],
+    "answer": "16.67%"
+  },
+  {
+    "question": "What is 1/5 as a percentage?",
+    "options": [
+      "15%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "answer": "20%"
+  },
+  {
+    "question": "Convert 0.5 to a fraction",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "2/5"
+    ],
+    "answer": "1/2"
+  },
+  {
+    "question": "Convert 0.75 to a fraction",
+    "options": [
+      "2/3",
+      "3/4",
+      "4/5",
+      "3/5"
+    ],
+    "answer": "3/4"
+  },
+  {
+    "question": "Convert 0.6 to a fraction",
+    "options": [
+      "2/3",
+      "3/5",
+      "3/4",
+      "4/5"
+    ],
+    "answer": "3/5"
+  },
+  {
+    "question": "What is the area of a right triangle with legs 6 and 8?",
+    "options": [
+      "20",
+      "24",
+      "28",
+      "32"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "What is the area of a right triangle with legs 3 and 4?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "What is 52 + 48?",
+    "options": [
+      "90",
+      "95",
+      "100",
+      "105"
+    ],
+    "answer": "100"
+  },
+  {
+    "question": "What is 75 + 25?",
+    "options": [
+      "90",
+      "95",
+      "100",
+      "105"
+    ],
+    "answer": "100"
+  },
+  {
+    "question": "What is 99 + 1?",
+    "options": [
+      "95",
+      "98",
+      "100",
+      "102"
+    ],
+    "answer": "100"
+  },
+  {
+    "question": "What is 225 / 15?",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "answer": "15"
+  },
+  {
+    "question": "Math Practice 380: What is the value of 380 + 2?",
+    "options": [
+      "382",
+      "381",
+      "383",
+      "384"
+    ],
+    "answer": "382"
+  },
+  {
+    "question": "Math Practice 381: What is the value of 381 + 3?",
+    "options": [
+      "384",
+      "383",
+      "385",
+      "386"
+    ],
+    "answer": "384"
+  },
+  {
+    "question": "Math Practice 382: What is the value of 382 + 4?",
+    "options": [
+      "386",
+      "385",
+      "387",
+      "388"
+    ],
+    "answer": "386"
+  },
+  {
+    "question": "Math Practice 383: What is the value of 383 + 5?",
+    "options": [
+      "388",
+      "387",
+      "389",
+      "390"
+    ],
+    "answer": "388"
+  },
+  {
+    "question": "Math Practice 384: What is the value of 384 + 6?",
+    "options": [
+      "390",
+      "389",
+      "391",
+      "392"
+    ],
+    "answer": "390"
+  },
+  {
+    "question": "Math Practice 385: What is the value of 385 + 7?",
+    "options": [
+      "392",
+      "391",
+      "393",
+      "394"
+    ],
+    "answer": "392"
+  },
+  {
+    "question": "Math Practice 386: What is the value of 386 + 8?",
+    "options": [
+      "394",
+      "393",
+      "395",
+      "396"
+    ],
+    "answer": "394"
+  },
+  {
+    "question": "Math Practice 387: What is the value of 387 + 9?",
+    "options": [
+      "396",
+      "395",
+      "397",
+      "398"
+    ],
+    "answer": "396"
+  },
+  {
+    "question": "Math Practice 388: What is the value of 388 + 10?",
+    "options": [
+      "398",
+      "397",
+      "399",
+      "400"
+    ],
+    "answer": "398"
+  }
+]

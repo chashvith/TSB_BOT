@@ -5,7 +5,7 @@ const {
   ComponentType,
   EmbedBuilder,
 } = require("discord.js");
-const { loadThemeQuestions, SUPPORTED_THEMES } = require("./quizQuestionBank");
+const { QUIZ_THEMES } = require("./questionService");
 
 const ACCEPT_TIMEOUT_MS = 30_000;
 const QUESTION_TIMEOUT_MS = 10_000;
@@ -25,9 +25,10 @@ const DEFAULT_WEEK_KEY_FN = (date) => {
 };
 
 class QuizDuelService {
-  constructor({ storage, logger }) {
+  constructor({ storage, logger, questionService }) {
     this.storage = storage;
     this.logger = logger;
+    this.questionService = questionService;
     this.activeDuels = new Map();
   }
 
@@ -73,47 +74,6 @@ class QuizDuelService {
     }
 
     return shuffled.slice(0, count);
-  }
-
-  pickBalancedQuestions(allQuestions, count) {
-    const byDifficulty = {
-      basic: allQuestions.filter((q) => q.difficulty === "basic"),
-      medium: allQuestions.filter((q) => q.difficulty === "medium"),
-      advanced: allQuestions.filter((q) => q.difficulty === "advanced"),
-    };
-
-    const desired = {
-      basic: Math.min(4, count),
-      medium: Math.min(2, Math.max(0, count - 4)),
-      advanced: Math.min(1, Math.max(0, count - 6)),
-    };
-
-    const selected = [];
-    const selectedSet = new Set();
-
-    for (const difficulty of ["basic", "medium", "advanced"]) {
-      const picks = this.pickUniqueQuestions(
-        byDifficulty[difficulty],
-        desired[difficulty],
-      );
-      for (const pick of picks) {
-        selected.push(pick);
-        selectedSet.add(pick.question);
-      }
-    }
-
-    if (selected.length < count) {
-      const remaining = this.pickUniqueQuestions(
-        allQuestions,
-        allQuestions.length,
-      )
-        .filter((q) => !selectedSet.has(q.question))
-        .slice(0, count - selected.length);
-
-      selected.push(...remaining);
-    }
-
-    return this.pickUniqueQuestions(selected, Math.min(count, selected.length));
   }
 
   buildAnswerRow(duelId, disabled = false) {
@@ -323,7 +283,7 @@ class QuizDuelService {
     const opponentId = challengedUser.id;
     const normalizedTheme = this.normalizeText(theme);
 
-    if (!SUPPORTED_THEMES.includes(normalizedTheme)) {
+    if (!this.questionService?.isSupportedTheme(normalizedTheme)) {
       return {
         ok: false,
         code: "INVALID_THEME",
@@ -338,19 +298,12 @@ class QuizDuelService {
       return { ok: false, code: "OPPONENT_BUSY" };
     }
 
-    const themeLoad = loadThemeQuestions(normalizedTheme);
-    if (!themeLoad.ok) {
-      this.logger.warn("Unable to load quiz theme", {
-        theme: normalizedTheme,
-        code: themeLoad.code,
-      });
-      return {
-        ok: false,
-        code: "THEME_LOAD_FAILED",
-      };
-    }
+    const questions = this.questionService.getQuestionsForDuel(
+      normalizedTheme,
+      TOTAL_QUESTIONS_PER_DUEL,
+    );
 
-    if (themeLoad.questions.length < TOTAL_QUESTIONS_PER_DUEL) {
+    if (questions.length < TOTAL_QUESTIONS_PER_DUEL) {
       return {
         ok: false,
         code: "INSUFFICIENT_QUESTIONS",
@@ -358,10 +311,6 @@ class QuizDuelService {
     }
 
     const duelId = this.createDuelId();
-    const questions = this.pickBalancedQuestions(
-      themeLoad.questions,
-      TOTAL_QUESTIONS_PER_DUEL,
-    );
 
     const acceptRow = new ActionRowBuilder().addComponents(
       new ButtonBuilder()
@@ -724,5 +673,5 @@ class QuizDuelService {
 
 module.exports = {
   QuizDuelService,
-  SUPPORTED_THEMES,
+  SUPPORTED_THEMES: QUIZ_THEMES,
 };

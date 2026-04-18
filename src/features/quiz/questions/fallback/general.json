@@ -1,0 +1,3962 @@
+[
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Seoul",
+      "Beijing",
+      "Tokyo",
+      "Bangkok"
+    ],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Jane Austen",
+      "Mark Twain"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "What is H2O commonly known as?",
+    "options": [
+      "Hydrogen",
+      "Salt",
+      "Water",
+      "Oxygen"
+    ],
+    "answer": "Water"
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "Which language has the most native speakers worldwide?",
+    "options": [
+      "English",
+      "Hindi",
+      "Spanish",
+      "Mandarin Chinese"
+    ],
+    "answer": "Mandarin Chinese"
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
+    "answer": "Pacific"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Michelangelo"
+    ],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Helium"
+    ],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "question": "What is the largest mammal?",
+    "options": [
+      "African elephant",
+      "Blue whale",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "answer": "Blue whale"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Lyon",
+      "Paris",
+      "Marseille",
+      "Nice"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": [
+      "Nikola Tesla",
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "George Marconi"
+    ],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "options": [
+      "Monaco",
+      "San Marino",
+      "Vatican City",
+      "Liechtenstein"
+    ],
+    "answer": "Vatican City"
+  },
+  {
+    "question": "Which element has the atomic number 8?",
+    "options": [
+      "Hydrogen",
+      "Nitrogen",
+      "Oxygen",
+      "Carbon"
+    ],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Brisbane"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "options": [
+      "Harper Lee",
+      "Mark Twain",
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway"
+    ],
+    "answer": "Harper Lee"
+  },
+  {
+    "question": "What is the deepest ocean trench?",
+    "options": [
+      "Tonga Trench",
+      "Mariana Trench",
+      "Kuril-Kamchatka Trench",
+      "Tongan Trench"
+    ],
+    "answer": "Mariana Trench"
+  },
+  {
+    "question": "Which country must win most population?",
+    "options": [
+      "India",
+      "USA",
+      "China",
+      "Indonesia"
+    ],
+    "answer": "India"
+  },
+  {
+    "question": "What is the speed of light?",
+    "options": [
+      "300,000 km/s",
+      "150,000 km/s",
+      "500,000 km/s",
+      "100,000 km/s"
+    ],
+    "answer": "300,000 km/s"
+  },
+  {
+    "question": "Who directed 'Inception'?",
+    "options": [
+      "James Cameron",
+      "Steven Spielberg",
+      "Christopher Nolan",
+      "Denis Villeneuve"
+    ],
+    "answer": "Christopher Nolan"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Mumbai",
+      "Bangalore",
+      "New Delhi",
+      "Hyderabad"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "Which sport uses a racket and a ball on a court?",
+    "options": [
+      "Cricket",
+      "Tennis",
+      "Baseball",
+      "Badminton"
+    ],
+    "answer": "Tennis"
+  },
+  {
+    "question": "What is the hottest planet in the solar system?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "options": [
+      "Jane Austen",
+      "Charlotte Bronte",
+      "Emily Dickinson",
+      "George Eliot"
+    ],
+    "answer": "Jane Austen"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Rio de Janeiro",
+      "Salvador",
+      "Brasilia",
+      "Sao Paulo"
+    ],
+    "answer": "Brasilia"
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "options": [
+      "Gallium",
+      "Cesium",
+      "Mercury",
+      "Rubidium"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the largest desert in Africa?",
+    "options": [
+      "Kalahari",
+      "Namib",
+      "Sahara",
+      "Atacama"
+    ],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Who is the founder of Microsoft?",
+    "options": [
+      "Steve Jobs",
+      "Bill Gates",
+      "Mark Zuckerberg",
+      "Sundar Pichai"
+    ],
+    "answer": "Bill Gates"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the largest country by area?",
+    "options": [
+      "Canada",
+      "USA",
+      "China",
+      "Russia"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "question": "Who wrote '1984'?",
+    "options": [
+      "George Orwell",
+      "Ray Bradbury",
+      "Isaac Asimov",
+      "Arthur C. Clarke"
+    ],
+    "answer": "George Orwell"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": [
+      "Won",
+      "Yuan",
+      "Yen",
+      "Baht"
+    ],
+    "answer": "Yen"
+  },
+  {
+    "question": "Which organism is known as the 'king of the jungle'?",
+    "options": [
+      "Tiger",
+      "Bear",
+      "Lion",
+      "Wolf"
+    ],
+    "answer": "Lion"
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "options": [
+      "Alexandria",
+      "Cairo",
+      "Giza",
+      "Luxor"
+    ],
+    "answer": "Cairo"
+  },
+  {
+    "question": "Who discovered America?",
+    "options": [
+      "Vasco da Gama",
+      "Ferdinand Magellan",
+      "Christopher Columbus",
+      "Leif Erikson"
+    ],
+    "answer": "Christopher Columbus"
+  },
+  {
+    "question": "What is the second largest ocean?",
+    "options": [
+      "Arctic",
+      "Atlantic",
+      "Indian",
+      "Southern"
+    ],
+    "answer": "Atlantic"
+  },
+  {
+    "question": "Which country is known as the 'Land of a Thousand Lakes'?",
+    "options": [
+      "Sweden",
+      "Norway",
+      "Finland",
+      "Canada"
+    ],
+    "answer": "Finland"
+  },
+  {
+    "question": "What is the chemical symbol for Gold?",
+    "options": [
+      "Go",
+      "Gd",
+      "Au",
+      "Ag"
+    ],
+    "answer": "Au"
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "options": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "Mark Twain"
+    ],
+    "answer": "F. Scott Fitzgerald"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Milan",
+      "Venice",
+      "Rome",
+      "Florence"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "question": "Which is the hardest mineral?",
+    "options": [
+      "Quartz",
+      "Diamond",
+      "Sapphire",
+      "Emerald"
+    ],
+    "answer": "Diamond"
+  },
+  {
+    "question": "What is the primary ingredient in guacamole?",
+    "options": [
+      "Tomato",
+      "Pepper",
+      "Avocado",
+      "Cilantro"
+    ],
+    "answer": "Avocado"
+  },
+  {
+    "question": "Who was the first President of USA?",
+    "options": [
+      "Thomas Jefferson",
+      "John Adams",
+      "George Washington",
+      "James Madison"
+    ],
+    "answer": "George Washington"
+  },
+  {
+    "question": "What is the capital of Mexico?",
+    "options": [
+      "Cancun",
+      "Puerto Vallarta",
+      "Mexico City",
+      "Acapulco"
+    ],
+    "answer": "Mexico City"
+  },
+  {
+    "question": "Which country has the most UNESCO World Heritage Sites?",
+    "options": [
+      "France",
+      "Spain",
+      "Italy",
+      "China"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "question": "What is the boiling point of water?",
+    "options": [
+      "90°C",
+      "100°C",
+      "110°C",
+      "120°C"
+    ],
+    "answer": "100°C"
+  },
+  {
+    "question": "Who invented the light bulb?",
+    "options": [
+      "Nikola Tesla",
+      "Thomas Edison",
+      "Franklin",
+      "Volta"
+    ],
+    "answer": "Thomas Edison"
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "options": [
+      "Busan",
+      "Incheon",
+      "Seoul",
+      "Daegu"
+    ],
+    "answer": "Seoul"
+  },
+  {
+    "question": "Which animal can change its color?",
+    "options": [
+      "Snake",
+      "Chameleon",
+      "Frog",
+      "Lizard"
+    ],
+    "answer": "Chameleon"
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "options": [
+      "St. Petersburg",
+      "Novosibirsk",
+      "Moscow",
+      "Vladivostok"
+    ],
+    "answer": "Moscow"
+  },
+  {
+    "question": "Who wrote 'The Odyssey'?",
+    "options": [
+      "Virgil",
+      "Sophocles",
+      "Homer",
+      "Aeschylus"
+    ],
+    "answer": "Homer"
+  },
+  {
+    "question": "What is the largest asteroid?",
+    "options": [
+      "Vesta",
+      "Ceres",
+      "Pallas",
+      "Juno"
+    ],
+    "answer": "Ceres"
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to USA?",
+    "options": [
+      "UK",
+      "Canada",
+      "France",
+      "Germany"
+    ],
+    "answer": "France"
+  },
+  {
+    "question": "What is the freezing point of water?",
+    "options": [
+      "0°C",
+      "-10°C",
+      "10°C",
+      "-5°C"
+    ],
+    "answer": "0°C"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Munich",
+      "Hamburg",
+      "Berlin",
+      "Cologne"
+    ],
+    "answer": "Berlin"
+  },
+  {
+    "question": "Who is the author of the Harry Potter series?",
+    "options": [
+      "Stephen King",
+      "J.K. Rowling",
+      "George R.R. Martin",
+      "Brandon Sanderson"
+    ],
+    "answer": "J.K. Rowling"
+  },
+  {
+    "question": "What is the largest island in the world?",
+    "options": [
+      "Madagascar",
+      "Borneo",
+      "Greenland",
+      "Sumatra"
+    ],
+    "answer": "Greenland"
+  },
+  {
+    "question": "Which element has the symbol Na?",
+    "options": [
+      "Nitrogen",
+      "Nickel",
+      "Sodium",
+      "Neon"
+    ],
+    "answer": "Sodium"
+  },
+  {
+    "question": "What is the tallest mountain in Africa?",
+    "options": [
+      "Kilimanjaro",
+      "Mount Kenya",
+      "Mount Stanley",
+      "Mount Speke"
+    ],
+    "answer": "Kilimanjaro"
+  },
+  {
+    "question": "Who painted 'Starry Night'?",
+    "options": [
+      "Pablo Picasso",
+      "Claude Monet",
+      "Vincent van Gogh",
+      "Salvador Dali"
+    ],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "question": "What is the capital of Thailand?",
+    "options": [
+      "Phuket",
+      "Chiang Mai",
+      "Bangkok",
+      "Pattaya"
+    ],
+    "answer": "Bangkok"
+  },
+  {
+    "question": "Which country is known for its tulips?",
+    "options": [
+      "Belgium",
+      "France",
+      "Germany",
+      "Netherlands"
+    ],
+    "answer": "Netherlands"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Barcelona",
+      "Valencia",
+      "Madrid",
+      "Seville"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "How many strings does a violin have?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "What is the chemical formula for salt?",
+    "options": [
+      "NaCl",
+      "NaOH",
+      "KCl",
+      "MgCl2"
+    ],
+    "answer": "NaCl"
+  },
+  {
+    "question": "Who invented the microscope?",
+    "options": [
+      "Antonie van Leeuwenhoek",
+      "Robert Hooke",
+      "Galileo",
+      "Carl Zeiss"
+    ],
+    "answer": "Antonie van Leeuwenhoek"
+  },
+  {
+    "question": "What is the capital of Portugal?",
+    "options": [
+      "Porto",
+      "Lisbon",
+      "Covilha",
+      "Aveiro"
+    ],
+    "answer": "Lisbon"
+  },
+  {
+    "question": "Which is the smallest bone in the human body?",
+    "options": [
+      "Radius",
+      "Stapes",
+      "Fibula",
+      "Tibia"
+    ],
+    "answer": "Stapes"
+  },
+  {
+    "question": "What is the largest lake in the world?",
+    "options": [
+      "Lake Baikal",
+      "Lake Victoria",
+      "Lake Superior",
+      "Caspian Sea"
+    ],
+    "answer": "Caspian Sea"
+  },
+  {
+    "question": "Who won the first FIFA World Cup?",
+    "options": [
+      "Brazil",
+      "Germany",
+      "Italy",
+      "Uruguay"
+    ],
+    "answer": "Uruguay"
+  },
+  {
+    "question": "What is the capital of Switzerland?",
+    "options": [
+      "Zurich",
+      "Bern",
+      "Geneva",
+      "Lucerne"
+    ],
+    "answer": "Bern"
+  },
+  {
+    "question": "How many bones are in the human body?",
+    "options": [
+      "186",
+      "206",
+      "226",
+      "246"
+    ],
+    "answer": "206"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Earth",
+      "Mars"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the capital of Norway?",
+    "options": [
+      "Bergen",
+      "Stavanger",
+      "Oslo",
+      "Trondheim"
+    ],
+    "answer": "Oslo"
+  },
+  {
+    "question": "Who wrote 'Wuthering Heights'?",
+    "options": [
+      "Jane Austen",
+      "Charlotte Bronte",
+      "Emily Bronte",
+      "Anne Bronte"
+    ],
+    "answer": "Emily Bronte"
+  },
+  {
+    "question": "What is the capital of Greece?",
+    "options": [
+      "Thessaloniki",
+      "Athens",
+      "Patras",
+      "Heraklion"
+    ],
+    "answer": "Athens"
+  },
+  {
+    "question": "Which metal is the best conductor of electricity?",
+    "options": [
+      "Copper",
+      "Silver",
+      "Gold",
+      "Aluminum"
+    ],
+    "answer": "Silver"
+  },
+  {
+    "question": "What is the largest volcano in the world?",
+    "options": [
+      "Vesuvius",
+      "Krakatoa",
+      "Mauna Loa",
+      "Mont Blanc"
+    ],
+    "answer": "Mauna Loa"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Marie Curie",
+      "Joseph Lister"
+    ],
+    "answer": "Alexander Fleming"
+  },
+  {
+    "question": "What is the capital of Belgium?",
+    "options": [
+      "Antwerp",
+      "Ghent",
+      "Brussels",
+      "Bruges"
+    ],
+    "answer": "Brussels"
+  },
+  {
+    "question": "What is the second longest river in the world?",
+    "options": [
+      "Amazon",
+      "Nile",
+      "Yangtze",
+      "Ob"
+    ],
+    "answer": "Amazon"
+  },
+  {
+    "question": "Which country hosted the 2016 Olympics?",
+    "options": [
+      "China",
+      "UK",
+      "Brazil",
+      "Greece"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "question": "What is the capital of Sweden?",
+    "options": [
+      "Gothenburg",
+      "Malmo",
+      "Stockholm",
+      "Uppsala"
+    ],
+    "answer": "Stockholm"
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "What is the capital of Austria?",
+    "options": [
+      "Salzburg",
+      "Vienna",
+      "Innsbruck",
+      "Linz"
+    ],
+    "answer": "Vienna"
+  },
+  {
+    "question": "Name the smallest state in USA by area.",
+    "options": [
+      "Vermont",
+      "New Hampshire",
+      "Connecticut",
+      "Rhode Island"
+    ],
+    "answer": "Rhode Island"
+  },
+  {
+    "question": "What is the capital of Poland?",
+    "options": [
+      "Krakow",
+      "Gdansk",
+      "Warsaw",
+      "Wroclaw"
+    ],
+    "answer": "Warsaw"
+  },
+  {
+    "question": "Who wrote 'Jane Eyre'?",
+    "options": [
+      "Jane Austen",
+      "Charlotte Bronte",
+      "Emily Dickinson",
+      "George Eliot"
+    ],
+    "answer": "Charlotte Bronte"
+  },
+  {
+    "question": "What is the capital of Turkey?",
+    "options": [
+      "Istanbul",
+      "Izmir",
+      "Ankara",
+      "Antalya"
+    ],
+    "answer": "Ankara"
+  },
+  {
+    "question": "How many chromosomes do humans have?",
+    "options": [
+      "44",
+      "46",
+      "48",
+      "50"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "Which country is known as the 'Jewel of Africa'?",
+    "options": [
+      "Nigeria",
+      "Kenya",
+      "Uganda",
+      "Ethiopia"
+    ],
+    "answer": "Uganda"
+  },
+  {
+    "question": "What is the capital of Ireland?",
+    "options": [
+      "Cork",
+      "Galway",
+      "Dublin",
+      "Limerick"
+    ],
+    "answer": "Dublin"
+  },
+  {
+    "question": "Who was the first Emperor of Rome?",
+    "options": [
+      "Julius Caesar",
+      "Augustus",
+      "Nero",
+      "Claudius"
+    ],
+    "answer": "Augustus"
+  },
+  {
+    "question": "What is the capital of Malaysia?",
+    "options": [
+      "Georgetown",
+      "Ipoh",
+      "Kuala Lumpur",
+      "Selangor"
+    ],
+    "answer": "Kuala Lumpur"
+  },
+  {
+    "question": "Which element is the most abundant in the Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon",
+      "Hydrogen"
+    ],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "What is the capital of Indonesia?",
+    "options": [
+      "Surabaya",
+      "Jakarta",
+      "Bandung",
+      "Medan"
+    ],
+    "answer": "Jakarta"
+  },
+  {
+    "question": "How many planets are in our solar system?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "What is the capital of Singapore?",
+    "options": [
+      "Johor Bahru",
+      "Singapore City",
+      "Singapore",
+      "Sentosa"
+    ],
+    "answer": "Singapore"
+  },
+  {
+    "question": "Who invented the elevator?",
+    "options": [
+      "Elisha Graves Otis",
+      "Thomas Edison",
+      "George Ferris",
+      "Alexander Graham Bell"
+    ],
+    "answer": "Elisha Graves Otis"
+  },
+  {
+    "question": "What is the capital of Philippines?",
+    "options": [
+      "Cebu",
+      "Davao",
+      "Manila",
+      "Quezon City"
+    ],
+    "answer": "Manila"
+  },
+  {
+    "question": "Which bone is the thighbone?",
+    "options": [
+      "Tibia",
+      "Femur",
+      "Fibula",
+      "Humerus"
+    ],
+    "answer": "Femur"
+  },
+  {
+    "question": "What is the capital of Pakistan?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Rawalpindi"
+    ],
+    "answer": "Islamabad"
+  },
+  {
+    "question": "Who wrote 'The Catcher in the Rye'?",
+    "options": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "J.D. Salinger",
+      "Mark Twain"
+    ],
+    "answer": "J.D. Salinger"
+  },
+  {
+    "question": "What is the capital of Bangladesh?",
+    "options": [
+      "Chittagong",
+      "Dhaka",
+      "Khulna",
+      "Rajshahi"
+    ],
+    "answer": "Dhaka"
+  },
+  {
+    "question": "What is the main ingredient in tofu?",
+    "options": [
+      "Wheat",
+      "Soybeans",
+      "Rice",
+      "Corn"
+    ],
+    "answer": "Soybeans"
+  },
+  {
+    "question": "What is the capital of Vietnam?",
+    "options": [
+      "Ho Chi Minh City",
+      "Da Nang",
+      "Hanoi",
+      "Hai Phong"
+    ],
+    "answer": "Hanoi"
+  },
+  {
+    "question": "Which hormone regulates blood sugar?",
+    "options": [
+      "Adrenaline",
+      "Insulin",
+      "Cortisol",
+      "Testosterone"
+    ],
+    "answer": "Insulin"
+  },
+  {
+    "question": "What is the capital of Cambodia?",
+    "options": [
+      "Siem Reap",
+      "Phnom Penh",
+      "Battambang",
+      "Kampong Cham"
+    ],
+    "answer": "Phnom Penh"
+  },
+  {
+    "question": "Who invented the airplane?",
+    "options": [
+      "Alexander Graham Bell",
+      "Leonardo da Vinci",
+      "Wright Brothers",
+      "Otto Lilienthal"
+    ],
+    "answer": "Wright Brothers"
+  },
+  {
+    "question": "What is the capital of Laos?",
+    "options": [
+      "Pakse",
+      "Vientiane",
+      "Luang Prabang",
+      "Khorat"
+    ],
+    "answer": "Vientiane"
+  },
+  {
+    "question": "How many teeth does an adult human have?",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "answer": "32"
+  },
+  {
+    "question": "What is the capital of Myanmar?",
+    "options": [
+      "Yangon",
+      "Mandalay",
+      "Naypyidaw",
+      "Bagan"
+    ],
+    "answer": "Naypyidaw"
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star'?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "question": "What is the capital of Sri Lanka?",
+    "options": [
+      "Colombo",
+      "Kandy",
+      "Jaffna",
+      "Galle"
+    ],
+    "answer": "Colombo"
+  },
+  {
+    "question": "Who discovered DNA's structure?",
+    "options": [
+      "Linus Pauling",
+      "Watson, Crick, Franklin",
+      "Rosalind Franklin",
+      "Aaron Klug"
+    ],
+    "answer": "Watson, Crick, Franklin"
+  },
+  {
+    "question": "What is the capital of Nepal?",
+    "options": [
+      "Pokhara",
+      "Kathmandu",
+      "Lalitpur",
+      "Bhaktapur"
+    ],
+    "answer": "Kathmandu"
+  },
+  {
+    "question": "What element has the symbol Fe?",
+    "options": [
+      "Fluorine",
+      "Francium",
+      "Iron",
+      "Fermium"
+    ],
+    "answer": "Iron"
+  },
+  {
+    "question": "What is the capital of Bhutan?",
+    "options": [
+      "Punakha",
+      "Thimphu",
+      "Paro",
+      "Jakar"
+    ],
+    "answer": "Thimphu"
+  },
+  {
+    "question": "How many ribs does a human body have?",
+    "options": [
+      "12 pairs",
+      "11 pairs",
+      "13 pairs",
+      "10 pairs"
+    ],
+    "answer": "12 pairs"
+  },
+  {
+    "question": "What is the capital of Afghanistan?",
+    "options": [
+      "Kandahar",
+      "Kabul",
+      "Herat",
+      "Balkh"
+    ],
+    "answer": "Kabul"
+  },
+  {
+    "question": "Who was the first Nobel Prize winner?",
+    "options": [
+      "Marie Curie",
+      "Albert Einstein",
+      "Wilhelm Rontgen",
+      "Theodor Mommsen"
+    ],
+    "answer": "Wilhelm Rontgen"
+  },
+  {
+    "question": "What is the capital of Iraq?",
+    "options": [
+      "Basra",
+      "Mosul",
+      "Baghdad",
+      "Kirkuk"
+    ],
+    "answer": "Baghdad"
+  },
+  {
+    "question": "What percentage of the Earth is covered by water?",
+    "options": [
+      "60%",
+      "65%",
+      "71%",
+      "75%"
+    ],
+    "answer": "71%"
+  },
+  {
+    "question": "What is the capital of Iran?",
+    "options": [
+      "Shiraz",
+      "Mashhad",
+      "Tehran",
+      "Isfahan"
+    ],
+    "answer": "Tehran"
+  },
+  {
+    "question": "What is the chemical formula for ammonia?",
+    "options": [
+      "NH2",
+      "NH3",
+      "NH4",
+      "N2H4"
+    ],
+    "answer": "NH3"
+  },
+  {
+    "question": "What is the capital of Saudi Arabia?",
+    "options": [
+      "Jeddah",
+      "Medina",
+      "Riyadh",
+      "Dammam"
+    ],
+    "answer": "Riyadh"
+  },
+  {
+    "question": "Who wrote 'Moby Dick'?",
+    "options": [
+      "Nathaniel Hawthorne",
+      "Herman Melville",
+      "Edgar Allan Poe",
+      "James Fenimore Cooper"
+    ],
+    "answer": "Herman Melville"
+  },
+  {
+    "question": "What is the capital of Yemen?",
+    "options": [
+      "Aden",
+      "Sana'a",
+      "Taiz",
+      "Ibb"
+    ],
+    "answer": "Sana'a"
+  },
+  {
+    "question": "How many parts does the human brain have?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is the capital of Syria?",
+    "options": [
+      "Aleppo",
+      "Homs",
+      "Damascus",
+      "Latakia"
+    ],
+    "answer": "Damascus"
+  },
+  {
+    "question": "Who invented the radio?",
+    "options": [
+      "Nikola Tesla",
+      "Guglielmo Marconi",
+      "Thomas Edison",
+      "Alexander Graham Bell"
+    ],
+    "answer": "Guglielmo Marconi"
+  },
+  {
+    "question": "What is the capital of Jordan?",
+    "options": [
+      "Zarqa",
+      "Amman",
+      "Irbid",
+      "Aqaba"
+    ],
+    "answer": "Amman"
+  },
+  {
+    "question": "What percentage of the human body is water?",
+    "options": [
+      "50%",
+      "60%",
+      "70%",
+      "80%"
+    ],
+    "answer": "60%"
+  },
+  {
+    "question": "What is the capital of Lebanon?",
+    "options": [
+      "Beirut",
+      "Tripoli",
+      "Sidon",
+      "Tyre"
+    ],
+    "answer": "Beirut"
+  },
+  {
+    "question": "What is the symbol for Potassium?",
+    "options": [
+      "Po",
+      "Pt",
+      "K",
+      "P"
+    ],
+    "answer": "K"
+  },
+  {
+    "question": "Who wrote 'The Divine Comedy'?",
+    "options": [
+      "Petrarch",
+      "Dante Alighieri",
+      "Boccaccio",
+      "Giotto"
+    ],
+    "answer": "Dante Alighieri"
+  },
+  {
+    "question": "What is the capital of Libya?",
+    "options": [
+      "Tripoli",
+      "Benghazi",
+      "Tobruk",
+      "Derna"
+    ],
+    "answer": "Tripoli"
+  },
+  {
+    "question": "How many chambers does the human heart have?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "What is the capital of Tunisia?",
+    "options": [
+      "Sfax",
+      "Tunis",
+      "Sousse",
+      "Kairouan"
+    ],
+    "answer": "Tunis"
+  },
+  {
+    "question": "What is the most spoken language in the world?",
+    "options": [
+      "Spanish",
+      "English",
+      "Mandarin Chinese",
+      "Hindi"
+    ],
+    "answer": "Mandarin Chinese"
+  },
+  {
+    "question": "What is the capital of Morocco?",
+    "options": [
+      "Casablanca",
+      "Fez",
+      "Rabat",
+      "Marrakech"
+    ],
+    "answer": "Rabat"
+  },
+  {
+    "question": "Who discovered the photoelectric effect?",
+    "options": [
+      "Max Planck",
+      "Albert Einstein",
+      "Niels Bohr",
+      "Erwin Schrodinger"
+    ],
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "What is the capital of Algeria?",
+    "options": [
+      "Oran",
+      "Algiers",
+      "Constantine",
+      "Annaba"
+    ],
+    "answer": "Algiers"
+  },
+  {
+    "question": "What is the speed of sound?",
+    "options": [
+      "300 m/s",
+      "343 m/s",
+      "400 m/s",
+      "500 m/s"
+    ],
+    "answer": "343 m/s"
+  },
+  {
+    "question": "What is the capital of Kenya?",
+    "options": [
+      "Mombasa",
+      "Nairobi",
+      "Kisumu",
+      "Nakuru"
+    ],
+    "answer": "Nairobi"
+  },
+  {
+    "question": "Who wrote 'The Iliad'?",
+    "options": [
+      "Virgil",
+      "Sophocles",
+      "Homer",
+      "Aeschylus"
+    ],
+    "answer": "Homer"
+  },
+  {
+    "question": "What is the capital of Uganda?",
+    "options": [
+      "Kampala",
+      "Entebbe",
+      "Jinja",
+      "Gulu"
+    ],
+    "answer": "Kampala"
+  },
+  {
+    "question": "How many ATP molecules are produced by one glucose?",
+    "options": [
+      "30",
+      "32",
+      "38",
+      "36"
+    ],
+    "answer": "38"
+  },
+  {
+    "question": "What is the capital of Tanzania?",
+    "options": [
+      "Dar es Salaam",
+      "Dodoma",
+      "Mbeya",
+      "Kigali"
+    ],
+    "answer": "Dodoma"
+  },
+  {
+    "question": "What is the most common blood type?",
+    "options": [
+      "O positive",
+      "A positive",
+      "B positive",
+      "AB positive"
+    ],
+    "answer": "O positive"
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "options": [
+      "Johannesburg",
+      "Cape Town",
+      "Pretoria",
+      "Durban"
+    ],
+    "answer": "Pretoria"
+  },
+  {
+    "question": "Who painted 'The Persistence of Memory'?",
+    "options": [
+      "Pablo Picasso",
+      "Salvador Dali",
+      "Joan Miro",
+      "Max Ernst"
+    ],
+    "answer": "Salvador Dali"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "options": [
+      "Lagos",
+      "Abuja",
+      "Kano",
+      "Ibadan"
+    ],
+    "answer": "Abuja"
+  },
+  {
+    "question": "What is the pH of pure water?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "What is the capital of Ghana?",
+    "options": [
+      "Kumasi",
+      "Accra",
+      "Sekondi",
+      "Tamale"
+    ],
+    "answer": "Accra"
+  },
+  {
+    "question": "Who discovered the electron?",
+    "options": [
+      "Joseph Thomson",
+      "Niels Bohr",
+      "Ernest Rutherford",
+      "Erwin Schrodinger"
+    ],
+    "answer": "Joseph Thomson"
+  },
+  {
+    "question": "What is the capital of Ethiopia?",
+    "options": [
+      "Harar",
+      "Addis Ababa",
+      "Dire Dawa",
+      "Mekelle"
+    ],
+    "answer": "Addis Ababa"
+  },
+  {
+    "question": "What is the largest gland in the human body?",
+    "options": [
+      "Pancreas",
+      "Liver",
+      "Thyroid",
+      "Adrenal"
+    ],
+    "answer": "Liver"
+  },
+  {
+    "question": "What is the capital of Zambia?",
+    "options": [
+      "Kitwe",
+      "Lusaka",
+      "Ndola",
+      "Livingstone"
+    ],
+    "answer": "Lusaka"
+  },
+  {
+    "question": "Who wrote 'Crime and Punishment'?",
+    "options": [
+      "Tolstoy",
+      "Dostoevsky",
+      "Turgenev",
+      "Pushkin"
+    ],
+    "answer": "Dostoevsky"
+  },
+  {
+    "question": "What is the capital of Zimbabwe?",
+    "options": [
+      "Bulawayo",
+      "Harare",
+      "Chitungwiza",
+      "Mutare"
+    ],
+    "answer": "Harare"
+  },
+  {
+    "question": "How many layers does the Earth have?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is the capital of Botswana?",
+    "options": [
+      "Francistown",
+      "Gaborone",
+      "Selibe-Phikwe",
+      "Mahalapye"
+    ],
+    "answer": "Gaborone"
+  },
+  {
+    "question": "What is the density of water?",
+    "options": [
+      "0.8 g/cm³",
+      "1 g/cm³",
+      "1.2 g/cm³",
+      "1.5 g/cm³"
+    ],
+    "answer": "1 g/cm³"
+  },
+  {
+    "question": "What is the capital of Rwanda?",
+    "options": [
+      "Kigali",
+      "Butare",
+      "Gitarama",
+      "Ruhengeri"
+    ],
+    "answer": "Kigali"
+  },
+  {
+    "question": "Who discovered the law of gravitation?",
+    "options": [
+      "Galileo",
+      "Newton",
+      "Kepler",
+      "Einstein"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "What is the capital of Angola?",
+    "options": [
+      "Huambo",
+      "Luanda",
+      "Lobito",
+      "Kuito"
+    ],
+    "answer": "Luanda"
+  },
+  {
+    "question": "What is the noble gas with the lowest boiling point?",
+    "options": [
+      "Argon",
+      "Helium",
+      "Neon",
+      "Xenon"
+    ],
+    "answer": "Helium"
+  },
+  {
+    "question": "What is the capital of Mozambique?",
+    "options": [
+      "Beira",
+      "Maputo",
+      "Inhambane",
+      "Tete"
+    ],
+    "answer": "Maputo"
+  },
+  {
+    "question": "Who wrote 'The Brothers Karamazov'?",
+    "options": [
+      "Tolstoy",
+      "Dostoevsky",
+      "Turgenev",
+      "Gogol"
+    ],
+    "answer": "Dostoevsky"
+  },
+  {
+    "question": "What is the capital of Malawi?",
+    "options": [
+      "Lilongwe",
+      "Blantyre",
+      "Mzuzu",
+      "Zomba"
+    ],
+    "answer": "Lilongwe"
+  },
+  {
+    "question": "What is the atomic mass of Carbon?",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "What is the capital of Madagascar?",
+    "options": [
+      "Antananarivo",
+      "Toliara",
+      "Fianarantsoa",
+      "Antsirabe"
+    ],
+    "answer": "Antananarivo"
+  },
+  {
+    "question": "How many elements are there in the periodic table?",
+    "options": [
+      "100",
+      "104",
+      "108",
+      "118"
+    ],
+    "answer": "118"
+  },
+  {
+    "question": "What is the capital of Mauritius?",
+    "options": [
+      "Port Louis",
+      "Curepipe",
+      "Vacoas",
+      "Quatre Bornes"
+    ],
+    "answer": "Port Louis"
+  },
+  {
+    "question": "Who developed the theory of evolution?",
+    "options": [
+      "Jean Lamarck",
+      "Charles Darwin",
+      "Alfred Russel Wallace",
+      "Thomas Huxley"
+    ],
+    "answer": "Charles Darwin"
+  },
+  {
+    "question": "What is the capital of Namibia?",
+    "options": [
+      "Windhoek",
+      "Walvis Bay",
+      "Swakopmund",
+      "Oshakati"
+    ],
+    "answer": "Windhoek"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": [
+      "Heart",
+      "Brain",
+      "Liver",
+      "Skin"
+    ],
+    "answer": "Liver"
+  },
+  {
+    "question": "What is the capital of Mali?",
+    "options": [
+      "Gao",
+      "Bamako",
+      "Timbuktu",
+      "Segou"
+    ],
+    "answer": "Bamako"
+  },
+  {
+    "question": "Who wrote 'The Count of Monte Cristo'?",
+    "options": [
+      "Victor Hugo",
+      "Alexandre Dumas",
+      "Balzac",
+      "Flaubert"
+    ],
+    "answer": "Alexandre Dumas"
+  },
+  {
+    "question": "What is the capital of Niger?",
+    "options": [
+      "Niamey",
+      "Maradi",
+      "Agadez",
+      "Zinder"
+    ],
+    "answer": "Niamey"
+  },
+  {
+    "question": "What is the chemical symbol for Calcium?",
+    "options": [
+      "C",
+      "Ca",
+      "Cs",
+      "Cl"
+    ],
+    "answer": "Ca"
+  },
+  {
+    "question": "What is the capital of Senegal?",
+    "options": [
+      "Dakar",
+      "Saint-Louis",
+      "Thiés",
+      "Kaolack"
+    ],
+    "answer": "Dakar"
+  },
+  {
+    "question": "How many vertebrae does the human spine have?",
+    "options": [
+      "30",
+      "33",
+      "36",
+      "40"
+    ],
+    "answer": "33"
+  },
+  {
+    "question": "What is the capital of Ivory Coast?",
+    "options": [
+      "Yamoussoukro",
+      "Abidjan",
+      "Bouake",
+      "Daloa"
+    ],
+    "answer": "Yamoussoukro"
+  },
+  {
+    "question": "Who invented the steam engine?",
+    "options": [
+      "James Watt",
+      "Thomas Newcomen",
+      "George Stephenson",
+      "Richard Trevithick"
+    ],
+    "answer": "James Watt"
+  },
+  {
+    "question": "What is the capital of Guinea?",
+    "options": [
+      "Conakry",
+      "Kindia",
+      "Mamou",
+      "Pita"
+    ],
+    "answer": "Conakry"
+  },
+  {
+    "question": "What is the loudest animal on Earth?",
+    "options": [
+      "Blue whale",
+      "Sperm whale",
+      "Right whale",
+      "Humpback whale"
+    ],
+    "answer": "Sperm whale"
+  },
+  {
+    "question": "What is the capital of Cameroon?",
+    "options": [
+      "Douala",
+      "Yaounde",
+      "Garoua",
+      "Bamenda"
+    ],
+    "answer": "Yaounde"
+  },
+  {
+    "question": "Who wrote 'Anna Karenina'?",
+    "options": [
+      "Pushkin",
+      "Dostoevsky",
+      "Tolstoy",
+      "Gogol"
+    ],
+    "answer": "Tolstoy"
+  },
+  {
+    "question": "What is the capital of Chad?",
+    "options": [
+      "N'Djamena",
+      "Sarh",
+      "Abéché",
+      "Moundou"
+    ],
+    "answer": "N'Djamena"
+  },
+  {
+    "question": "What does DNA stand for?",
+    "options": [
+      "Deoxyribonucleic acid",
+      "Diribonucleic acid",
+      "Diaribonucleic acid",
+      "Deoxyribose nucleic acid"
+    ],
+    "answer": "Deoxyribonucleic acid"
+  },
+  {
+    "question": "What is the capital of Central African Republic?",
+    "options": [
+      "Bangui",
+      "Bambari",
+      "Berberati",
+      "Garoua-Boulay"
+    ],
+    "answer": "Bangui"
+  },
+  {
+    "question": "How long is a human's femur (thighbone)?",
+    "options": [
+      "20 cm",
+      "30 cm",
+      "40 cm",
+      "50 cm"
+    ],
+    "answer": "50 cm"
+  },
+  {
+    "question": "What is the capital of Congo?",
+    "options": [
+      "Kinshasa",
+      "Brazzaville",
+      "Matadi",
+      "Kolwezi"
+    ],
+    "answer": "Kinshasa"
+  },
+  {
+    "question": "Who discovered the law of universal gravitation?",
+    "options": [
+      "Galileo",
+      "Newton",
+      "Kepler",
+      "Copernicus"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "question": "What is the largest organ in the mammalian heart?",
+    "options": [
+      "Right ventricle",
+      "Left ventricle",
+      "Right atrium",
+      "Left atrium"
+    ],
+    "answer": "Left ventricle"
+  },
+  {
+    "question": "What is the capital of Gabon?",
+    "options": [
+      "Libreville",
+      "Port Gentil",
+      "Franceville",
+      "Oyem"
+    ],
+    "answer": "Libreville"
+  },
+  {
+    "question": "What is the speed at which the Earth rotates?",
+    "options": [
+      "460 m/s",
+      "500 m/s",
+      "520 m/s",
+      "550 m/s"
+    ],
+    "answer": "460 m/s"
+  },
+  {
+    "question": "Who wrote 'The Three Musketeers'?",
+    "options": [
+      "Alexandre Dumas",
+      "Victor Hugo",
+      "Balzac",
+      "Stendhal"
+    ],
+    "answer": "Alexandre Dumas"
+  },
+  {
+    "question": "What is the capital of Burundi?",
+    "options": [
+      "Gitega",
+      "Bujumbura",
+      "Muramvya",
+      "Ngozi"
+    ],
+    "answer": "Gitega"
+  },
+  {
+    "question": "What is the mass of the Earth?",
+    "options": [
+      "5.97 x 10^24 kg",
+      "6.97 x 10^24 kg",
+      "7.97 x 10^24 kg",
+      "4.97 x 10^24 kg"
+    ],
+    "answer": "5.97 x 10^24 kg"
+  },
+  {
+    "question": "What is the capital of Somalia?",
+    "options": [
+      "Mogadishu",
+      "Hargeisa",
+      "Kismayo",
+      "Galkacyo"
+    ],
+    "answer": "Mogadishu"
+  },
+  {
+    "question": "Human DNA contains approximately how many base pairs?",
+    "options": [
+      "2 billion",
+      "3 billion",
+      "4 billion",
+      "5 billion"
+    ],
+    "answer": "3 billion"
+  },
+  {
+    "question": "What is the capital of Mauritania?",
+    "options": [
+      "Nouakchott",
+      "Atar",
+      "Chinguetti",
+      "Oudane"
+    ],
+    "answer": "Nouakchott"
+  },
+  {
+    "question": "Who wrote 'Don Quixote'?",
+    "options": [
+      "Pedro Calderon",
+      "Miguel de Cervantes",
+      "Lope de Vega",
+      "Jose Zorilla"
+    ],
+    "answer": "Miguel de Cervantes"
+  },
+  {
+    "question": "What is the height of Mount Everest?",
+    "options": [
+      "8,744 m",
+      "8,848 m",
+      "8,950 m",
+      "9,000 m"
+    ],
+    "answer": "8,848 m"
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "options": [
+      "Lion",
+      "Antelope",
+      "Cheetah",
+      "Horse"
+    ],
+    "answer": "Cheetah"
+  },
+  {
+    "question": "Who discovered the strong nuclear force?",
+    "options": [
+      "Ernest Rutherford",
+      "Niels Bohr",
+      "Wolfgang Pauli",
+      "Hideki Yukawa"
+    ],
+    "answer": "Hideki Yukawa"
+  },
+  {
+    "question": "What is the deepest point in the ocean?",
+    "options": [
+      "10,800 m",
+      "10,911 m",
+      "11,000 m",
+      "11,034 m"
+    ],
+    "answer": "11,034 m"
+  },
+  {
+    "question": "Who wrote 'The Scarlet Letter'?",
+    "options": [
+      "Nathaniel Hawthorne",
+      "Herman Melville",
+      "Henry David Thoreau",
+      "Ralph Waldo Emerson"
+    ],
+    "answer": "Nathaniel Hawthorne"
+  },
+  {
+    "question": "What is the time it takes the Earth to orbit the Sun?",
+    "options": [
+      "364 days",
+      "365 days",
+      "366 days",
+      "365.25 days"
+    ],
+    "answer": "365.25 days"
+  },
+  {
+    "question": "What is the percentage of nitrogen in the atmosphere?",
+    "options": [
+      "70%",
+      "75%",
+      "78%",
+      "82%"
+    ],
+    "answer": "78%"
+  },
+  {
+    "question": "Who discovered insulin?",
+    "options": [
+      "James Black",
+      "Frederick Banting",
+      "John Macleod",
+      "Charles Best"
+    ],
+    "answer": "Frederick Banting"
+  },
+  {
+    "question": "How fast can a peregrine falcon dive?",
+    "options": [
+      "300 km/h",
+      "320 km/h",
+      "350 km/h",
+      "390 km/h"
+    ],
+    "answer": "390 km/h"
+  },
+  {
+    "question": "Who wrote 'Frankenstein'?",
+    "options": [
+      "Mary Shelley",
+      "Percy Bysshe Shelley",
+      "Lord Byron",
+      "John Polidori"
+    ],
+    "answer": "Mary Shelley"
+  },
+  {
+    "question": "What percentage of oxygen is in the atmosphere?",
+    "options": [
+      "18%",
+      "20%",
+      "21%",
+      "25%"
+    ],
+    "answer": "21%"
+  },
+  {
+    "question": "How many years is a decade?",
+    "options": [
+      "5 years",
+      "10 years",
+      "20 years",
+      "100 years"
+    ],
+    "answer": "10 years"
+  },
+  {
+    "question": "Who wrote 'Dracula'?",
+    "options": [
+      "Arthur Conan Doyle",
+      "Bram Stoker",
+      "Henry James",
+      "Robert Louis Stevenson"
+    ],
+    "answer": "Bram Stoker"
+  },
+  {
+    "question": "What is the smallest country by population?",
+    "options": [
+      "Monaco",
+      "San Marino",
+      "Vatican City",
+      "Liechtenstein"
+    ],
+    "answer": "Vatican City"
+  },
+  {
+    "question": "How many hearts does an octopus have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Who won the first Nobel Prize in Physics?",
+    "options": [
+      "Marie Curie",
+      "Wilhelm Rontgen",
+      "Pierre Curie",
+      "Albert Einstein"
+    ],
+    "answer": "Wilhelm Rontgen"
+  },
+  {
+    "question": "What does GMT stand for?",
+    "options": [
+      "Global Mean Time",
+      "Greenwich Mean Time",
+      "Great Mean Time",
+      "Global Market Time"
+    ],
+    "answer": "Greenwich Mean Time"
+  },
+  {
+    "question": "How fast does light travel through water?",
+    "options": [
+      "200,000 km/s",
+      "225,000 km/s",
+      "250,000 km/s",
+      "300,000 km/s"
+    ],
+    "answer": "225,000 km/s"
+  },
+  {
+    "question": "What is the rarest blood type?",
+    "options": [
+      "AB-",
+      "O+",
+      "B-",
+      "Rh-null"
+    ],
+    "answer": "Rh-null"
+  },
+  {
+    "question": "Who directed 'Titanic'?",
+    "options": [
+      "Steven Spielberg",
+      "James Cameron",
+      "Peter Jackson",
+      "Christopher Nolan"
+    ],
+    "answer": "James Cameron"
+  },
+  {
+    "question": "What is the largest rainforest in the world?",
+    "options": [
+      "Congo Rainforest",
+      "Southeast Asian Rainforest",
+      "Amazon Rainforest",
+      "Tongass Rainforest"
+    ],
+    "answer": "Amazon Rainforest"
+  },
+  {
+    "question": "Which scientist won two Nobel Prizes?",
+    "options": [
+      "Albert Einstein",
+      "Marie Curie",
+      "Richard Feynman",
+      "Niels Bohr"
+    ],
+    "answer": "Marie Curie"
+  },
+  {
+    "question": "What is the most expensive gemstone?",
+    "options": [
+      "Diamond",
+      "Ruby",
+      "Sapphire",
+      "Emerald"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "question": "How many strings does a guitar have?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "What is the capital of New Zealand?",
+    "options": [
+      "Auckland",
+      "Wellington",
+      "Christchurch",
+      "Dunedin"
+    ],
+    "answer": "Wellington"
+  },
+  {
+    "question": "Who invented the thermometer?",
+    "options": [
+      "Daniel Fahrenheit",
+      "Galileo",
+      "Anders Celsius",
+      "Charles de Coulomb"
+    ],
+    "answer": "Galileo"
+  },
+  {
+    "question": "What is the most densely populated country?",
+    "options": [
+      "Singapore",
+      "Monaco",
+      "Bangladesh",
+      "Luxembourg"
+    ],
+    "answer": "Singapore"
+  },
+  {
+    "question": "How many muscles are in the human body?",
+    "options": [
+      "500",
+      "600",
+      "700",
+      "800"
+    ],
+    "answer": "700"
+  },
+  {
+    "question": "Who wrote 'The Picture of Dorian Gray'?",
+    "options": [
+      "Oscar Wilde",
+      "George Bernard Shaw",
+      "W.B. Yeats",
+      "Samuel Beckett"
+    ],
+    "answer": "Oscar Wilde"
+  },
+  {
+    "question": "What is the fastest flying bird?",
+    "options": [
+      "Peregrine Falcon",
+      "Golden Eagle",
+      "Harpy Eagle",
+      "Philippine Eagle"
+    ],
+    "answer": "Peregrine Falcon"
+  },
+  {
+    "question": "What is the first element in the periodic table?",
+    "options": [
+      "Helium",
+      "Hydrogen",
+      "Lithium",
+      "Beryllium"
+    ],
+    "answer": "Hydrogen"
+  },
+  {
+    "question": "Who was the first woman to fly solo across the Atlantic?",
+    "options": [
+      "Amelia Earhart",
+      "Jackie Cochran",
+      "Jerrie Mock",
+      "Willa Brown"
+    ],
+    "answer": "Amelia Earhart"
+  },
+  {
+    "question": "What is the tallest waterfall in the world?",
+    "options": [
+      "Niagara Falls",
+      "Victoria Falls",
+      "Angel Falls",
+      "Iguazu Falls"
+    ],
+    "answer": "Angel Falls"
+  },
+  {
+    "question": "How many dominoes are in a standard set?",
+    "options": [
+      "24",
+      "28",
+      "32",
+      "36"
+    ],
+    "answer": "28"
+  },
+  {
+    "question": "Who invented the television?",
+    "options": [
+      "Philo Farnsworth",
+      "Vladimir Zworykin",
+      "Paul Nipkow",
+      "John Baird"
+    ],
+    "answer": "Philo Farnsworth"
+  },
+  {
+    "question": "What percentage of the human brain do we use?",
+    "options": [
+      "10%",
+      "20%",
+      "50%",
+      "100%"
+    ],
+    "answer": "100%"
+  },
+  {
+    "question": "What is the fourth planet from the Sun?",
+    "options": [
+      "Venus",
+      "Earth",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "question": "Who wrote 'Sense and Sensibility'?",
+    "options": [
+      "Jane Austen",
+      "Charlotte Bronte",
+      "Emily Bronte",
+      "Anne Bronte"
+    ],
+    "answer": "Jane Austen"
+  },
+  {
+    "question": "What is the speed of a typical rocket launch?",
+    "options": [
+      "5 km/s",
+      "11 km/s",
+      "20 km/s",
+      "30 km/s"
+    ],
+    "answer": "11 km/s"
+  },
+  {
+    "question": "How many years are in a century?",
+    "options": [
+      "50 years",
+      "100 years",
+      "200 years",
+      "1000 years"
+    ],
+    "answer": "100 years"
+  },
+  {
+    "question": "What is the smallest ocean?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Southern"
+    ],
+    "answer": "Arctic"
+  },
+  {
+    "question": "How many strings does a cello have?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Who invented the internet?",
+    "options": [
+      "Bill Gates",
+      "Steve Jobs",
+      "Tim Berners-Lee",
+      "Alan Turing"
+    ],
+    "answer": "Tim Berners-Lee"
+  },
+  {
+    "question": "What is the most spoken language in the world by native speakers?",
+    "options": [
+      "English",
+      "Spanish",
+      "Mandarin Chinese",
+      "Hindi"
+    ],
+    "answer": "Mandarin Chinese"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": [
+      "Sahara",
+      "Gobi",
+      "Antarctica",
+      "Kalahari"
+    ],
+    "answer": "Antarctica"
+  },
+  {
+    "question": "How many chambers does a squid's heart have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What country has the most islands?",
+    "options": [
+      "Indonesia",
+      "Philippines",
+      "Sweden",
+      "Finland"
+    ],
+    "answer": "Sweden"
+  },
+  {
+    "question": "What is the longest word in the English language?",
+    "options": [
+      "Supercalifragilisticexpialidocious",
+      "Antidisestablishmentarianism",
+      "Pneumonoultramicroscopicsilicovolcanoconiosis",
+      "Floccinaucinilicilification"
+    ],
+    "answer": "Pneumonoultramicroscopicsilicovolcanoconiosis"
+  },
+  {
+    "question": "How many minutes are in a full week?",
+    "options": [
+      "10080",
+      "10800",
+      "11000",
+      "12000"
+    ],
+    "answer": "10080"
+  },
+  {
+    "question": "What is the only mammal that cannot jump?",
+    "options": [
+      "Elephant",
+      "Whale",
+      "Sloth",
+      "Hippopotamus"
+    ],
+    "answer": "Elephant"
+  },
+  {
+    "question": "What is the name of the currency used in Switzerland?",
+    "options": [
+      "Euro",
+      "Franc",
+      "Mark",
+      "Krona"
+    ],
+    "answer": "Franc"
+  },
+  {
+    "question": "How many sides does a decagon have?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "What is the second most spoken language in the world?",
+    "options": [
+      "Spanish",
+      "English",
+      "Hindi",
+      "Arabic"
+    ],
+    "answer": "Spanish"
+  },
+  {
+    "question": "How many bones does a giraffe have in its neck?",
+    "options": [
+      "5",
+      "7",
+      "9",
+      "12"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "What is the capital of Denmark?",
+    "options": [
+      "Aarhus",
+      "Copenhagen",
+      "Randers",
+      "Aalborg"
+    ],
+    "answer": "Copenhagen"
+  },
+  {
+    "question": "Who is the author of 'The Hobbit'?",
+    "options": [
+      "J.K. Rowling",
+      "George R.R. Martin",
+      "J.R.R. Tolkien",
+      "Brandon Sanderson"
+    ],
+    "answer": "J.R.R. Tolkien"
+  },
+  {
+    "question": "What is the smallest bone in the human body?",
+    "options": [
+      "Incus",
+      "Malleus",
+      "Stapes",
+      "Rib"
+    ],
+    "answer": "Stapes"
+  },
+  {
+    "question": "How many strings does a harp typically have?",
+    "options": [
+      "22",
+      "33",
+      "46",
+      "50"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "What is the largest land mammal?",
+    "options": [
+      "Hippopotamus",
+      "Whale",
+      "African Elephant",
+      "Giraffe"
+    ],
+    "answer": "African Elephant"
+  },
+  {
+    "question": "What is the capital of Colombia?",
+    "options": [
+      "Medellin",
+      "Bogota",
+      "Cali",
+      "Barranquilla"
+    ],
+    "answer": "Bogota"
+  },
+  {
+    "question": "How many vertebrae does a human have?",
+    "options": [
+      "30",
+      "33",
+      "36",
+      "40"
+    ],
+    "answer": "33"
+  },
+  {
+    "question": "What is the capital of Cuba?",
+    "options": [
+      "Santiago de Cuba",
+      "Havana",
+      "Camagüey",
+      "Santa Clara"
+    ],
+    "answer": "Havana"
+  },
+  {
+    "question": "What is the second largest planet in our solar system?",
+    "options": [
+      "Neptune",
+      "Saturn",
+      "Uranus",
+      "Jupiter"
+    ],
+    "answer": "Saturn"
+  },
+  {
+    "question": "What is the smallest country in Africa?",
+    "options": [
+      "Mauritius",
+      "Seychelles",
+      "Cape Verde",
+      "Comoros"
+    ],
+    "answer": "Seychelles"
+  },
+  {
+    "question": "Who invented the printing press?",
+    "options": [
+      "Gutenberg",
+      "Caxton",
+      "Aldus",
+      "Jenson"
+    ],
+    "answer": "Gutenberg"
+  },
+  {
+    "question": "What is the capital of Iceland?",
+    "options": [
+      "Reykjavik",
+      "Akranes",
+      "Kopavogur",
+      "Hafnarfjordur"
+    ],
+    "answer": "Reykjavik"
+  },
+  {
+    "question": "How many continents have a desert?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "What is the capital of Slovakia?",
+    "options": [
+      "Bratislava",
+      "Kosice",
+      "Presov",
+      "Zilina"
+    ],
+    "answer": "Bratislava"
+  },
+  {
+    "question": "What is the largest coral reef in the world?",
+    "options": [
+      "Red Sea Reefs",
+      "Great Barrier Reef",
+      "Belize Barrier Reef",
+      "Indonesian Reefs"
+    ],
+    "answer": "Great Barrier Reef"
+  },
+  {
+    "question": "What is the capital of Croatia?",
+    "options": [
+      "Zagreb",
+      "Split",
+      "Dubrovnik",
+      "Rijeka"
+    ],
+    "answer": "Zagreb"
+  },
+  {
+    "question": "How many sides does a rhombus have?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "What is the capital of Montenegro?",
+    "options": [
+      "Podgorica",
+      "Cetinje",
+      "Kotor",
+      "Nikšic"
+    ],
+    "answer": "Podgorica"
+  },
+  {
+    "question": "Who painted 'The Night Cafe'?",
+    "options": [
+      "Picasso",
+      "Van Gogh",
+      "Monet",
+      "Dali"
+    ],
+    "answer": "Van Gogh"
+  },
+  {
+    "question": "What is the capital of Bosnia?",
+    "options": [
+      "Sarajevo",
+      "Mostar",
+      "Banja Luka",
+      "Zenica"
+    ],
+    "answer": "Sarajevo"
+  },
+  {
+    "question": "How many years is a millennium?",
+    "options": [
+      "50",
+      "100",
+      "500",
+      "1000"
+    ],
+    "answer": "1000"
+  },
+  {
+    "question": "What is the capital of North Macedonia?",
+    "options": [
+      "Skopje",
+      "Bitola",
+      "Kumanovo",
+      "Veles"
+    ],
+    "answer": "Skopje"
+  },
+  {
+    "question": "What is the fastest fish in the ocean?",
+    "options": [
+      "Tuna",
+      "Marlin",
+      "Sailfish",
+      "Barracuda"
+    ],
+    "answer": "Sailfish"
+  },
+  {
+    "question": "What is the capital of Moldova?",
+    "options": [
+      "Chisinau",
+      "Balti",
+      "Tiraspol",
+      "Bender"
+    ],
+    "answer": "Chisinau"
+  },
+  {
+    "question": "How many letters are in the Greek alphabet?",
+    "options": [
+      "20",
+      "24",
+      "26",
+      "30"
+    ],
+    "answer": "24"
+  },
+  {
+    "question": "What is the capital of Georgia?",
+    "options": [
+      "Tbilisi",
+      "Kutaisi",
+      "Batumi",
+      "Gori"
+    ],
+    "answer": "Tbilisi"
+  },
+  {
+    "question": "Who discovered the North Pole?",
+    "options": [
+      "Shackleton",
+      "Peary",
+      "Scott",
+      "Amundsen"
+    ],
+    "answer": "Peary"
+  },
+  {
+    "question": "What is the capital of Armenia?",
+    "options": [
+      "Yerevan",
+      "Gumri",
+      "Vanadzor",
+      "Etchmiadzin"
+    ],
+    "answer": "Yerevan"
+  },
+  {
+    "question": "What is the capital of Azerbaijan?",
+    "options": [
+      "Baku",
+      "Ganja",
+      "Lankaran",
+      "Shaki"
+    ],
+    "answer": "Baku"
+  },
+  {
+    "question": "How many eyes does a starfish have?",
+    "options": [
+      "0",
+      "2",
+      "5",
+      "10"
+    ],
+    "answer": "0"
+  },
+  {
+    "question": "What is the capital of Tajikistan?",
+    "options": [
+      "Dushanbe",
+      "Khujand",
+      "Istaravshan",
+      "Khorog"
+    ],
+    "answer": "Dushanbe"
+  },
+  {
+    "question": "Who wrote 'The Raven'?",
+    "options": [
+      "Longfellow",
+      "Poe",
+      "Whitman",
+      "Emerson"
+    ],
+    "answer": "Poe"
+  },
+  {
+    "question": "What is the capital of Uzbekistan?",
+    "options": [
+      "Tashkent",
+      "Samarkand",
+      "Bukhara",
+      "Fergana"
+    ],
+    "answer": "Tashkent"
+  },
+  {
+    "question": "What is the largest moon of Jupiter?",
+    "options": [
+      "Europa",
+      "Ganymede",
+      "Io",
+      "Callisto"
+    ],
+    "answer": "Ganymede"
+  },
+  {
+    "question": "What is the capital of Turkmenistan?",
+    "options": [
+      "Ashgabat",
+      "Turkmenbashi",
+      "Balkanabat",
+      "Daşoguz"
+    ],
+    "answer": "Ashgabat"
+  },
+  {
+    "question": "How many sides does a nonagon have?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "What is the capital of Kyrgyzstan?",
+    "options": [
+      "Bishkek",
+      "Osh",
+      "Jalal-Abad",
+      "Issyk-Kul"
+    ],
+    "answer": "Bishkek"
+  },
+  {
+    "question": "What is the deepest lake in the world?",
+    "options": [
+      "Lake Tanganyika",
+      "Lake Baikal",
+      "Lake Malawi",
+      "Great Slave Lake"
+    ],
+    "answer": "Lake Baikal"
+  },
+  {
+    "question": "Who was the first person in space?",
+    "options": [
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "Buzz Aldrin",
+      "John Glenn"
+    ],
+    "answer": "Yuri Gagarin"
+  },
+  {
+    "question": "What is the capital of Kazakhstan?",
+    "options": [
+      "Almaty",
+      "Nur-Sultan",
+      "Karaganda",
+      "Semey"
+    ],
+    "answer": "Nur-Sultan"
+  },
+  {
+    "question": "What is the smallest ocean by volume?",
+    "options": [
+      "Atlantic",
+      "Arctic",
+      "Indian",
+      "Southern"
+    ],
+    "answer": "Arctic"
+  },
+  {
+    "question": "What is the capital of Albania?",
+    "options": [
+      "Tirana",
+      "Durres",
+      "Vlora",
+      "Korce"
+    ],
+    "answer": "Tirana"
+  },
+  {
+    "question": "How many chromosomes do potatoes have?",
+    "options": [
+      "24",
+      "48",
+      "72",
+      "96"
+    ],
+    "answer": "48"
+  },
+  {
+    "question": "What is the capital of Cyprus?",
+    "options": [
+      "Lefkosia",
+      "Larnaca",
+      "Paphos",
+      "Limassol"
+    ],
+    "answer": "Lefkosia"
+  },
+  {
+    "question": "What is the longest mountain range in the world?",
+    "options": [
+      "Alps",
+      "Himalayas",
+      "Mid-Ocean Ridge",
+      "Rockies"
+    ],
+    "answer": "Mid-Ocean Ridge"
+  },
+  {
+    "question": "What is the capital of Malta?",
+    "options": [
+      "Valletta",
+      "Sliema",
+      "Mdina",
+      "Mosta"
+    ],
+    "answer": "Valletta"
+  },
+  {
+    "question": "Who invented the telescope?",
+    "options": [
+      "Copernicus",
+      "Galileo",
+      "Lippershey",
+      "Both B and C"
+    ],
+    "answer": "Both B and C"
+  },
+  {
+    "question": "What is the capital of Luxembourg?",
+    "options": [
+      "Luxembourg City",
+      "Esch-sur-Alzette",
+      "Dudelange",
+      "Differdange"
+    ],
+    "answer": "Luxembourg City"
+  },
+  {
+    "question": "What is the rarest element on Earth?",
+    "options": [
+      "Platinum",
+      "Gold",
+      "Francium",
+      "Radium"
+    ],
+    "answer": "Francium"
+  },
+  {
+    "question": "What is the capital of Liechtenstein?",
+    "options": [
+      "Schaan",
+      "Vaduz",
+      "Triesen",
+      "Ruggell"
+    ],
+    "answer": "Vaduz"
+  },
+  {
+    "question": "How many bones does a whale have?",
+    "options": [
+      "100",
+      "200",
+      "300",
+      "400"
+    ],
+    "answer": "200"
+  },
+  {
+    "question": "What is the capital of Monaco?",
+    "options": [
+      "Monaco",
+      "Monte Carlo",
+      "La Rousse",
+      "Fontvieille"
+    ],
+    "answer": "Monaco"
+  },
+  {
+    "question": "What is the largest flower in the world?",
+    "options": [
+      "Sunflower",
+      "Rafflesia",
+      "Water lily",
+      "Corpse flower"
+    ],
+    "answer": "Rafflesia"
+  },
+  {
+    "question": "What is the capital of San Marino?",
+    "options": [
+      "San Marino",
+      "Borgo Maggiore",
+      "Serravalle",
+      "Domagnano"
+    ],
+    "answer": "San Marino"
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": [
+      "Marie Curie",
+      "Irene Joliot-Curie",
+      "Linus Pauling",
+      "Barbara McClintock"
+    ],
+    "answer": "Marie Curie"
+  },
+  {
+    "question": "What is the capital of Andorra?",
+    "options": [
+      "Andorra la Vella",
+      "Escaldes-Engordany",
+      "Sant Julia de Loria",
+      "Ordino"
+    ],
+    "answer": "Andorra la Vella"
+  },
+  {
+    "question": "How many tentacles does an octopus have?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Who wrote 'One Hundred Years of Solitude'?",
+    "options": [
+      "Jorge Luis Borges",
+      "Gabriel Garcia Marquez",
+      "Julio Cortazar",
+      "Isabelle Allende"
+    ],
+    "answer": "Gabriel Garcia Marquez"
+  },
+  {
+    "question": "What is the name of the waterfall in Africa?",
+    "options": [
+      "Iguazu Falls",
+      "Niagara Falls",
+      "Victoria Falls",
+      "Angel Falls"
+    ],
+    "answer": "Victoria Falls"
+  },
+  {
+    "question": "How tall is the average giraffe?",
+    "options": [
+      "12 feet",
+      "14 feet",
+      "16 feet",
+      "18 feet"
+    ],
+    "answer": "18 feet"
+  },
+  {
+    "question": "What is the most populated country in Africa?",
+    "options": [
+      "Ethiopia",
+      "Kenya",
+      "Nigeria",
+      "South Africa"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "question": "How many strings does a bass have?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "What is the only marsupial in North America?",
+    "options": [
+      "Koala",
+      "Wallaby",
+      "Opossum",
+      "Wombat"
+    ],
+    "answer": "Opossum"
+  },
+  {
+    "question": "What is the smallest bird in the world?",
+    "options": [
+      "Hummingbird",
+      "Wren",
+      "Sparrow",
+      "Finch"
+    ],
+    "answer": "Hummingbird"
+  },
+  {
+    "question": "What is the most dangerous snake in the world?",
+    "options": [
+      "King Cobra",
+      "Black Mamba",
+      "Inland Taipan",
+      "Puff Adder"
+    ],
+    "answer": "Inland Taipan"
+  },
+  {
+    "question": "What is the largest bird in the world?",
+    "options": [
+      "Condor",
+      "Ostrich",
+      "Eagle",
+      "Albatross"
+    ],
+    "answer": "Ostrich"
+  },
+  {
+    "question": "Who won the first Academy Award for Best Actor?",
+    "options": [
+      "Marlon Brando",
+      "Gary Cooper",
+      "Emil Jannings",
+      "Jack Nicholson"
+    ],
+    "answer": "Emil Jannings"
+  },
+  {
+    "question": "What is the most toxic spider in the world?",
+    "options": [
+      "Black Widow",
+      "Brazilian Wandering Spider",
+      "Sydney Funnel Web",
+      "Hobo Spider"
+    ],
+    "answer": "Brazilian Wandering Spider"
+  },
+  {
+    "question": "What is the strongest muscle in the human body?",
+    "options": [
+      "Bicep",
+      "Masseter",
+      "Gluteus Maximus",
+      "Tongue"
+    ],
+    "answer": "Masseter"
+  },
+  {
+    "question": "Who is the most famous painter of the Renaissance?",
+    "options": [
+      "Michelangelo",
+      "Da Vinci",
+      "Raphael",
+      "Botticelli"
+    ],
+    "answer": "Da Vinci"
+  },
+  {
+    "question": "What is the capital of Suriname?",
+    "options": [
+      "Paramaribo",
+      "Lelydorp",
+      "Lelydorp",
+      "Onchan"
+    ],
+    "answer": "Paramaribo"
+  },
+  {
+    "question": "How many colors are in a rainbow?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "What is the only bird that can see the color red?",
+    "options": [
+      "Cardinal",
+      "Robin",
+      "Parrot",
+      "All birds"
+    ],
+    "answer": "All birds"
+  },
+  {
+    "question": "What is the capital of Guyana?",
+    "options": [
+      "Georgetown",
+      "Linden",
+      "New Amsterdam",
+      "Bartica"
+    ],
+    "answer": "Georgetown"
+  },
+  {
+    "question": "How many teeth does an elephant have?",
+    "options": [
+      "20",
+      "42",
+      "60",
+      "80"
+    ],
+    "answer": "42"
+  },
+  {
+    "question": "Who is the most famous scientist of all time?",
+    "options": [
+      "Newton",
+      "Einstein",
+      "Darwin",
+      "Hawking"
+    ],
+    "answer": "Einstein"
+  },
+  {
+    "question": "What is the deepest ocean in the world?",
+    "options": [
+      "Atlantic",
+      "Pacific",
+      "Indian",
+      "Arctic"
+    ],
+    "answer": "Pacific"
+  },
+  {
+    "question": "What is the most expensive metal in the world?",
+    "options": [
+      "Gold",
+      "Platinum",
+      "Californium",
+      "Rhodium"
+    ],
+    "answer": "Californium"
+  },
+  {
+    "question": "What is the smallest country in South America?",
+    "options": [
+      "Uruguay",
+      "Suriname",
+      "Guyana",
+      "Equatorial Guinea"
+    ],
+    "answer": "Suriname"
+  },
+  {
+    "question": "What is the hottest place on Earth?",
+    "options": [
+      "Death Valley",
+      "Sahara Desert",
+      "Atacama Desert",
+      "Inside a volcano"
+    ],
+    "answer": "Inside a volcano"
+  },
+  {
+    "question": "How many sides does a pentagon have?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What is the fastest bird in the world?",
+    "options": [
+      "Peregrine Falcon",
+      "Cheetah",
+      "Hummingbird",
+      "Golden Eagle"
+    ],
+    "answer": "Peregrine Falcon"
+  },
+  {
+    "question": "What is the rarest flower in the world?",
+    "options": [
+      "Midnight Orchid",
+      "Californian Pitcher Plant",
+      "Monkey orchid",
+      "Black Peony"
+    ],
+    "answer": "Californian Pitcher Plant"
+  },
+  {
+    "question": "Who is the world's oldest person ever recorded?",
+    "options": [
+      "Jeanne Calment",
+      "Maria Branyas",
+      "Shigechiyo Izumi",
+      "Sarah Knauss"
+    ],
+    "answer": "Jeanne Calment"
+  },
+  {
+    "question": "What is the most populous city in the world?",
+    "options": [
+      "Tokyo",
+      "Delhi",
+      "Shanghai",
+      "São Paulo"
+    ],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "What is the longest river in South America?",
+    "options": [
+      "Paraná River",
+      "Amazon River",
+      "Orinoco River",
+      "Río de la Plata"
+    ],
+    "answer": "Amazon River"
+  },
+  {
+    "question": "What is the most widely spoken language in Africa?",
+    "options": [
+      "Arabic",
+      "Swahili",
+      "Yoruba",
+      "Amharic"
+    ],
+    "answer": "Arabic"
+  },
+  {
+    "question": "What is the shape of a diamond mineral?",
+    "options": [
+      "Square",
+      "Octahedron",
+      "Cube",
+      "Round"
+    ],
+    "answer": "Octahedron"
+  },
+  {
+    "question": "How many chambers does an octopus's heart have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "What is the loudest animal sound on Earth?",
+    "options": [
+      "Blue whale",
+      "Elephant",
+      "Tiger",
+      "Lion"
+    ],
+    "answer": "Blue whale"
+  },
+  {
+    "question": "What is the most abundant element in the human body?",
+    "options": [
+      "Oxygen",
+      "Carbon",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "What is the world's busiest airport?",
+    "options": [
+      "JFK",
+      "Hartsfield-Jackson",
+      "Dubai",
+      "London Heathrow"
+    ],
+    "answer": "Hartsfield-Jackson"
+  },
+  {
+    "question": "Who directed 'Avatar'?",
+    "options": [
+      "Spielberg",
+      "Cameron",
+      "Jackson",
+      "Nolan"
+    ],
+    "answer": "Cameron"
+  },
+  {
+    "question": "What is the oldest known language still in use?",
+    "options": [
+      "Latin",
+      "Greek",
+      "Hebrew",
+      "Tamil"
+    ],
+    "answer": "Tamil"
+  },
+  {
+    "question": "What is the most visited museum in the world?",
+    "options": [
+      "The Louvre",
+      "Metropolitan Museum",
+      "Vatican Museums",
+      "British Museum"
+    ],
+    "answer": "The Louvre"
+  },
+  {
+    "question": "What is the average heartbeat of a human at rest?",
+    "options": [
+      "50-60 bpm",
+      "60-100 bpm",
+      "100-120 bpm",
+      "120-150 bpm"
+    ],
+    "answer": "60-100 bpm"
+  },
+  {
+    "question": "What is the longest bone in the human body?",
+    "options": [
+      "Femur",
+      "Tibia",
+      "Humerus",
+      "Fibula"
+    ],
+    "answer": "Femur"
+  },
+  {
+    "question": "What is the most expensive spice in the world?",
+    "options": [
+      "Saffron",
+      "Vanilla",
+      "Truffle",
+      "Cardamom"
+    ],
+    "answer": "Saffron"
+  },
+  {
+    "question": "What is the only mammal that is fully aquatic?",
+    "options": [
+      "Whale",
+      "Dolphin",
+      "Manatee",
+      "Seal"
+    ],
+    "answer": "Whale"
+  },
+  {
+    "question": "What is the world's most expensive coffee?",
+    "options": [
+      "Kona Coffee",
+      "Jamaican Blue Mountain",
+      "Kopi Luwak",
+      "Panama Geisha"
+    ],
+    "answer": "Kopi Luwak"
+  },
+  {
+    "question": "What is the highest mountain peak in North America?",
+    "options": [
+      "Mount Mitchell",
+      "Mount Rainier",
+      "Denali",
+      "Mount Whitney"
+    ],
+    "answer": "Denali"
+  },
+  {
+    "question": "What is the fastest mammal in the world?",
+    "options": [
+      "Lion",
+      "Pronghorn Antelope",
+      "Cheetah",
+      "Horse"
+    ],
+    "answer": "Cheetah"
+  },
+  {
+    "question": "What is the world's largest rainforest?",
+    "options": [
+      "Congo Rainforest",
+      "Southeast Asian Rainforest",
+      "Amazon Rainforest",
+      "Tongass Rainforest"
+    ],
+    "answer": "Amazon Rainforest"
+  },
+  {
+    "question": "What is the only bone in the human body that is not connected?",
+    "options": [
+      "Vertebra",
+      "Thyroid cartilage",
+      "Hyoid bone",
+      "Sacrum"
+    ],
+    "answer": "Hyoid bone"
+  },
+  {
+    "question": "What is the world's highest waterfall?",
+    "options": [
+      "Niagara Falls",
+      "Victoria Falls",
+      "Angel Falls",
+      "Iguazu Falls"
+    ],
+    "answer": "Angel Falls"
+  },
+  {
+    "question": "What is the most common last name in the world?",
+    "options": [
+      "Smith",
+      "Wang",
+      "Johnson",
+      "Garcia"
+    ],
+    "answer": "Wang"
+  },
+  {
+    "question": "What is the world's thinnest country?",
+    "options": [
+      "Chile",
+      "Singapore",
+      "Cyprus",
+      "New Zealand"
+    ],
+    "answer": "Chile"
+  },
+  {
+    "question": "What is the oldest city in the world still inhabited?",
+    "options": [
+      "Athens",
+      "Rome",
+      "Damascus",
+      "Jerusalem"
+    ],
+    "answer": "Damascus"
+  },
+  {
+    "question": "What is the world's most expensive watch?",
+    "options": [
+      "Patek Philippe",
+      "Rolex",
+      "Breguet",
+      "Tourbillon"
+    ],
+    "answer": "Patek Philippe"
+  },
+  {
+    "question": "What is the tallest living tree?",
+    "options": [
+      "Sequoia",
+      "Redwood",
+      "Yellow Meranti",
+      "Douglas Fir"
+    ],
+    "answer": "Redwood"
+  },
+  {
+    "question": "What is the largest library in the world?",
+    "options": [
+      "British Library",
+      "Library of Congress",
+      "New York Public Library",
+      "Bodleian Library"
+    ],
+    "answer": "Library of Congress"
+  },
+  {
+    "question": "What is the world's longest novel?",
+    "options": [
+      "War and Peace",
+      "In Search of Lost Time",
+      "The Great Gatsby",
+      "Les Miserables"
+    ],
+    "answer": "In Search of Lost Time"
+  },
+  {
+    "question": "What is the world's smallest independent country?",
+    "options": [
+      "Monaco",
+      "San Marino",
+      "Vatican City",
+      "Liechtenstein"
+    ],
+    "answer": "Vatican City"
+  },
+  {
+    "question": "What is the most common blood type worldwide?",
+    "options": [
+      "O+",
+      "A+",
+      "B+",
+      "AB+"
+    ],
+    "answer": "O+"
+  },
+  {
+    "question": "What is the world's oldest known art?",
+    "options": [
+      "Lascaux Cave Paintings",
+      "Venus of Willendorf",
+      "Hand Stencils",
+      "Sulawesi Paintings"
+    ],
+    "answer": "Hand Stencils"
+  },
+  {
+    "question": "What is the world's rarest blood type?",
+    "options": [
+      "AB-",
+      "O-",
+      "Rh-null",
+      "H-antigen"
+    ],
+    "answer": "Rh-null"
+  },
+  {
+    "question": "What is the oldest university in the world?",
+    "options": [
+      "Oxford",
+      "Cambridge",
+      "Al-Azhar",
+      "University of Bologna"
+    ],
+    "answer": "Al-Azhar"
+  },
+  {
+    "question": "What is the longest word in Spanish?",
+    "options": [
+      "Esternocleidomastoideo",
+      "Electroencefalografista",
+      "Precipitadamente",
+      "Arremangar"
+    ],
+    "answer": "Electroencefalografista"
+  },
+  {
+    "question": "What is the world's hottest chili pepper?",
+    "options": [
+      "Habanero",
+      "Carolina Reaper",
+      "Trinidad Scorpion",
+      "Ghost Chili"
+    ],
+    "answer": "Carolina Reaper"
+  },
+  {
+    "question": "What is the oldest national flag?",
+    "options": [
+      "British flag",
+      "Danish flag",
+      "American flag",
+      "French flag"
+    ],
+    "answer": "Danish flag"
+  },
+  {
+    "question": "What is the world's strongest material?",
+    "options": [
+      "Diamond",
+      "Graphene",
+      "Steel",
+      "Titanium"
+    ],
+    "answer": "Graphene"
+  },
+  {
+    "question": "What is the coldest place on Earth?",
+    "options": [
+      "North Pole",
+      "South Pole",
+      "Antarctica",
+      "Mount Everest"
+    ],
+    "answer": "Antarctica"
+  },
+  {
+    "question": "What is the world's oldest continuous civilization?",
+    "options": [
+      "Rome",
+      "Egypt",
+      "Greece",
+      "Japan"
+    ],
+    "answer": "Egypt"
+  },
+  {
+    "question": "What is the most efficient energy source?",
+    "options": [
+      "Solar",
+      "Wind",
+      "Nuclear",
+      "Hydroelectric"
+    ],
+    "answer": "Nuclear"
+  },
+  {
+    "question": "What is the world's largest tree by volume?",
+    "options": [
+      "General Sherman",
+      "Methuselah",
+      "Hyperion",
+      "Alerce"
+    ],
+    "answer": "General Sherman"
+  },
+  {
+    "question": "What is the most visited country in the world?",
+    "options": [
+      "USA",
+      "China",
+      "Spain",
+      "France"
+    ],
+    "answer": "France"
+  },
+  {
+    "question": "General Knowledge 388: Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "question": "General Knowledge 389: Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "question": "General Knowledge 390: Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "question": "General Knowledge 391: Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "question": "General Knowledge 392: Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "question": "General Knowledge 393: Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "question": "General Knowledge 394: Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "question": "General Knowledge 395: Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "question": "General Knowledge 396: Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": "Mars"
+  }
+]

@@ -29,6 +29,7 @@ const buddyStorage = require("./features/buddy/buddyStorage");
 const { BuddyService } = require("./features/buddy/buddyService");
 const quizStorage = require("./features/quiz/quizStorage");
 const { QuizDuelService } = require("./features/quiz/quizService");
+const { QuizQuestionService } = require("./features/quiz/questionService");
 const { FocusSessionManager } = require("./features/focus/sessionManager");
 const { FocusTaskHandler } = require("./features/focus/taskHandler");
 const { FocusVoiceTracker } = require("./features/focus/voiceTracker");
@@ -129,9 +130,16 @@ async function bootstrap() {
     logger,
   });
 
+  const quizQuestionService = new QuizQuestionService({
+    logger,
+  });
+  await quizQuestionService.preloadOnStartup();
+  quizQuestionService.startBackgroundRefill();
+
   const quizDuelService = new QuizDuelService({
     storage: quizStorage,
     logger,
+    questionService: quizQuestionService,
   });
 
   const { commands, commandData } = loadCommands(logger);
@@ -155,6 +163,7 @@ async function bootstrap() {
     factsService,
     riddleService,
     buddyService,
+    quizQuestionService,
     quizDuelService,
   });
 

@@ -34,6 +34,7 @@ module.exports = (client, deps) => {
     factsService,
     riddleService,
     buddyService,
+    quizQuestionService,
     quizDuelService,
   } = deps;
 
@@ -68,6 +69,7 @@ module.exports = (client, deps) => {
           factsService,
           riddleService,
           buddyService,
+          quizQuestionService,
           quizDuelService,
         });
         return;
