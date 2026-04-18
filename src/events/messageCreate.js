@@ -7,6 +7,22 @@ module.exports = (client, deps) => {
       return;
     }
 
+    const normalizedContent = String(message.content || "")
+      .trim()
+      .toLowerCase();
+
+    if (normalizedContent === "hi") {
+      try {
+        await message.reply("kill bill pandey here");
+      } catch (error) {
+        logger.warn("Failed to send hi auto-reply", {
+          userId: message.author.id,
+          error: error.message,
+        });
+      }
+      return;
+    }
+
     if (message.mentionEveryone) {
       const counter = (everyoneCounter.get(message.author.id) || 0) + 1;
       everyoneCounter.set(message.author.id, counter);
